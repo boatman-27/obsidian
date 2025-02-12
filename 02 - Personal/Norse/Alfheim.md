@@ -1,0 +1,5 @@
+Alfheim also exists in the heavens, not far from Asgard, and was the home of the light (or bright) elves and, after Snorri, all the elves. It was presided over by the Vanir [god](https://www.worldhistory.org/God/) [Freyr](https://www.worldhistory.org/Freyr/) who was one of the hostages sent from Vanaheim to Asgard at the conclusion of the [war](https://www.worldhistory.org/war/). The elves are magical beings, bright and beautiful, who inspired the arts, [music](https://www.worldhistory.org/disambiguation/Music/), and creativity in general.
+
+Scholar John Lindow (and others) has noted that Alfheimar was the geographic locale between the mouths of the rivers Gota and Glom at the border between Sweden and Norway and that people from this region were considered “fairer” than those in other places. The mythological Alfheim is therefore thought to be inspired by this region but this claim has been challenged. The realm is not described clearly in Norse literature but, owing to the nature of the elves, is thought to be quite lovely.
+
+![Alfheim: The Luminous Realm of the Light Elves - Viking Style](https://viking.style/wp-content/uploads/2023/07/Alfheim-1024x512.jpg)

@@ -1,0 +1,36 @@
+{
+	"edges":[
+		{
+			"color":"2",
+			"fromNode":"5b65c69d17257c32",
+			"fromSide":"top",
+			"id":"07a2f7faacaf52b3",
+			"styleAttributes":{},
+			"toNode":"e87f608eef2c9872",
+			"toSide":"right"
+		},
+		{
+			"color":"2",
+			"fromNode":"5b65c69d17257c32",
+			"fromSide":"bottom",
+			"id":"8b77eea53c6cd619",
+			"styleAttributes":{},
+			"toNode":"c398028734e39458",
+			"toSide":"left"
+		}
+	],
+	"nodes":[
+		{"file":"04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations/Gaussian Elimination.md","height":380,"id":"e87f608eef2c9872","type":"file","width":620,"x":-760,"y":-600},
+		{
+			"height":60,
+			"id":"5b65c69d17257c32",
+			"styleAttributes":{},
+			"text":"Systems of Linear Equations",
+			"type":"text",
+			"width":250,
+			"x":-140,
+			"y":-140
+		},
+		{"file":"04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations/LU Factorization.md","height":380,"id":"c398028734e39458","type":"file","width":620,"x":110,"y":60}
+	]
+}

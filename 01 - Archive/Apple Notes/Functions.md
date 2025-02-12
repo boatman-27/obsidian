@@ -1,0 +1,1 @@
+Butterfly: 	r\ =e^{\sin\theta}\ -\ 2\cos\left(4\theta\right)\ +\ \left(\sin\left(\frac{\left(2\theta-\pi\right)}{24}\right)\right)^{5}

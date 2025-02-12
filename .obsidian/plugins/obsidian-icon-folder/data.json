@@ -1,0 +1,138 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "5️⃣",
+      "LiTerminal",
+      "LiScanQrCode",
+      "LiCalendarDays",
+      "LiPictureInPicture",
+      "LiQuestionMarkGlyph",
+      "4️⃣",
+      "LiListTodo"
+    ],
+    "recentlyUsedIconsSize": 8,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "01 - Archive": {
+    "iconName": "LiArchive",
+    "iconColor": "#51e1e9"
+  },
+  "02 - Personal": {
+    "iconName": "LiMeh",
+    "iconColor": "#54b6f8"
+  },
+  "02 - Personal/Bank Transfers.md": {
+    "iconName": "LiBanknote",
+    "iconColor": "#e67e05"
+  },
+  "02 - Personal/GYM.md": {
+    "iconName": "LiWeight",
+    "iconColor": "#e67e05"
+  },
+  "02 - Personal/Thesis Project Step 2 🤦🏻.md": {
+    "iconName": "LiFish",
+    "iconColor": "#e67e05"
+  },
+  "02 - Personal/Drawing With Turtle.md": {
+    "iconName": "LiTurtle",
+    "iconColor": "#106105"
+  },
+  "02 - Personal/Words.md": {
+    "iconName": "LiWholeWord",
+    "iconColor": "#e67e05"
+  },
+  "02 - Personal/Norse": "🌲",
+  "02 - Personal/Quiz Sender.md": {
+    "iconName": "LiQuestionMarkGlyph",
+    "iconColor": "#e67e05"
+  },
+  "02 - Personal/Norse/ODIN.md": "👁",
+  "03 - Projects": {
+    "iconName": "LiBrain",
+    "iconColor": "#437cf3"
+  },
+  "03 - Projects/TaskQuest": {
+    "iconName": "LiListTodo",
+    "iconColor": "#e67e05"
+  },
+  "03 - Projects/Wordle": {
+    "iconName": "LiWholeWord",
+    "iconColor": "#e67e05"
+  },
+  "04 - Resources": {
+    "iconName": "LiStackVertical",
+    "iconColor": "#9446f8"
+  },
+  "04 - Resources/01_LeetCode": {
+    "iconName": "LiFileQuestion",
+    "iconColor": "#9446f8"
+  },
+  "04 - Resources/TA": "👨‍🏫",
+  "04 - Resources/DSA": {
+    "iconName": "LiConstruction",
+    "iconColor": "#8c46f8"
+  },
+  "04 - Resources/TA/Advanced Calculus": {
+    "iconName": "LiAreaChart",
+    "iconColor": "#e67e05"
+  },
+  "04 - Resources/TA/Numerical Maths": "🔢",
+  "04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations": "3️⃣",
+  "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation": "1️⃣",
+  "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations": "2️⃣",
+  "04 - Resources/TA/Numerical Maths/PDFs": "📙",
+  "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation": "4️⃣",
+  "05 - Useful Snippets": {
+    "iconName": "LiCodeSquare",
+    "iconColor": "#c952ed"
+  },
+  "05 - Useful Snippets/CSS": {
+    "iconName": "LiEye",
+    "iconColor": "#c952ed"
+  },
+  "05 - Useful Snippets/React Components": {
+    "iconName": "LiComponent",
+    "iconColor": "#c952ed"
+  },
+  "05 - Useful Snippets/Server Side": {
+    "iconName": "LiServer",
+    "iconColor": "#c952ed"
+  },
+  "05 - Useful Snippets/Terminal Shenanigans.md": "😆",
+  "06 - Assets": {
+    "iconName": "LiPictureInPicture",
+    "iconColor": "#e3365e"
+  },
+  "99 - Meta/Templates": {
+    "iconName": "LiLayoutTemplate",
+    "iconColor": "#515768"
+  },
+  "99 - Meta": "LiScanQrCode",
+  "07 - Journal": "LiCalendarDays",
+  "08 - configs": "LiTerminal",
+  "04 - Resources/TA/Numerical Maths/Chapter 5_Numerical Differentiation & Integration": "5️⃣"
+}

@@ -1,0 +1,21 @@
+{
+  "accentColor": "",
+  "cssTheme": "Ebullientworks",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "translucency": true,
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "Dashboard Read Line Length",
+    "DashboardPlusPlus dashboard",
+    "Japanese Font Support",
+    "Runescape CSS from Obsidian Vault Template",
+    "Colored Sidebar Items",
+    "CyanVoxel General Tweaks",
+    "Daily Note Themes"
+  ],
+  "showViewHeader": true,
+  "showRibbon": true,
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font"
+}

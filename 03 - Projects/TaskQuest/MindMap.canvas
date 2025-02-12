@@ -1,0 +1,517 @@
+{
+  "edges": [
+    {
+      "color": "2",
+      "fromNode": "ad1138221d806401",
+      "fromSide": "top",
+      "id": "d9a739428bc10bd7",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "fefd51bd45295710",
+      "toSide": "bottom"
+    },
+    {
+      "color": "2",
+      "fromNode": "ad1138221d806401",
+      "fromSide": "left",
+      "id": "5377df1485f15f9a",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "1c07640c6dcdd072",
+      "toSide": "right"
+    },
+    {
+      "color": "2",
+      "fromNode": "ad1138221d806401",
+      "fromSide": "right",
+      "id": "7aaafbe438a8fe0d",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "d6c815b42b2ac284",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "ad1138221d806401",
+      "fromSide": "bottom",
+      "id": "d186a73e9e3521ba",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "407cf1d60e9dbe52",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "ad1138221d806401",
+      "fromSide": "bottom",
+      "id": "c5fefa59d9bb09b8",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "9b3fbd6a60d75c3a",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "1c07640c6dcdd072",
+      "fromSide": "left",
+      "id": "ccc9f68ca36cbe6b",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "970c266ffa3fd4f2",
+      "toSide": "right"
+    },
+    {
+      "color": "1",
+      "fromNode": "1c07640c6dcdd072",
+      "fromSide": "bottom",
+      "id": "28a1a94da47773fb",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "35af09b455adc7bf",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "970c266ffa3fd4f2",
+      "fromSide": "left",
+      "id": "a05ea8b0105183ec",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "ce095fc7568a7905",
+      "toSide": "bottom"
+    },
+    {
+      "color": "4",
+      "fromNode": "970c266ffa3fd4f2",
+      "fromSide": "left",
+      "id": "7ac517afea8d44eb",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "ee582d32e0afb4b6",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "fefd51bd45295710",
+      "fromSide": "top",
+      "id": "b9bb3bc337257156",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "4dcb0a681830bb36",
+      "toSide": "bottom"
+    },
+    {
+      "color": "4",
+      "fromNode": "fefd51bd45295710",
+      "fromSide": "top",
+      "id": "21f4a693cbe2e349",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "3dc0635fc637a6f2",
+      "toSide": "bottom"
+    },
+    {
+      "color": "2",
+      "fromNode": "d6c815b42b2ac284",
+      "fromSide": "right",
+      "id": "32809d9db49fb3f9",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "cc9868791255f5e4",
+      "toSide": "bottom"
+    },
+    {
+      "color": "2",
+      "fromNode": "d6c815b42b2ac284",
+      "fromSide": "right",
+      "id": "15ce5d27b9d1f444",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "75464bd3d83d1d9c",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "cc9868791255f5e4",
+      "fromSide": "right",
+      "id": "d9698092dd0401b4",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "c49b269a189c90ca",
+      "toSide": "bottom"
+    },
+    {
+      "color": "2",
+      "fromNode": "cc9868791255f5e4",
+      "fromSide": "top",
+      "id": "448b19930a4b013b",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "34baa1d4fb0e055d",
+      "toSide": "bottom"
+    },
+    {
+      "color": "2",
+      "fromNode": "34baa1d4fb0e055d",
+      "fromSide": "top",
+      "id": "4342dd8efac2f74b",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "4dcb0a681830bb36",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "9b3fbd6a60d75c3a",
+      "fromSide": "bottom",
+      "id": "cc2a9a49c2c480de",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "72227b8426a334fc",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "9b3fbd6a60d75c3a",
+      "fromSide": "bottom",
+      "id": "a7c6a05dd702e1d0",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "f98abd8de3de32e3",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "407cf1d60e9dbe52",
+      "fromSide": "left",
+      "id": "b4c56d32c75e8d1f",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "e747dc670c754b71",
+      "toSide": "bottom"
+    },
+    {
+      "color": "2",
+      "fromNode": "407cf1d60e9dbe52",
+      "fromSide": "left",
+      "id": "bae84991aa158610",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "ea655799e6d25964",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "407cf1d60e9dbe52",
+      "fromSide": "bottom",
+      "id": "8d0f4469f4a79456",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "e917517ffb166c5f",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "c49b269a189c90ca",
+      "fromSide": "top",
+      "id": "537da5238e540d16",
+      "styleAttributes": {
+        "arrow": "triangle-outline"
+      },
+      "toNode": "34baa1d4fb0e055d",
+      "toSide": "right"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "ad1138221d806401",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "<div style=\"text-align: center; color: orange; font-size: 20px; font-family: Arial;\">\n  TaskQuest\n</div>\n",
+      "type": "text",
+      "width": 280,
+      "x": -180,
+      "y": -60
+    },
+    {
+      "height": 60,
+      "id": "d6c815b42b2ac284",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "text": "<div style=\"text-align: center;\">Progress</div>\n",
+      "type": "text",
+      "width": 260,
+      "x": 340,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "1c07640c6dcdd072",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "text": "<div style=\"text-align: center;\">Tasks</div>\n",
+      "type": "text",
+      "width": 260,
+      "x": -680,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "fefd51bd45295710",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "text": "<div style=\"text-align: center;\">Rewards</div>\n",
+      "type": "text",
+      "width": 260,
+      "x": -170,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "407cf1d60e9dbe52",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Socials",
+      "type": "text",
+      "width": 260,
+      "x": -680,
+      "y": 220
+    },
+    {
+      "height": 60,
+      "id": "9b3fbd6a60d75c3a",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Customization",
+      "type": "text",
+      "width": 260,
+      "x": 340,
+      "y": 220
+    },
+    {
+      "height": 60,
+      "id": "970c266ffa3fd4f2",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Create Tasks",
+      "type": "text",
+      "width": 260,
+      "x": -1100,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "35af09b455adc7bf",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Delete Tasks",
+      "type": "text",
+      "width": 260,
+      "x": -860,
+      "y": -120
+    },
+    {
+      "height": 60,
+      "id": "ce095fc7568a7905",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Set Deadline",
+      "type": "text",
+      "width": 260,
+      "x": -1480,
+      "y": -420
+    },
+    {
+      "height": 60,
+      "id": "ee582d32e0afb4b6",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Set Difficulty",
+      "type": "text",
+      "width": 260,
+      "x": -1480,
+      "y": -220
+    },
+    {
+      "height": 60,
+      "id": "4dcb0a681830bb36",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Generic Shop",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": -580
+    },
+    {
+      "height": 60,
+      "id": "3dc0635fc637a6f2",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Custom Rewards",
+      "type": "text",
+      "width": 260,
+      "x": 80,
+      "y": -580
+    },
+    {
+      "height": 60,
+      "id": "cc9868791255f5e4",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "XP",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": -420
+    },
+    {
+      "height": 60,
+      "id": "75464bd3d83d1d9c",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Streaks ",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": -190
+    },
+    {
+      "height": 60,
+      "id": "c49b269a189c90ca",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "levels",
+      "type": "text",
+      "width": 260,
+      "x": 980,
+      "y": -540
+    },
+    {
+      "height": 60,
+      "id": "34baa1d4fb0e055d",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Unlocks",
+      "type": "text",
+      "width": 260,
+      "x": 570,
+      "y": -580
+    },
+    {
+      "height": 60,
+      "id": "72227b8426a334fc",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Themes\n",
+      "type": "text",
+      "width": 260,
+      "x": 80,
+      "y": 440
+    },
+    {
+      "height": 60,
+      "id": "f98abd8de3de32e3",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Avatars\n",
+      "type": "text",
+      "width": 260,
+      "x": 600,
+      "y": 440
+    },
+    {
+      "height": 60,
+      "id": "ea655799e6d25964",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Friends",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 400
+    },
+    {
+      "height": 60,
+      "id": "e917517ffb166c5f",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Leaderboard",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 400
+    },
+    {
+      "height": 60,
+      "id": "e747dc670c754b71",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Custom Challenges",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 80
+    }
+  ]
+}
