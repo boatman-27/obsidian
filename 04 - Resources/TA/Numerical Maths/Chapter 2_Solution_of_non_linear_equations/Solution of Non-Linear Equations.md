@@ -26,8 +26,8 @@ Numerical methods provide iterative approaches to approximate solutions of non-l
 - The computational resources available.
 
 In the following sections, we will explore three widely-used methods for solving non-linear equations:
-1. **Bisection Method**: A simple, robust method based on interval halving. [[Bisection Method]]
-2. **Newton's Method**: A fast, derivative-based approach. [[Newton's Method]]
-3. **Secant Method**: An approximation to Newton's method that avoids explicit derivative computation. [[Secant Method]]
+1. **[[Bisection Method]]**: A simple, robust method based on interval halving.
+2. **[[Newton's Method]]**: A fast, derivative-based approach. 
+3. **[[Secant Method]]**: An approximation to Newton's method that avoids explicit derivative computation.
 
 Each method has its advantages, limitations, and specific conditions for applicability.

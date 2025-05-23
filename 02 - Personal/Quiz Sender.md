@@ -68,10 +68,6 @@ names = [
 	'Mariam', 'Khalid', 'Wael', 'Jinan', 'Navid'
 ]
 
-  
-  
-  
-
 # List of paths to the pdfs
 
 pdf_files = [

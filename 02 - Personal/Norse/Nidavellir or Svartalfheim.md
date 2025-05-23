@@ -1,5 +1,0 @@
-The realm of Nidavellier/Svartalfheim was below Midgard, deep in the earth, and the home of the dwarves who toiled there at their forges. It is a dark, smoky, place lit only by the fires from the forge and the torches on the walls.
-
-The dwarves were associated with craftsmanship and magic. They created Thor's hammer Mjolnir and Odin's spear and well as the god Frey's magic ship which can be folded up and carried in his pocket. They are also responsible for the Mead of Poetry which Odin steals from the giants and gives to the gods who then inspire poets, through drink, to create their verse.
-
-![Exploring the Shadows: Svartalfheim and Nidavellir, the Dark Elves' Domain  - Viking Style](https://viking.style/wp-content/uploads/2024/04/galileus2505_the_realm_of_the_dark_elves_Svartalfheim_in_Norse__2f539cdc-cebc-4d01-8996-a37b301d9e60.jpg)

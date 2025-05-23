@@ -8,18 +8,25 @@ tags:
 
 ---
 ### 📅 Daily Questions
-##### 🌜 Last night, after work, I...
 - 
 
-##### 🙌 One thing I'm excited about right now is...
-- 
-
-##### 🚀 One thing I plan to accomplish today is...
-- [ ] 
-
-##### 👎 One thing I'm struggling with today is...
-- 
 
 ---
+## 📝 Summary
+- 
 
+## ✅ Tasks
+- [ ] 
 
+## 📌 Notes
+- 
+
+## 🔗 Links & References
+- 
+
+## 🗂 Related Notes
+```dataview
+table file.ctime as "Created"
+from ""
+where date(ctime) = date(today)
+sort ctime asc

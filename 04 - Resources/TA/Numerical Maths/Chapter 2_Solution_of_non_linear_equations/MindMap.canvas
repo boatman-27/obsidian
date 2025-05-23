@@ -1,50 +1,75 @@
 {
-	"edges":[
-		{"color":"2","fromNode":"f9013c4bbbd31c02","fromSide":"top","id":"8dafadb7fbff2c1a","toNode":"e613761ebfa6c3ea","toSide":"right"},
-		{"color":"2","fromNode":"f9013c4bbbd31c02","fromSide":"bottom","id":"a700aec2d3e747c3","toNode":"3a5ad09a416ade3c","toSide":"right"},
-		{"color":"2","fromNode":"f9013c4bbbd31c02","fromSide":"right","id":"2c2316a46c1afdc4","toNode":"8e1d39b278f1b4ee","toSide":"left"}
-	],
-	"nodes":[
-		{
-			"file":"04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Bisection Method.md",
-			"height":380,
-			"id":"e613761ebfa6c3ea",
-			"styleAttributes":{},
-			"type":"file",
-			"width":780,
-			"x":-940,
-			"y":-520
-		},
-		{
-			"color":"1",
-			"height":60,
-			"id":"f9013c4bbbd31c02",
-			"styleAttributes":{},
-			"text":"Chapter 2: Solution of Non Linear Equations",
-			"type":"text",
-			"width":250,
-			"x":-40,
-			"y":-60
-		},
-		{
-			"file":"04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Newton's Method.md",
-			"height":400,
-			"id":"3a5ad09a416ade3c",
-			"styleAttributes":{},
-			"type":"file",
-			"width":780,
-			"x":-940,
-			"y":40
-		},
-		{
-			"file":"04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Secant Method.md",
-			"height":373,
-			"id":"8e1d39b278f1b4ee",
-			"styleAttributes":{},
-			"type":"file",
-			"width":829,
-			"x":440,
-			"y":-460
-		}
-	]
+  "edges": [
+    {
+      "color": "2",
+      "fromNode": "f9013c4bbbd31c02",
+      "fromSide": "top",
+      "id": "8dafadb7fbff2c1a",
+      "toNode": "e613761ebfa6c3ea",
+      "toSide": "right"
+    },
+    {
+      "color": "2",
+      "fromNode": "f9013c4bbbd31c02",
+      "fromSide": "bottom",
+      "id": "a700aec2d3e747c3",
+      "toNode": "3a5ad09a416ade3c",
+      "toSide": "right"
+    },
+    {
+      "color": "2",
+      "fromNode": "f9013c4bbbd31c02",
+      "fromSide": "right",
+      "id": "2c2316a46c1afdc4",
+      "toNode": "8e1d39b278f1b4ee",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Bisection Method.md",
+      "height": 380,
+      "id": "e613761ebfa6c3ea",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 780,
+      "x": -940,
+      "y": -520
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "f9013c4bbbd31c02",
+      "styleAttributes": {
+      },
+      "text": "Chapter 2: Solution of Non Linear Equations",
+      "type": "text",
+      "width": 250,
+      "x": -40,
+      "y": -60
+    },
+    {
+      "file": "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Newton's Method.md",
+      "height": 400,
+      "id": "3a5ad09a416ade3c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 780,
+      "x": -940,
+      "y": 40
+    },
+    {
+      "file": "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Secant Method.md",
+      "height": 373,
+      "id": "8e1d39b278f1b4ee",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 829,
+      "x": 440,
+      "y": -460
+    }
+  ]
 }

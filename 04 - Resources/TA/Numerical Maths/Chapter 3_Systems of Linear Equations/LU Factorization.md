@@ -1,9 +1,7 @@
-LU factorization (or decomposition) is a method in numerical linear algebra for decomposing a square matrix \( A \) into the product of two matrices:
-
+LU factorization (or decomposition) is a method in numerical linear algebra for decomposing a square matrix $A$ into the product of two matrices:
 $$
 A = LU,
 $$
-
 where:
 - $L$ is a lower triangular matrix with ones on the diagonal.
 - $U$ is an upper triangular matrix.
@@ -14,10 +12,8 @@ LU factorization is widely used to solve systems of linear equations, compute de
 
 ## Steps for LU Factorization
 To compute the LU factorization of a square matrix $A$, follow these steps:
-
 1. Start with $A$ and initialize $L$ as the identity matrix and $U$ as $A$.
 2. Use Gaussian elimination to reduce $A$ to an upper triangular matrix, storing the multipliers in $L$.
-
 ### Example Matrix
 Consider a matrix $A$:
 $$
@@ -27,15 +23,12 @@ A = \begin{bmatrix}
 6 & 18 & 5
 \end{bmatrix}.
 $$
-
 ---
-
 ### Step 1: Forward Elimination
-1. Divide the first row by the pivot element $a_{11}$:
+3. Divide the first row by the pivot element $a_{11}$:
    - First row remains unchanged: $\begin{bmatrix} 2 & 3 & 1 \end{bmatrix}$.
    - Eliminate below the pivot in the first column:
      $L_{21} = \frac{4}{2}, \quad L_{31} = \frac{6}{2}.$
-
    Update the second and third rows:
    $$
    \begin{aligned}
@@ -44,7 +37,7 @@ $$
    \end{aligned}
    $$
 
-2. Continue to the next pivot ($U_{22}$) and eliminate below:
+4. Continue to the next pivot ($U_{22}$) and eliminate below:
    - $L_{32} = \frac{12}{1}$.
    - Subtract $ L_{32} \times R_2'$ from $R_3'$:
      $R_3'' = \begin{bmatrix} 0 & 0 & -10 \end{bmatrix}$.
@@ -66,8 +59,8 @@ $$
 
 ## Solving Systems of Equations
 Given $A\mathbf{x} = \mathbf{b}$, solve using LU factorization:
-1. Compute $L \mathbf{y} = \mathbf{b}$ using forward substitution.
-2. Compute $U \mathbf{x} = \mathbf{y}$ using back substitution.
+5. Compute $L \mathbf{y} = \mathbf{b}$ using forward substitution.
+6. Compute $U \mathbf{x} = \mathbf{y}$ using back substitution.
 
 ### Example
 Solve $A\mathbf{x} = \mathbf{b}$:
@@ -83,8 +76,8 @@ A = \begin{bmatrix}
 \end{bmatrix}.
 $$
 
-1. Perform LU factorization as above.
-2. Solve $L \mathbf{y} = \mathbf{b}$:
+7. Perform LU factorization as above.
+8. Solve $L \mathbf{y} = \mathbf{b}$:
    $$
    \begin{aligned}
    y_1 &= b_1 = 5, \\
@@ -95,7 +88,7 @@ $$
 
    $\mathbf{y} = \begin{bmatrix} 5 \\ 0 \\ 0 \end{bmatrix}$.
 
-3. Solve $U \mathbf{x} = \mathbf{y}$:
+9. Solve $U \mathbf{x} = \mathbf{y}$:
    $$
    \begin{aligned}
    x_3 &= \frac{y_3}{U_{33}} = \frac{0}{-10} = 0, \\
@@ -109,16 +102,16 @@ $$
 ---
 
 ## Applications of LU Factorization
-1. **Efficient Solving**: Solve multiple systems $A \mathbf{x} = \mathbf{b}$ with different $\mathbf{b}$ values.
-2. **Determinant Calculation**: $\det(A) = \prod_{i=1}^n U_{ii}$.
-3. **Matrix Inversion**: Compute $A^{-1}$ by solving $A \mathbf{x}_i = \mathbf{e}_i$ for each column of the identity matrix $\mathbf{I}$.
+10. **Efficient Solving**: Solve multiple systems $A \mathbf{x} = \mathbf{b}$ with different $\mathbf{b}$ values.
+11. **Determinant Calculation**: $\det(A) = \prod_{i=1}^n U_{ii}$.
+12. **Matrix Inversion**: Compute $A^{-1}$ by solving $A \mathbf{x}_i = \mathbf{e}_i$ for each column of the identity matrix $\mathbf{I}$.
 
 ---
 
 ## Limitations
-1. **Non-Square Matrices**: LU decomposition is only directly applicable to square matrices.
-2. **Pivoting**: Numerical stability may require partial or complete pivoting.
-3. **Singular Matrices**: LU decomposition fails if $A$ is singular or nearly singular.
+13. **Non-Square Matrices**: LU decomposition is only directly applicable to square matrices.
+14. **Pivoting**: Numerical stability may require partial or complete pivoting.
+15. **Singular Matrices**: LU decomposition fails if $A$ is singular or nearly singular.
 
 ---
 

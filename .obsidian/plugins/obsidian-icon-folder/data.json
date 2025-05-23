@@ -6,14 +6,14 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "5️⃣",
-      "LiTerminal",
-      "LiScanQrCode",
-      "LiCalendarDays",
-      "LiPictureInPicture",
-      "LiQuestionMarkGlyph",
-      "4️⃣",
-      "LiListTodo"
+      "LiBitcoin",
+      "LiBriefcaseBusiness",
+      "LiDices",
+      "👺",
+      "LiSmilePlus",
+      "LiStars",
+      "1️⃣",
+      "LiDice1"
     ],
     "recentlyUsedIconsSize": 8,
     "rules": [],
@@ -41,10 +41,7 @@
     "iconName": "LiArchive",
     "iconColor": "#51e1e9"
   },
-  "02 - Personal": {
-    "iconName": "LiMeh",
-    "iconColor": "#54b6f8"
-  },
+  "02 - Personal": "LiSmilePlus",
   "02 - Personal/Bank Transfers.md": {
     "iconName": "LiBanknote",
     "iconColor": "#e67e05"
@@ -65,12 +62,10 @@
     "iconName": "LiWholeWord",
     "iconColor": "#e67e05"
   },
-  "02 - Personal/Norse": "🌲",
   "02 - Personal/Quiz Sender.md": {
     "iconName": "LiQuestionMarkGlyph",
     "iconColor": "#e67e05"
   },
-  "02 - Personal/Norse/ODIN.md": "👁",
   "03 - Projects": {
     "iconName": "LiBrain",
     "iconColor": "#437cf3"
@@ -87,10 +82,7 @@
     "iconName": "LiStackVertical",
     "iconColor": "#9446f8"
   },
-  "04 - Resources/01_LeetCode": {
-    "iconName": "LiFileQuestion",
-    "iconColor": "#9446f8"
-  },
+  "04 - Resources/01_LeetCode": "LiBriefcaseBusiness",
   "04 - Resources/TA": "👨‍🏫",
   "04 - Resources/DSA": {
     "iconName": "LiConstruction",
@@ -98,7 +90,7 @@
   },
   "04 - Resources/TA/Advanced Calculus": {
     "iconName": "LiAreaChart",
-    "iconColor": "#e67e05"
+    "iconColor": "#9446f8"
   },
   "04 - Resources/TA/Numerical Maths": "🔢",
   "04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations": "3️⃣",
@@ -134,5 +126,14 @@
   "99 - Meta": "LiScanQrCode",
   "07 - Journal": "LiCalendarDays",
   "08 - configs": "LiTerminal",
-  "04 - Resources/TA/Numerical Maths/Chapter 5_Numerical Differentiation & Integration": "5️⃣"
+  "04 - Resources/TA/Numerical Maths/Chapter 5_Numerical Differentiation & Integration": "5️⃣",
+  "04 - Resources/DataStructures": "LiConstruction",
+  "04 - Resources/TA/Numerical Maths/Chapter 6_ODEs": "6️⃣",
+  "04 - Resources/TA/Advanced Calculus/PDFs": "📙",
+  "04 - Resources/TA/Advanced Calculus/Chapter 1_ Parametric Equations and Plane Curves": "1️⃣",
+  "02 - Personal/MANIM": "LiStars",
+  "04 - Resources/GO": "👺",
+  "05 - Useful Snippets/GO": "👺",
+  "04 - Resources/Randoms": "LiDices",
+  "04 - Resources/Quantum Computing": "LiBitcoin"
 }

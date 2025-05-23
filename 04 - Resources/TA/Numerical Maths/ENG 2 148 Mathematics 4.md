@@ -6,26 +6,27 @@ This folder contains chapters and notes on key topics in Numerical Mathematics. 
    Covers the representation of numbers in floating-point format, precision, and rounding errors.
 
 2. **Numerical Linear Algebra - Non-linear Systems** [[Solution of Non-Linear Equations]]
-   - Bisection Method  
-   - Secant Method  
-   - Newton's Method
+   - [[Bisection Method]]  
+   - [[Secant Method]]  
+   - [[Newton's Method]]
 
 3. **Systems of Linear Equations** [[Solution of Linear Systems]]
-   - Gaussian Elimination  
-   - LU-Factorization  
+   - [[Gaussian Elimination]]  
+   - [[LU Factorization]]  
 
 4. **Numerical Interpolation and Approximations** [[Numerical Interpolation and Approximations]]
-   - Linear Regression  
-   - Lagrange Interpolation  
-   - Spline Interpolation  
-   - Taylor Series  
+   - [[Linear Regression]]  
+   - [[Lagrange Interpolation]]  
+   - [[Spline Interpolation]]  
+   - [[Taylor Series Approximation]]  
 
-5. **Numerical Integration and Differentiation Approximations**  
-   Techniques for approximating integrals and derivatives.
+5. **Numerical Integration and Differentiation Approximations** [[Numerical Differentiation and Integration]] 
+   - [[Numerical Differentiation]]
+   - [[Numerical Integration]]
 
-6. **Ordinary Differential Equations (ODEs)**  
-   - Euler's Method  
-   - Runge-Kutta Method (Degree 4)  
+6. **Ordinary Differential Equations (ODEs)** [[ODEs]]
+   - [[Euler's Method]]  
+   - [[Runge-Kutta Method (Degree 4)]]  
 
 ## Recommended Book
 For in-depth understanding and additional exercises, we follow:  

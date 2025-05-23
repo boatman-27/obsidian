@@ -229,13 +229,6 @@ For **Multiplication**, the exponent doesn't have to be the same, however after 
 The easiest way for multiplication is multiply like normal numbers, where you multiply and move to the left when moving to the next number. 
 
 ---
-
-[[Resources/TA/Numerical Maths/PDFs/Chapter # 1 Practice Questions.pdf|Chapter # 1 Practice Questions]]
-[[Chapter_1_Solutions.pdf]]
-
-
-
-
 ### Additional Links
 [Binary Calculator](https://www.calculator.net/binary-calculator.html)
 [Number Converter](https://www.rapidtables.com/convert/number/binary-to-decimal.html)

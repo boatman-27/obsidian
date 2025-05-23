@@ -1,13 +1,71 @@
 {
-	"nodes":[
-		{"id":"ec711bbd46c0bb8b","x":-1120,"y":-1320,"width":960,"height":400,"type":"file","file":"04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Conditioning of a problem.md"},
-		{"id":"41f8815e31595258","type":"text","text":"Chapter 1: Floating Point Representation","x":500,"y":-260,"width":250,"height":60},
-		{"id":"aa1c39a8f89bb8b6","type":"file","file":"04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Absolute and Relative Errors.md","x":-380,"y":-840,"width":800,"height":400},
-		{"id":"9067c08b4cc2f110","type":"file","file":"04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md","x":-940,"y":-230,"width":800,"height":400}
-	],
-	"edges":[
-		{"id":"269b45e0d267896b","fromNode":"41f8815e31595258","fromSide":"top","toNode":"aa1c39a8f89bb8b6","toSide":"right"},
-		{"id":"217c2f4e40c1833b","fromNode":"41f8815e31595258","fromSide":"bottom","toNode":"9067c08b4cc2f110","toSide":"right"},
-		{"id":"17da6a1b751a54f2","fromNode":"aa1c39a8f89bb8b6","fromSide":"top","toNode":"ec711bbd46c0bb8b","toSide":"right"}
-	]
+  "edges": [
+    {
+      "fromNode": "41f8815e31595258",
+      "fromSide": "top",
+      "id": "269b45e0d267896b",
+      "toNode": "aa1c39a8f89bb8b6",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "41f8815e31595258",
+      "fromSide": "bottom",
+      "id": "217c2f4e40c1833b",
+      "toNode": "9067c08b4cc2f110",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "aa1c39a8f89bb8b6",
+      "fromSide": "top",
+      "id": "17da6a1b751a54f2",
+      "toNode": "ec711bbd46c0bb8b",
+      "toSide": "right"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Conditioning of a problem.md",
+      "height": 400,
+      "id": "ec711bbd46c0bb8b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 960,
+      "x": -1120,
+      "y": -1320
+    },
+    {
+      "height": 60,
+      "id": "41f8815e31595258",
+      "styleAttributes": {
+      },
+      "text": "Chapter 1: Floating Point Representation",
+      "type": "text",
+      "width": 250,
+      "x": 500,
+      "y": -260
+    },
+    {
+      "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Absolute and Relative Errors.md",
+      "height": 400,
+      "id": "aa1c39a8f89bb8b6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 800,
+      "x": -380,
+      "y": -840
+    },
+    {
+      "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
+      "height": 400,
+      "id": "9067c08b4cc2f110",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 800,
+      "x": -940,
+      "y": -230
+    }
+  ]
 }

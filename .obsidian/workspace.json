@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "9eb95246edf899c7",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3f429e84b4ed621e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/TA/Numerical Maths/Chapter 5_Numerical Differentiation & Integration/Numerical Differentiation and Integration.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Numerical Differentiation and Integration"
+              "title": "Untitled"
             }
           }
         ]
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 319.5
   },
   "right": {
     "id": "9677e8e60b70fe32",
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/TA/Numerical Maths/Chapter 5_Numerical Differentiation & Integration/Numerical Differentiation and Integration.md",
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,19 +236,20 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.503952192346109,
+                  "scale": 0.2502339503445454,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Numerical Differentiation and Integration"
+              "title": "Graph of Untitled"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,59 +271,59 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3f429e84b4ed621e",
   "lastOpenFiles": [
-    "04 - Resources/TA/Numerical Maths/Chapter 5_Numerical Differentiation & Integration/Numerical Differentiation and Integration.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 5_Numerical Differentiation & Integration",
-    "04 - Resources/DSA/Bubble Sort.md",
-    "04 - Resources/TA/Numerical Maths/ENG 2 148 Mathematics 4.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/Spline Interpolation.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/Numerical Interpolation and Approximations.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/Taylor Series Approximation.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/Cubic Spline.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/Quadratic Spline.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/Linear Spline.md",
-    "04 - Resources/TA/Numerical Maths/PDFs/Spline_Interpolation_Example.pdf",
-    "Resources/TA/Numerical Maths/PDFs/Chapter.md",
-    "Resources/TA/Numerical Maths/PDFs",
-    "Resources/TA/Numerical Maths",
-    "Resources/TA",
-    "Resources",
-    "03 - Projects/TaskQuest/TaskQuest Outline.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/Linear Regression.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/Lagrange Interpolation.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Solution of Non-Linear Equations.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Bisection Method.md",
+    "02 - Personal/NEOVIM.md",
     "Untitled.md",
-    "08 - configs",
-    "99 - Meta/Templates/Daily Note.md",
-    "03 - Projects/TaskQuest/Tasks.md",
-    "04 - Resources/TA/Numerical Maths/PDFs/Chapter_4_Notes.pdf",
-    "04 - Resources/TA/Numerical Maths/PDFs/Chapter_4_Solutions_A.pdf",
+    "02 - Personal/Words.md",
+    "04 - Resources/Randoms/Eigenvalues, Eigenvectors, and Diagonalizable Matrices.md",
+    "04 - Resources/Randoms/JWT.md",
+    "04 - Resources/Untitled",
+    "04 - Resources/GO/Strings, Runes, Bytes.md",
+    "04 - Resources/GO/Structs and Interfaces.md",
+    "04 - Resources/GO/Local Packages.md",
+    "04 - Resources/GO/Learning Go.md",
+    "04 - Resources/Quantum Computing",
+    "04 - Resources/TA/Numerical Maths/Chapter 5_Numerical Differentiation & Integration/Numerical Differentiation.md",
+    "01 - Archive/Advent of code 2024.md",
+    "01 - Archive/Apple Notes/The horses are galloping at precarious speeds perhaps i may arrive….md",
+    "02 - Personal/Quiz Sender.md",
+    "02 - Personal/GYM.md",
+    "02 - Personal/Bank Transfers.md",
+    "05 - Useful Snippets/GO/SQL.md",
+    "07 - Journal/Daily/2025-03-19.md",
+    "07 - Journal/Daily/2025-05-02.md",
+    "08 - configs/Working code.md",
+    "08 - configs/Gmail code.md",
+    "08 - configs/Arduino Code.md",
+    "08 - configs/wifi connection code.md",
+    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/Numerical Interpolation and Approximations.md",
+    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/Cubic Spline.md",
+    "04 - Resources/DSA/Binary Search.md",
+    "06 - Assets/f1-1.jpg",
+    "06 - Assets/Brown Wooden Book Shelf.jpg",
+    "06 - Assets/Bisection Method Definition.png",
+    "06 - Assets/Aurora Phenomenon Unsplash.jpg",
+    "06 - Assets/asgard-realm-gods-aesir-s-celestial-home-nordic-mythology-viking-mythology-landscape_1041587-634.avif",
+    "03 - Projects/TaskQuest/TaskQuest Outline.md",
+    "04 - Resources/Randoms",
+    "05 - Useful Snippets/GO",
+    "04 - Resources/GO",
+    "02 - Personal/MANIM",
+    "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/MindMap.canvas",
+    "04 - Resources/TA/Advanced Calculus/Chapter 1_ Parametric Equations and Plane Curves",
+    "04 - Resources/TA/Advanced Calculus/PDFs",
+    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/MindMap.canvas",
+    "04 - Resources/TA/Numerical Maths/PDFs/Chapter_6_Solutions Q3,4.pdf",
+    "04 - Resources/TA/Numerical Maths/PDFs/Chapter_6_PQs.pdf",
     "06 - Assets/Pasted image 20250207223220.png",
     "06 - Assets/Pasted image 20250207215348.png",
-    "04 - Resources/TA/Numerical Maths/PDFs/Chapter_4_PQs_B.pdf",
-    "04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations/Solution of Linear Systems.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
     "04 - Resources/TA/Numerical Maths/PDFs/Pasted image 20250117234621.png",
-    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/lol.md",
-    "07 - Journal/Daily/2025-02-07.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/Interpolation.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/lml.md",
-    "02 - Personal/Thesis Project Step 2 🤦🏻.md",
-    "04 - Resources/01_LeetCode/0016. 3Sum Closest.md",
     "03 - Projects/TaskQuest/MindMap.canvas",
-    "06 - Assets/Bisection Method Definition.png",
-    "06 - Assets/Brown Wooden Book Shelf.jpg",
-    "06 - Assets/f1-1.jpg",
     "Projects/Wordle/Untitled.canvas",
-    "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/MindMap.canvas",
-    "06 - Assets/asgard-realm-gods-aesir-s-celestial-home-nordic-mythology-viking-mythology-landscape_1041587-634.avif",
     "04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations/MindMap.canvas",
-    "06 - Assets/Aurora Phenomenon Unsplash.jpg",
     "02 - Personal/Norse/Tree.canvas",
     "asgard-realm-gods-aesir-s-celestial-home-nordic-mythology-viking-mythology-landscape_1041587-634 1.avif",
-    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/MindMap.canvas",
     "04 - Resources/TA/Numerical Maths/PDFs/Pasted image 20250117234332.png",
     "Untitled 1.canvas"
   ]

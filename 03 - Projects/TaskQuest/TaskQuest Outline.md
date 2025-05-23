@@ -33,6 +33,20 @@ CREATE TABLE users (
 );
 ```
 
+## **Refresh Tokens**
+
+```sql
+CREATE TABLE refresh_tokens (
+    id SERIAL PRIMARY KEY,
+    user_id UUID NOT NULL,
+    token TEXT NOT NULL UNIQUE,
+    expires_at TIMESTAMP NOT NULL,
+    created_at TIMESTAMP DEFAULT NOW(),
+    revoked BOOLEAN DEFAULT FALSE
+);
+```
+
+
 ## **Core Features**
 
 ### **1. Tasks System**
