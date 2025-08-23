@@ -11,10 +11,24 @@
             "id": "afe6f81ff705c661",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/2. Add Two Numbers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2. Add Two Numbers"
             }
           }
         ]
@@ -220,6 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/2. Add Two Numbers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 2. Add Two Numbers"
             }
           }
         ]
@@ -281,6 +296,7 @@
   },
   "active": "afe6f81ff705c661",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/2. Add Two Numbers.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/141. Linked List Cycle.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
@@ -309,7 +325,6 @@
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Sorting Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Insertion Sort.md",
     "02 - Personal/Words.md",
-    "02 - Personal/Thesis Project Step 2 🤦🏻.md",
     "06 - Assets/f1-1.jpg",
     "lol.base",
     "04 - Resources/Backend Roadmap/Version Control Systems/Untitled.base",
