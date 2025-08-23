@@ -3,7 +3,7 @@
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "MMMM Do YYYY, h:mm:ss a",
-  "autoSaveInterval": 20,
+  "autoSaveInterval": 1,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
