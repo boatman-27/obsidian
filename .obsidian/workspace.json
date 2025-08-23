@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "21. Merge Two Sorted Lists"
+              "title": "Merge Sort"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 21. Merge Two Sorted Lists"
+              "title": "Graph of Merge Sort"
             }
           }
         ]
