@@ -11,10 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Search Algorithms/Binary Search.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Binary Search"
             }
           }
         ]
@@ -220,6 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Search Algorithms/Binary Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Binary Search"
             }
           }
         ]
@@ -281,6 +296,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/704. Binary Search.md",
+    "04 - Resources/Data Structures & Algorithms/Search Algorithms/Binary Search.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/20. Valid Parentheses.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Stacks/Stack Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/49. Group Anagrams.md",
@@ -309,8 +326,6 @@
     "05 - Useful Snippets/Terminal Shenanigans.md",
     "05 - Useful Snippets/GO/SQL.md",
     "04 - Resources/Randoms/Next.js Detailed Guide.md",
-    "04 - Resources/Randoms/Eigenvalues, Eigenvectors, and Diagonalizable Matrices.md",
-    "04 - Resources/DSA/Binary Search.md",
     "lol.base",
     "04 - Resources/Backend Roadmap/Version Control Systems/Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms",
