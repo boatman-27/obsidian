@@ -1,5 +1,3 @@
-# **Tasks Feature Documentation**
-
 ## **Overview**
 The tasks feature allows users to create, manage, and delete tasks. Each task is associated with specific metadata, such as difficulty, deadlines, and rewards in the form of coins. This system incentivizes users to complete tasks based on their difficulty level, with higher rewards for more challenging tasks.
 
@@ -18,7 +16,7 @@ CREATE TABLE tasks (
 	addedOn TIMESTAMP DEFAULT CURRENT_TIMESTAMP, 
 	deadline TIMESTAMP NOT NULL,
 	taskid VARCHAR(255) NOT NULL UNIQUE,
-	userId VARCHAR(8) NOT NULL REFERENCES users(userId),
+	userid VARCHAR(8) NOT NULL REFERENCES users(userId),
 	difficulty TEXT NOT NULL CHECK (difficulty IN ('easy', 'medium', 'hard')) DEFAULT 'easy',
 	coins INT NOT NULL,
 	status TEXT NOT NULL CHECK (status IN ('Backlog', 'In Progress', 'In Review', 'Done')) DEFAULT 'Backlog',

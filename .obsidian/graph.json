@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,44 +8,51 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "line:(leetcode)",
+      "query": "tag:#leetcode  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14298050
       }
     },
     {
-      "query": "path:\"Resources/TA/Numerical Maths\"  ",
+      "query": "path:\"04 - Resources/Data Structures & Algorithms\"  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:Projects/Wordle ",
+      "query": "tag:#go  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 2812647
       }
     },
     {
-      "query": "tag:#DSA  ",
+      "query": "path:\"04 - Resources/Backend Roadmap\"  ",
       "color": {
         "a": 1,
-        "rgb": 5401056
+        "rgb": 15993658
+      }
+    },
+    {
+      "query": "path:\"04 - Resources/TA\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 0.982063802083333,
+  "lineSizeMultiplier": 1.7042236328125,
+  "collapse-forces": false,
+  "centerStrength": 1,
+  "repelStrength": 11.5169270833333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.15719651483018787,
-  "close": true
+  "linkDistance": 52,
+  "scale": 0.14053961176011928,
+  "close": false
 }

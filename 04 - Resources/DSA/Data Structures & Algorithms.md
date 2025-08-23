@@ -19,7 +19,7 @@ Quick Sort is a divide-and-conquer sorting algorithm. It picks an element as a p
 ### Applications:
 - Suitable for large datasets.
 - Common in libraries due to its average-case efficiency.
-#### Code Examples [[Quick Sort]]
+#### Code Examples [[04 - Resources/DSA/Quick Sort]]
 
 ---
 ## Bubble Sort
@@ -39,7 +39,7 @@ Bubble Sort is a simple comparison-based sorting algorithm that repeatedly steps
 ### Applications:
 - Used for small datasets.
 - Useful for educational purposes.
-#### Code Examples [[Bubble Sort]]
+#### Code Examples [[04 - Resources/DSA/Bubble Sort]]
 
 ---
 ## Insertion Sort
@@ -58,7 +58,7 @@ Insertion Sort builds the final sorted array one element at a time by picking el
 - \( O(1) \)
 ### Applications:
 - Suitable for small or partially sorted datasets.
-#### Code Examples [[Insertion Sort]]
+#### Code Examples [[04 - Resources/DSA/Insertion Sort]]
 
 ---
 ## Merge Sort
@@ -80,7 +80,7 @@ Merge Sort is a divide-and-conquer sorting algorithm that divides the array into
 ### Applications:
 - Suitable for large datasets.
 - Used in stable sorting scenarios.
-#### Code Examples [[Merge Sort]]
+#### Code Examples [[04 - Resources/DSA/Merge Sort]]
 
 ---
 ## Selection Sort
@@ -100,7 +100,7 @@ Selection Sort repeatedly selects the smallest element from the unsorted part an
 ### Applications:
 - Simple to implement for small datasets.
 - Used when memory is constrained.
-#### Code Examples [[Selection Sort]]
+#### Code Examples [[04 - Resources/DSA/Selection Sort]]
 
 ---
 # Searching Algorithms
@@ -122,7 +122,7 @@ Linear Search checks every element in the array sequentially until the desired e
 ### Applications:
 - Suitable for small datasets.
 - Useful for unsorted arrays.
-#### Code Examples [[Linear Search]]
+#### Code Examples [[04 - Resources/DSA/Linear Search]]
 
 ---
 ## Binary Search
@@ -145,6 +145,6 @@ Binary Search efficiently searches for a target in a sorted array by repeatedly 
 ### Applications:
 - Suitable for large datasets that are sorted.
 - Widely used in search algorithms and databases.
-#### Code Examples [[Binary Search]]
+#### Code Examples [[04 - Resources/DSA/Binary Search]]
 
 ---

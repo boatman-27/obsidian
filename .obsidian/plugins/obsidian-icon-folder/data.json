@@ -6,14 +6,14 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBitcoin",
-      "LiBriefcaseBusiness",
-      "LiDices",
-      "👺",
-      "LiSmilePlus",
-      "LiStars",
-      "1️⃣",
-      "LiDice1"
+      "LiAlertOctagon",
+      "LiShoppingCart",
+      "🎥",
+      "LiServerCrash",
+      "🧋",
+      "LiFlag",
+      "LiBrickWall",
+      "LiWeight"
     ],
     "recentlyUsedIconsSize": 8,
     "rules": [],
@@ -127,13 +127,16 @@
   "07 - Journal": "LiCalendarDays",
   "08 - configs": "LiTerminal",
   "04 - Resources/TA/Numerical Maths/Chapter 5_Numerical Differentiation & Integration": "5️⃣",
-  "04 - Resources/DataStructures": "LiConstruction",
   "04 - Resources/TA/Numerical Maths/Chapter 6_ODEs": "6️⃣",
   "04 - Resources/TA/Advanced Calculus/PDFs": "📙",
   "04 - Resources/TA/Advanced Calculus/Chapter 1_ Parametric Equations and Plane Curves": "1️⃣",
   "02 - Personal/MANIM": "LiStars",
-  "04 - Resources/GO": "👺",
   "05 - Useful Snippets/GO": "👺",
   "04 - Resources/Randoms": "LiDices",
-  "04 - Resources/Quantum Computing": "LiBitcoin"
+  "04 - Resources/Backend Roadmap": "LiServerCrash",
+  "04 - Resources/Backend Roadmap/GO": "👺",
+  "04 - Resources/Backend Roadmap/GO/FLAG": "LiFlag",
+  "03 - Projects/Movie Reservation System": "🎥",
+  "03 - Projects/E-commerce Platform API": "LiShoppingCart",
+  "04 - Resources/Data Structures & Algorithms": "LiAlertOctagon"
 }

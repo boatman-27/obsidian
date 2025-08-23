@@ -8,4 +8,9 @@ This will be a document to save any new words or phrases that I learn.
 
 **Bereft**: Lacking or deprived. 
 
-**Unrequited**: (of a feeling, especially love) Not returned
+**Unrequited**: (of a feeling, especially love) Not returned.
+
+**Correlation doesn't imply causation**: Seeing two variables moving together does not necessarily mean we know whether one variable causes the other to occur.
+
+**Yearning**: A feeling of intense longing for something.
+

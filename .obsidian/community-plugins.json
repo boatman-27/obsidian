@@ -4,7 +4,6 @@
   "table-editor-obsidian",
   "calendar",
   "obsidian-kanban",
-  "obsidian-linter",
   "obsidian-icon-folder",
   "omnisearch",
   "obsidian-mind-map",
@@ -22,5 +21,7 @@
   "obsidian-completr",
   "journals",
   "templater-obsidian",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-5e-statblocks",
+  "obsidian-git"
 ]

@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9eb95246edf899c7",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "3f429e84b4ed621e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -43,7 +29,6 @@
       {
         "id": "88c8c782834283af",
         "type": "tabs",
-        "dimension": 61.882129277566534,
         "children": [
           {
             "id": "3998c0ed7b97bb80",
@@ -84,16 +69,39 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          }
-        ]
-      },
-      {
-        "id": "5573503a6085bbad",
-        "type": "tabs",
-        "dimension": 38.11787072243346,
-        "children": [
+          },
           {
-            "id": "27a864b03cc462f4",
+            "id": "e102da2c3ce688c0",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "ab9267e09bb1abda",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "journal-calendar"
+            }
+          },
+          {
+            "id": "4231cef6d4f73b12",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "c7602ac974c07004",
             "type": "leaf",
             "state": {
               "type": "journal-calendar",
@@ -102,7 +110,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -115,7 +124,6 @@
       {
         "id": "cbd6a7e1d03caf67",
         "type": "tabs",
-        "dimension": 51,
         "children": [
           {
             "id": "a2fe7e06adaae721",
@@ -123,8 +131,8 @@
             "state": {
               "type": "tagfolder-view",
               "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
+              "icon": "lucide-ghost",
+              "title": "tagfolder-view"
             }
           },
           {
@@ -133,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 - Journal/Daily/2025-02-07.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-02-07"
+              "title": "Backlinks for Data Structures"
             }
           },
           {
@@ -152,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Journal/Daily/2025-02-07.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-02-07"
+              "title": "Outgoing links from Data Structures"
             }
           },
           {
@@ -181,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - Journal/Daily/2025-02-07.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-07"
+              "title": "Outline of Data Structures"
             }
           },
           {
@@ -200,12 +208,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "990ef658947dd210",
         "type": "tabs",
-        "dimension": 49,
         "children": [
           {
             "id": "6f24bb3a2eca67c2",
@@ -213,46 +221,48 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
-                  "showTags": false,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
+                  "textFadeMultiplier": 0.4,
+                  "nodeSizeMultiplier": 1.3549072265625,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 250,
+                  "linkDistance": 98,
                   "scale": 0.2502339503445454,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -267,55 +277,54 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "templater-obsidian:Templater": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3f429e84b4ed621e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02 - Personal/NEOVIM.md",
-    "Untitled.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/242. Valid Anagram.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/217. Contains Duplicate.md",
+    "99 - Meta/Templates/LeetCode Solution.md",
+    "99 - Meta/Templates/Daily Note.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Searching Algorithms.md",
+    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Quick Sort.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
+    "04 - Resources/DSA/Quick Sort.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Bubble Sort.md",
+    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
+    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Selection Sort.md",
+    "04 - Resources/DSA/Merge Sort.md",
+    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Sorting Algorithms.md",
+    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Insertion Sort.md",
     "02 - Personal/Words.md",
-    "04 - Resources/Randoms/Eigenvalues, Eigenvectors, and Diagonalizable Matrices.md",
-    "04 - Resources/Randoms/JWT.md",
-    "04 - Resources/Untitled",
-    "04 - Resources/GO/Strings, Runes, Bytes.md",
-    "04 - Resources/GO/Structs and Interfaces.md",
-    "04 - Resources/GO/Local Packages.md",
-    "04 - Resources/GO/Learning Go.md",
-    "04 - Resources/Quantum Computing",
-    "04 - Resources/TA/Numerical Maths/Chapter 5_Numerical Differentiation & Integration/Numerical Differentiation.md",
-    "01 - Archive/Advent of code 2024.md",
-    "01 - Archive/Apple Notes/The horses are galloping at precarious speeds perhaps i may arrive….md",
-    "02 - Personal/Quiz Sender.md",
-    "02 - Personal/GYM.md",
-    "02 - Personal/Bank Transfers.md",
-    "05 - Useful Snippets/GO/SQL.md",
-    "07 - Journal/Daily/2025-03-19.md",
-    "07 - Journal/Daily/2025-05-02.md",
-    "08 - configs/Working code.md",
-    "08 - configs/Gmail code.md",
-    "08 - configs/Arduino Code.md",
-    "08 - configs/wifi connection code.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/Numerical Interpolation and Approximations.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/Cubic Spline.md",
-    "04 - Resources/DSA/Binary Search.md",
+    "02 - Personal/Thesis Project Step 2 🤦🏻.md",
     "06 - Assets/f1-1.jpg",
+    "05 - Useful Snippets/Terminal Shenanigans.md",
+    "05 - Useful Snippets/GO/SQL.md",
+    "04 - Resources/Randoms/Next.js Detailed Guide.md",
+    "04 - Resources/Randoms/Eigenvalues, Eigenvectors, and Diagonalizable Matrices.md",
+    "04 - Resources/DSA/Binary Search.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
+    "04 - Resources/Data Structures & Algorithms/Search Algorithms/Search Algorithms.md",
+    "lol.base",
+    "04 - Resources/Backend Roadmap/Version Control Systems/Untitled.base",
+    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms",
+    "04 - Resources/Data Structures & Algorithms/Search Algorithms",
+    "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Hash Tables",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Queues",
+    "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/MindMap.canvas",
     "06 - Assets/Brown Wooden Book Shelf.jpg",
     "06 - Assets/Bisection Method Definition.png",
     "06 - Assets/Aurora Phenomenon Unsplash.jpg",
     "06 - Assets/asgard-realm-gods-aesir-s-celestial-home-nordic-mythology-viking-mythology-landscape_1041587-634.avif",
-    "03 - Projects/TaskQuest/TaskQuest Outline.md",
-    "04 - Resources/Randoms",
-    "05 - Useful Snippets/GO",
-    "04 - Resources/GO",
-    "02 - Personal/MANIM",
-    "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/MindMap.canvas",
-    "04 - Resources/TA/Advanced Calculus/Chapter 1_ Parametric Equations and Plane Curves",
-    "04 - Resources/TA/Advanced Calculus/PDFs",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/MindMap.canvas",
-    "04 - Resources/TA/Numerical Maths/PDFs/Chapter_6_Solutions Q3,4.pdf",
-    "04 - Resources/TA/Numerical Maths/PDFs/Chapter_6_PQs.pdf",
     "06 - Assets/Pasted image 20250207223220.png",
     "06 - Assets/Pasted image 20250207215348.png",
     "04 - Resources/TA/Numerical Maths/PDFs/Pasted image 20250117234621.png",

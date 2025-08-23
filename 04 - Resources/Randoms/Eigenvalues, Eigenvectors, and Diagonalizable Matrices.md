@@ -1,6 +1,7 @@
 ---
 tags:
   - maths
+  - random
 date: 2025-05-09T22:57:00
 ---
 ## Table of Contents
