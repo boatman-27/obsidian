@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Merge Sort"
+              "title": "Linked lists snippets"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Merge Sort"
+              "title": "Graph of Linked lists snippets"
             }
           }
         ]
@@ -296,6 +296,7 @@
   },
   "active": "d865ee7f86c01698",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/704. Binary Search.md",
     "04 - Resources/Data Structures & Algorithms/Search Algorithms/Binary Search.md",
@@ -316,7 +317,6 @@
     "04 - Resources/DSA/Quick Sort.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Bubble Sort.md",
-    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Selection Sort.md",
     "04 - Resources/DSA/Merge Sort.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Sorting Algorithms.md",
