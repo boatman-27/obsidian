@@ -11,10 +11,24 @@
             "id": "c029a3039588d2c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/141. Linked List Cycle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "141. Linked List Cycle"
             }
           }
         ]
@@ -220,6 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/141. Linked List Cycle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 141. Linked List Cycle"
             }
           }
         ]
@@ -281,6 +296,7 @@
   },
   "active": "c029a3039588d2c9",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/141. Linked List Cycle.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
@@ -310,7 +326,6 @@
     "02 - Personal/Words.md",
     "02 - Personal/Thesis Project Step 2 🤦🏻.md",
     "06 - Assets/f1-1.jpg",
-    "05 - Useful Snippets/Terminal Shenanigans.md",
     "lol.base",
     "04 - Resources/Backend Roadmap/Version Control Systems/Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms",
