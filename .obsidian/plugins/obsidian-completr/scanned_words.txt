@@ -4193,6 +4193,7 @@ Pattern
 Prepending
 Patterns
 Perfect
+Parentheses
 Metadata
 MongoDB
 Milestones
@@ -14420,6 +14421,7 @@ caches
 cover
 comparisons
 cards
+closing
 project
 production
 problem
