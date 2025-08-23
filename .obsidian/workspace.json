@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "5a29a236acf6a20b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "d865ee7f86c01698",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Search Algorithms/Binary Search.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Binary Search"
+              "title": "21. Merge Two Sorted Lists"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Search Algorithms/Binary Search.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Binary Search"
+              "title": "Graph of 21. Merge Two Sorted Lists"
             }
           }
         ]
@@ -294,8 +294,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d865ee7f86c01698",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/704. Binary Search.md",
     "04 - Resources/Data Structures & Algorithms/Search Algorithms/Binary Search.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/20. Valid Parentheses.md",
@@ -325,7 +326,6 @@
     "06 - Assets/f1-1.jpg",
     "05 - Useful Snippets/Terminal Shenanigans.md",
     "05 - Useful Snippets/GO/SQL.md",
-    "04 - Resources/Randoms/Next.js Detailed Guide.md",
     "lol.base",
     "04 - Resources/Backend Roadmap/Version Control Systems/Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms",
