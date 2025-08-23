@@ -11,10 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Two Sum"
             }
           }
         ]
@@ -110,8 +124,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,6 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1. Two Sum"
             }
           }
         ]
