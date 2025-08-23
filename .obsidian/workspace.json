@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/49. Group Anagrams.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Stacks/Stack Snippets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "49. Group Anagrams"
+              "title": "Stack Snippets"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/49. Group Anagrams.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Stacks/Stack Snippets.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 49. Group Anagrams"
+              "title": "Graph of Stack Snippets"
             }
           }
         ]
@@ -296,8 +296,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/20. Valid Parentheses.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/49. Group Anagrams.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/242. Valid Anagram.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/217. Contains Duplicate.md",
@@ -325,7 +326,6 @@
     "04 - Resources/Randoms/Eigenvalues, Eigenvectors, and Diagonalizable Matrices.md",
     "04 - Resources/DSA/Binary Search.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
     "lol.base",
     "04 - Resources/Backend Roadmap/Version Control Systems/Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms",
