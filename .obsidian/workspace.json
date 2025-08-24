@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/12. Integer to Roman.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9. Palindrome Number"
+              "title": "12. Integer to Roman"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/12. Integer to Roman.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 9. Palindrome Number"
+              "title": "Graph of 12. Integer to Roman"
             }
           }
         ]
@@ -296,8 +296,9 @@
   },
   "active": "c31a4f46b358e05b",
   "lastOpenFiles": [
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/12. Integer to Roman.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
@@ -327,7 +328,6 @@
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/20. Valid Parentheses.md",
     "04 - Resources/DSA/Data Structures & Algorithms.md",
-    "04 - Resources/Backend Roadmap/Full Roadmap.md",
     "Untitled 1.base",
     "Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
