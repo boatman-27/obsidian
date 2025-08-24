@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/206. Reverse Linked List.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Quick Sort.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "206. Reverse Linked List"
+              "title": "Quick Sort"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/206. Reverse Linked List.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Quick Sort.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 206. Reverse Linked List"
+              "title": "Graph of Quick Sort"
             }
           }
         ]
@@ -296,9 +296,9 @@
   },
   "active": "89933b03cc29cef0",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/206. Reverse Linked List.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked Lists.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/206. Reverse Linked List.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/2. Add Two Numbers.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/141. Linked List Cycle.md",

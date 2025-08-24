@@ -4194,6 +4194,7 @@ Prepending
 Patterns
 Perfect
 Parentheses
+Preprocessing
 Metadata
 MongoDB
 Milestones
@@ -14425,6 +14426,7 @@ cards
 closing
 concern
 carry
+chooses
 project
 production
 problem
@@ -24384,6 +24386,7 @@ anagrams
 anagram
 appeared
 ascending
+auxiliary
 with
 work
 well
@@ -31239,6 +31242,7 @@ ASC
 Auxiliary
 Approaches
 Anagram
+Arranging
 specific
 start
 section
@@ -32928,6 +32932,7 @@ symbols
 swapping
 sooooo
 shuffled
+suggests
 here
 how
 hello
@@ -37048,6 +37053,7 @@ Functionality
 Fork
 Force
 Finds
+Friendly
 Express
 Ether
 Exponent
@@ -60612,6 +60618,7 @@ letters
 lengths
 looped
 logN
+lands
 not
 note
 nodes
@@ -63247,6 +63254,7 @@ Qvs
 QEe
 QEv
 Quantum
+Quicksort
 vice
 versa
 value
