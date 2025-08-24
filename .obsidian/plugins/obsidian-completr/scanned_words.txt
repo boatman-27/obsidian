@@ -4197,6 +4197,7 @@ Patterns
 Perfect
 Parentheses
 Preprocessing
+Prefix
 Metadata
 MongoDB
 Milestones
@@ -7129,6 +7130,7 @@ Navigating
 Needed
 Nope
 Naturally
+NumMatrix
 Date
 Description
 Define
@@ -14432,6 +14434,7 @@ chooses
 colored
 corner
 civilians
+col
 project
 production
 problem
@@ -15946,6 +15949,7 @@ phrase
 pretty
 pop
 positioned
+preprocess
 Brief
 Blockchain
 Binary
@@ -28473,6 +28477,7 @@ generations
 got
 goes
 gotta
+green
 for
 functionality
 fully
@@ -32946,6 +32951,7 @@ suggests
 style
 soldiers
 strongest
+sumRegion
 here
 how
 hello
@@ -44596,6 +44602,8 @@ reverse
 reversed
 red
 rightmost
+rectangle
+rustc
 dependencies
 date
 doesnt
@@ -49353,6 +49361,8 @@ ignored
 iteratively
 instantly
 initially
+initialization
+initializing
 quality
 quantity
 quantifies
@@ -50671,6 +50681,7 @@ quantities
 queue
 quirk
 quot
+querying
 you
 yearly
 year
@@ -61947,6 +61958,7 @@ negated
 negate
 newLeetCode
 nagaram
+numMatrix
 Questions
 Quadratic
 Qpg

@@ -11,24 +11,10 @@
             "id": "c4d66c46ae388bbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Resources/01_LeetCode/1337. The K Weakest Rows in a Matrix.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1337. The K Weakest Rows in a Matrix"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -128,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "right": {
     "id": "9677e8e60b70fe32",
@@ -235,7 +220,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/01_LeetCode/1337. The K Weakest Rows in a Matrix.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +247,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1337. The K Weakest Rows in a Matrix"
+              "title": "Graph view"
             }
           }
         ]
@@ -298,6 +282,14 @@
   },
   "active": "c4d66c46ae388bbe",
   "lastOpenFiles": [
+    "04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations/Solution of Linear Systems.md",
+    "04 - Resources/TA/Numerical Maths/ENG 2 148 Mathematics 4.md",
+    "04 - Resources/TA/Advanced Calculus/Chapter 1_ Parametric Equations and Plane Curves/Curves and Parametric Equations.md",
+    "04 - Resources/TA/Advanced Calculus/Chapter 1_ Parametric Equations and Plane Curves/Parametric Equations and Plane Curves.md",
+    "3, 0, 1, 4, 2], [5, 6, 3, 2, 1], [1, 2, 0, 1, 5], [4, 1, 0, 1, 7], [1, 0, 3, 0, 5.md",
+    "04 - Resources/01_LeetCode/0304. Range Sum Query 2D - Immutable.md",
+    "05 - Useful Snippets/GO/SQL.md",
+    "04 - Resources/01_LeetCode/1337. The K Weakest Rows in a Matrix.md",
     "04 - Resources/01_LeetCode/0001. Two Sum.md",
     "04 - Resources/01_LeetCode/0074. Search a 2D Matrix.md",
     "04 - Resources/01_LeetCode/0075. Sort Colors.md",
@@ -316,17 +308,9 @@
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/20. Valid Parentheses.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Stacks/Stack Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/49. Group Anagrams.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/242. Valid Anagram.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/217. Contains Duplicate.md",
-    "99 - Meta/Templates/LeetCode Solution.md",
-    "99 - Meta/Templates/Daily Note.md",
     "Untitled 1.base",
     "Untitled.base",
-    "Searching Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
-    "04 - Resources/DSA/Quick Sort.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "06 - Assets/f1-1.jpg",
     "lol.base",
     "04 - Resources/Backend Roadmap/Version Control Systems/Untitled.base",

@@ -1,51 +1,37 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"04 - Resources/Data Structures & Algorithms\"  ",
+      "query": "path:\"04 - Resources/01_LeetCode\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#go  ",
-      "color": {
-        "a": 1,
-        "rgb": 2812647
-      }
-    },
-    {
-      "query": "path:\"04 - Resources/Backend Roadmap\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15993658
+        "rgb": 14701138
       }
     },
     {
       "query": "path:\"04 - Resources/TA\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 14725458
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 1.38441569010417,
-  "lineSizeMultiplier": 0.492582194010417,
+  "nodeSizeMultiplier": 1.30087483723958,
+  "lineSizeMultiplier": 0.49417724609375,
   "collapse-forces": false,
-  "centerStrength": 0.941569010416667,
-  "repelStrength": 14.248046875,
+  "centerStrength": 0.472330729166667,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.07866721184029289,
-  "close": true
+  "linkDistance": 500,
+  "scale": 0.028990341010845855,
+  "close": false
 }

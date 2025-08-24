@@ -88,10 +88,6 @@
     "iconName": "LiConstruction",
     "iconColor": "#8c46f8"
   },
-  "04 - Resources/TA/Advanced Calculus": {
-    "iconName": "LiAreaChart",
-    "iconColor": "#9446f8"
-  },
   "04 - Resources/TA/Numerical Maths": "🔢",
   "04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations": "3️⃣",
   "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation": "1️⃣",
@@ -128,8 +124,6 @@
   "08 - configs": "LiTerminal",
   "04 - Resources/TA/Numerical Maths/Chapter 5_Numerical Differentiation & Integration": "5️⃣",
   "04 - Resources/TA/Numerical Maths/Chapter 6_ODEs": "6️⃣",
-  "04 - Resources/TA/Advanced Calculus/PDFs": "📙",
-  "04 - Resources/TA/Advanced Calculus/Chapter 1_ Parametric Equations and Plane Curves": "1️⃣",
   "02 - Personal/MANIM": "LiStars",
   "05 - Useful Snippets/GO": "👺",
   "04 - Resources/Randoms": "LiDices",
