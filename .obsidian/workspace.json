@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9. Palindrome Number"
+              "title": "7. Reverse Integer"
             }
           }
         ]
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "right": {
     "id": "9677e8e60b70fe32",
@@ -235,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 9. Palindrome Number"
+              "title": "Graph of 7. Reverse Integer"
             }
           }
         ]
@@ -297,8 +296,8 @@
   },
   "active": "c31a4f46b358e05b",
   "lastOpenFiles": [
-    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
