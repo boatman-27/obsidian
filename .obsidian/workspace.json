@@ -11,10 +11,24 @@
             "id": "c4d66c46ae388bbe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/01_LeetCode/1337. The K Weakest Rows in a Matrix.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1337. The K Weakest Rows in a Matrix"
             }
           }
         ]
@@ -114,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "right": {
     "id": "9677e8e60b70fe32",
@@ -220,6 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04 - Resources/01_LeetCode/1337. The K Weakest Rows in a Matrix.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1337. The K Weakest Rows in a Matrix"
             }
           }
         ]
