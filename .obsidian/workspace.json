@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Structures & Algorithms"
+              "title": "88. Merge Sorted Array"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Data Structures & Algorithms"
+              "title": "Graph of 88. Merge Sorted Array"
             }
           }
         ]
@@ -294,8 +294,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6f24bb3a2eca67c2",
+  "active": "0a402d035118cf9d",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "05 - Useful Snippets/SQL Commands for Maths Skills Project.md",
     "06 - Assets/Pasted image 20250207223220.png",
     "06 - Assets/Pasted image 20250207215348.png",
@@ -317,7 +318,6 @@
     "02 - Personal/Quiz Sender.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Sorting Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/217. Contains Duplicate.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/49. Group Anagrams.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
