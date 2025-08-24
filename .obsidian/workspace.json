@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7. Reverse Integer"
+              "title": "9. Palindrome Number"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 7. Reverse Integer"
+              "title": "Graph of 9. Palindrome Number"
             }
           }
         ]
@@ -296,9 +296,9 @@
   },
   "active": "c31a4f46b358e05b",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
     "05 - Useful Snippets/SQL Commands for Maths Skills Project.md",
