@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Structures & Algorithms"
+              "title": "9. Palindrome Number"
             }
           }
         ]
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "right": {
     "id": "9677e8e60b70fe32",
@@ -234,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Data Structures & Algorithms"
+              "title": "Graph of 9. Palindrome Number"
             }
           }
         ]
@@ -296,10 +297,11 @@
   },
   "active": "c31a4f46b358e05b",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "05 - Useful Snippets/SQL Commands for Maths Skills Project.md",
     "06 - Assets/Pasted image 20250207223220.png",
     "06 - Assets/Pasted image 20250207215348.png",
@@ -327,7 +329,6 @@
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/20. Valid Parentheses.md",
     "04 - Resources/DSA/Data Structures & Algorithms.md",
     "04 - Resources/Backend Roadmap/Full Roadmap.md",
-    "03 - Projects/E-commerce Platform API/Cart Management System.md",
     "Untitled 1.base",
     "Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
