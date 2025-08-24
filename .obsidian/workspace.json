@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Merge Sort"
+              "title": "88. Merge Sorted Array"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Merge Sort"
+              "title": "Graph of 88. Merge Sorted Array"
             }
           }
         ]
@@ -296,6 +296,8 @@
   },
   "active": "89933b03cc29cef0",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Quick Sort.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/206. Reverse Linked List.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
@@ -304,7 +306,6 @@
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/141. Linked List Cycle.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
-    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/704. Binary Search.md",
     "04 - Resources/Data Structures & Algorithms/Search Algorithms/Binary Search.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/20. Valid Parentheses.md",
@@ -324,7 +325,6 @@
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Bubble Sort.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Selection Sort.md",
     "04 - Resources/DSA/Merge Sort.md",
-    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Sorting Algorithms.md",
     "06 - Assets/f1-1.jpg",
     "lol.base",
     "04 - Resources/Backend Roadmap/Version Control Systems/Untitled.base",
