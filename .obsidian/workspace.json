@@ -11,10 +11,24 @@
             "id": "c4d66c46ae388bbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/01_LeetCode/0001. Two Sum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0001. Two Sum"
             }
           }
         ]
@@ -220,6 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04 - Resources/01_LeetCode/0001. Two Sum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,22 +262,23 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 0001. Two Sum"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "templater-obsidian:Templater": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -281,6 +297,9 @@
   },
   "active": "c4d66c46ae388bbe",
   "lastOpenFiles": [
+    "04 - Resources/01_LeetCode/0074. Search a 2D Matrix.md",
+    "04 - Resources/01_LeetCode/0075. Sort Colors.md",
+    "04 - Resources/01_LeetCode/0001. Two Sum.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Quick Sort.md",
@@ -307,9 +326,6 @@
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
     "04 - Resources/DSA/Quick Sort.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
-    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Bubble Sort.md",
-    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Selection Sort.md",
-    "04 - Resources/DSA/Merge Sort.md",
     "06 - Assets/f1-1.jpg",
     "lol.base",
     "04 - Resources/Backend Roadmap/Version Control Systems/Untitled.base",
