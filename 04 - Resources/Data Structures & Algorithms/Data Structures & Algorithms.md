@@ -104,6 +104,7 @@ By understanding **DSA**, you can:
 ## LeetCode Problems I attempted
 [[1. Two Sum]]
 [[2. Add Two Numbers]]
+[[7. Reverse Integer]]
 [[20. Valid Parentheses]]
 [[21. Merge Two Sorted Lists]]
 [[49. Group Anagrams]]
