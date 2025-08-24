@@ -99,3 +99,15 @@ By understanding **DSA**, you can:
 
 ---
 ***[[Sorting Algorithms]]*** are used to rearrange a given array or list elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of element in the respective data structure.
+
+---
+## LeetCode Problems I attempted
+[[1. Two Sum]]
+[[2. Add Two Numbers]]
+[[20. Valid Parentheses]]
+[[21. Merge Two Sorted Lists]]
+[[49. Group Anagrams]]
+[[88. Merge Sorted Array]]
+[[141. Linked List Cycle]]
+[[206. Reverse Linked List]]
+[[217. Contains Duplicate]]

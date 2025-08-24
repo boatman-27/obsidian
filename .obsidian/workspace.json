@@ -11,10 +11,24 @@
             "id": "c4d66c46ae388bbe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Data Structures & Algorithms"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DSA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,13 +234,14 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -247,15 +262,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Data Structures & Algorithms"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,6 +296,14 @@
   },
   "active": "c4d66c46ae388bbe",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/217. Contains Duplicate.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/49. Group Anagrams.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/20. Valid Parentheses.md",
+    "04 - Resources/DSA/Data Structures & Algorithms.md",
+    "04 - Resources/Backend Roadmap/Full Roadmap.md",
+    "03 - Projects/E-commerce Platform API/Cart Management System.md",
     "04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations/Solution of Linear Systems.md",
     "04 - Resources/TA/Numerical Maths/ENG 2 148 Mathematics 4.md",
     "04 - Resources/TA/Advanced Calculus/Chapter 1_ Parametric Equations and Plane Curves/Curves and Parametric Equations.md",
@@ -300,14 +322,6 @@
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked Lists.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/2. Add Two Numbers.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/141. Linked List Cycle.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/704. Binary Search.md",
-    "04 - Resources/Data Structures & Algorithms/Search Algorithms/Binary Search.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/20. Valid Parentheses.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Stacks/Stack Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/49. Group Anagrams.md",
     "Untitled 1.base",
     "Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",

@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -20,18 +20,32 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:\"04 - Resources/Data Structures & Algorithms\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"04 - Resources/Backend Roadmap\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 3,
   "nodeSizeMultiplier": 1.30087483723958,
-  "lineSizeMultiplier": 0.49417724609375,
+  "lineSizeMultiplier": 2.11893717447917,
   "collapse-forces": false,
-  "centerStrength": 0.472330729166667,
-  "repelStrength": 20,
-  "linkStrength": 1,
+  "centerStrength": 0.228352864583333,
+  "repelStrength": 5.11536458333333,
+  "linkStrength": 0.677164713541667,
   "linkDistance": 500,
-  "scale": 0.028990341010845855,
+  "scale": 0.06428630280497438,
   "close": false
 }
