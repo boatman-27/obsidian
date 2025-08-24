@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "496e57a382f739c7",
+        "id": "46c83cd1ff2416e2",
         "type": "tabs",
         "children": [
           {
-            "id": "aba284712169d963",
+            "id": "89933b03cc29cef0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/206. Reverse Linked List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linked lists snippets"
+              "title": "206. Reverse Linked List"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/206. Reverse Linked List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Linked lists snippets"
+              "title": "Graph of 206. Reverse Linked List"
             }
           }
         ]
@@ -294,8 +294,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "aba284712169d963",
+  "active": "89933b03cc29cef0",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked Lists.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/206. Reverse Linked List.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/2. Add Two Numbers.md",
@@ -303,7 +304,6 @@
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/141. Linked List Cycle.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/704. Binary Search.md",
     "04 - Resources/Data Structures & Algorithms/Search Algorithms/Binary Search.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/20. Valid Parentheses.md",
