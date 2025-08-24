@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arrays"
+              "title": "7. Reverse Integer"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Arrays"
+              "title": "Graph of 7. Reverse Integer"
             }
           }
         ]
@@ -274,6 +274,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
+      "templates:Insert template": false,
       "templater-obsidian:Templater": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-git:Open Git source control": false,
@@ -281,7 +282,6 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -296,6 +296,8 @@
   },
   "active": "c31a4f46b358e05b",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "05 - Useful Snippets/SQL Commands for Maths Skills Project.md",
@@ -326,8 +328,6 @@
     "04 - Resources/DSA/Data Structures & Algorithms.md",
     "04 - Resources/Backend Roadmap/Full Roadmap.md",
     "03 - Projects/E-commerce Platform API/Cart Management System.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations/Solution of Linear Systems.md",
-    "04 - Resources/TA/Numerical Maths/ENG 2 148 Mathematics 4.md",
     "Untitled 1.base",
     "Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
