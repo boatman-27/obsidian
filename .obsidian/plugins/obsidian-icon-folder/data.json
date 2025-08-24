@@ -6,14 +6,14 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCode2",
       "LiAlertOctagon",
       "LiShoppingCart",
       "🎥",
       "LiServerCrash",
       "🧋",
       "LiFlag",
-      "LiBrickWall",
-      "LiWeight"
+      "LiBrickWall"
     ],
     "recentlyUsedIconsSize": 8,
     "rules": [],
@@ -44,10 +44,6 @@
   "02 - Personal": "LiSmilePlus",
   "02 - Personal/Bank Transfers.md": {
     "iconName": "LiBanknote",
-    "iconColor": "#e67e05"
-  },
-  "02 - Personal/GYM.md": {
-    "iconName": "LiWeight",
     "iconColor": "#e67e05"
   },
   "02 - Personal/Thesis Project Step 2 🤦🏻.md": {
@@ -128,5 +124,6 @@
   "04 - Resources/Backend Roadmap/GO/FLAG": "LiFlag",
   "03 - Projects/Movie Reservation System": "🎥",
   "03 - Projects/E-commerce Platform API": "LiShoppingCart",
-  "04 - Resources/Data Structures & Algorithms": "LiAlertOctagon"
+  "04 - Resources/Data Structures & Algorithms": "LiAlertOctagon",
+  "02 - Personal/NEOVIM.md": "LiCode2"
 }

@@ -111,3 +111,6 @@ By understanding **DSA**, you can:
 [[141. Linked List Cycle]]
 [[206. Reverse Linked List]]
 [[217. Contains Duplicate]]
+[[242. Valid Anagram]]
+[[347. Top K Frequent Elements]]
+[[704. Binary Search]]
