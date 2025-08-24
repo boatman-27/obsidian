@@ -11,24 +11,10 @@
             "id": "c4d66c46ae388bbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Resources/01_LeetCode/0001. Two Sum.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "0001. Two Sum"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -234,7 +220,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/01_LeetCode/0001. Two Sum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +247,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 0001. Two Sum"
+              "title": "Graph view"
             }
           }
         ]
@@ -297,9 +282,9 @@
   },
   "active": "c4d66c46ae388bbe",
   "lastOpenFiles": [
+    "04 - Resources/01_LeetCode/0001. Two Sum.md",
     "04 - Resources/01_LeetCode/0074. Search a 2D Matrix.md",
     "04 - Resources/01_LeetCode/0075. Sort Colors.md",
-    "04 - Resources/01_LeetCode/0001. Two Sum.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Quick Sort.md",

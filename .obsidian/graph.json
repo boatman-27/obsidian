@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#leetcode  ",
-      "color": {
-        "a": 1,
-        "rgb": 14298050
-      }
-    },
-    {
       "query": "path:\"04 - Resources/Data Structures & Algorithms\"  ",
       "color": {
         "a": 1,
@@ -49,8 +42,8 @@
   "nodeSizeMultiplier": 1.38441569010417,
   "lineSizeMultiplier": 0.492582194010417,
   "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 20,
+  "centerStrength": 0.941569010416667,
+  "repelStrength": 14.248046875,
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.07866721184029289,
