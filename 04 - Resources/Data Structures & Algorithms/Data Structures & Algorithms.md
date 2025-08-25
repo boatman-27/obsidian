@@ -101,6 +101,9 @@ By understanding **DSA**, you can:
 ***[[Sorting Algorithms]]*** are used to rearrange a given array or list elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of element in the respective data structure.
 
 ---
+A **[[Tree data structure]]** is a type of non-linear, hierarchical data structure that consists of nodes connected by edges. It follows the parent-child relationship, with the top node being called the root. Each node in a tree can have child nodes and each of these child nodes has a single parent node.
+
+---
 ## LeetCode Problems I attempted
 [[1. Two Sum]]
 [[2. Add Two Numbers]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structures.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tree Data Structures"
+              "title": "Tree Data Structure"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structures.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Tree Data Structures"
+              "title": "Graph of Tree Data Structure"
             }
           }
         ]
@@ -296,10 +296,11 @@
   },
   "active": "c31a4f46b358e05b",
   "lastOpenFiles": [
-    "04 - Resources/Data Structures & Algorithms/Untitled.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structures.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
+    "Tree data structure.md",
+    "04 - Resources/Data Structures & Algorithms/Untitled.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/12. Integer to Roman.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
@@ -328,7 +329,6 @@
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/217. Contains Duplicate.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/49. Group Anagrams.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
     "Untitled 1.base",
     "Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
