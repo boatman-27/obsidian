@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Binary Search Tree"
+              "title": "Binary Tree Snippets"
             }
           }
         ]
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Binary Search Tree"
+              "title": "Backlinks for Binary Tree Snippets"
             }
           },
           {
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Binary Search Tree"
+              "title": "Outgoing links from Binary Tree Snippets"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Binary Search Tree"
+              "title": "Outline of Binary Tree Snippets"
             }
           },
           {
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Binary Search Tree"
+              "title": "Graph of Binary Tree Snippets"
             }
           }
         ]
@@ -296,8 +296,8 @@
   },
   "active": "4d19eb88b7b873a0",
   "lastOpenFiles": [
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Breadth First Search.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Array Implementation.md",
