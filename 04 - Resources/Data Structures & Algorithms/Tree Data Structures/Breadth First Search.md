@@ -7,7 +7,43 @@ date: 2025-08-25T22:20:00
 BFS is a traversing algorithm where you should start traversing from a selected node (source or starting node) and traverse the graph layerwise thus exploring the neighbour nodes (nodes which are directly connected to source node). You must then move towards the next-level neighbour nodes.
 
 ## Pointer Implementation
-```
+```go
+// TreeNode represents a single node in a binary tree.
+// Each node holds an integer value (Data) and may have
+// a left and/or right child node.
+type TreeNode struct {
+	Data      int
+	LeftNode  *TreeNode
+	RightNode *TreeNode
+}
+
+func BFS(root *TreeNode) {
+	if root == nil {
+		return
+	}
+
+	// queue is just a slice of *TreeNode
+	queue := []*TreeNode{root}
+
+	for len(queue) > 0 {
+		// Pop the first element
+		node := queue[0]
+		queue = queue[1:]
+
+		// "Visit" the node
+		fmt.Println(node.Data)
+
+		// Enqueue children if they exist
+		if node.LeftNode != nil {
+			queue = append(queue, node.LeftNode)
+		}
+		if node.RightNode != nil {
+			queue = append(queue, node.RightNode)
+		}
+	}
+}
+
+
 ```
 
 ## Array Implementation

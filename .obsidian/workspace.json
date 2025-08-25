@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46d1708a311a3758",
+        "id": "218fc41dd6a25249",
         "type": "tabs",
         "children": [
           {
-            "id": "1c30d8063a34f798",
+            "id": "4d19eb88b7b873a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Breadth First Search.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Breadth First Search"
+              "title": "Binary Search Tree"
             }
           }
         ]
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Breadth First Search.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Breadth First Search"
+              "title": "Backlinks for Binary Search Tree"
             }
           },
           {
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Breadth First Search.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Breadth First Search"
+              "title": "Outgoing links from Binary Search Tree"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Breadth First Search.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Breadth First Search"
+              "title": "Outline of Binary Search Tree"
             }
           },
           {
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Breadth First Search.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Breadth First Search"
+              "title": "Graph of Binary Search Tree"
             }
           }
         ]
@@ -294,12 +294,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1c30d8063a34f798",
+  "active": "4d19eb88b7b873a0",
   "lastOpenFiles": [
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Array Implementation.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Breadth First Search.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Breadth First Search.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Array Implementation.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/post-order.md",
     "06 - Assets/Pasted image 20250825210644.png",
@@ -331,7 +332,6 @@
     "01 - Archive/Apple Notes/bri_frm860.md",
     "01 - Archive/Apple Notes/Gym weights.md",
     "02 - Personal/MANIM/Chapter 1 Class Activity.md",
-    "02 - Personal/NEOVIM.md",
     "Untitled 1.base",
     "Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
