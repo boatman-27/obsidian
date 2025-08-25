@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9473f8ace6db1511",
+        "id": "46d1708a311a3758",
         "type": "tabs",
         "children": [
           {
-            "id": "292f5f056d60dfe9",
+            "id": "1c30d8063a34f798",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Binary Tree"
+              "title": "Array Snippets"
+            }
+          },
+          {
+            "id": "f2898d8e386fb5ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Binary Tree Snippets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +287,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Binary Tree"
+              "title": "Graph of Binary Tree Snippets"
             }
           }
         ]
@@ -294,11 +319,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "292f5f056d60dfe9",
+  "active": "f2898d8e386fb5ff",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
     "Tree data structure.md",
     "04 - Resources/Data Structures & Algorithms/Untitled.md",
@@ -306,7 +334,6 @@
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/12. Integer to Roman.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
     "05 - Useful Snippets/SQL Commands for Maths Skills Project.md",
     "06 - Assets/Pasted image 20250207223220.png",
@@ -327,8 +354,6 @@
     "02 - Personal/Bank Transfers.md",
     "02 - Personal/Words.md",
     "02 - Personal/Quiz Sender.md",
-    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Sorting Algorithms.md",
-    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
     "Untitled 1.base",
     "Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
