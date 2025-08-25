@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/post-order.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Array Snippets"
-            }
-          },
-          {
-            "id": "f2898d8e386fb5ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Binary Tree Snippets"
+              "title": "post-order"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/post-order.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Binary Tree Snippets"
+              "title": "Graph of post-order"
             }
           }
         ]
@@ -319,17 +294,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f2898d8e386fb5ff",
+  "active": "1c30d8063a34f798",
   "lastOpenFiles": [
+    "06 - Assets/Pasted image 20250825210644.png",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/in-order.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/post-order.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
     "06 - Assets/Pasted image 20250825204441.png",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/pre-order.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
     "06 - Assets/Pasted image 20250825145532.png",
     "06 - Assets/Pasted image 20250207223220.png",
     "06 - Assets/Pasted image 20250207215348.png",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
@@ -354,7 +331,6 @@
     "02 - Personal/MANIM/Chapter 1 Class Activity.md",
     "02 - Personal/NEOVIM.md",
     "02 - Personal/Drawing With Turtle.md",
-    "02 - Personal/GYM.md",
     "Untitled 1.base",
     "Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",

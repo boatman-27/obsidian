@@ -9,7 +9,7 @@ What makes this traversal "in" order, is that the node is visited in between the
 
 ![[Pasted image 20250825204441.png]]
 
-The `inOrderTraversal()` function keeps calling itself with the current left child node as an argument until that argument is `None` and the function returns (line 2-3).
+The `inOrderTraversal()` function keeps calling itself with the current left child node as an argument until that argument is `None` and the function returns.
 
 The first time the argument `node` is `None` is when the left child of node C is given as an argument (C has no left child).
 
