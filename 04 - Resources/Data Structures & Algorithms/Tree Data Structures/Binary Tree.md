@@ -32,9 +32,9 @@ There are two main categories of Tree traversal methods:
 - **Breadth First Search (BFS)** is when the nodes on the same level are visited before going to the next level in the tree. This means that the tree is explored in a more sideways direction.
 - **Depth First Search (DFS)** is when the traversal moves down the tree all the way to the leaf nodes, exploring the tree branch by branch in a downwards direction.
 	- [[pre-order]]
-	- in-order
-	- post-order
+	- [[in-order]]
+	- [[post-order]]
 
 ---
 ## Binary Tree snippets
-See the full code examples here: [[Array Snippets]]
+See the full code examples here: [[Binary Tree Snippets]]

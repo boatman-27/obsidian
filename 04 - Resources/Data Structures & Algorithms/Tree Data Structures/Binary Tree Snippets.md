@@ -70,3 +70,26 @@ func (t *TreeNode) PreOrder(node *TreeNode) {
 	t.PreOrder(node.RightNode)
 }
 ```
+### 2.2 In-Order
+```go
+func (t *TreeNode) InOrder(node *TreeNode) {
+	if node == nil {
+		return
+	}
+	t.InOrder(node.LeftNode)
+	fmt.Println(node.Data)
+	t.InOrder(node.RightNode)
+}
+```
+### 2.3 Post-Order
+```go
+func (t *TreeNode) PostOrder(node *TreeNode) {
+	if node == nil {
+		return
+	}
+
+	t.PostOrder(node.LeftNode)
+	t.PostOrder(node.RightNode)
+	fmt.Println(node.Data)
+}
+```

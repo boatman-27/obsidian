@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/post-order.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "post-order"
+              "title": "Binary Tree"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/post-order.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of post-order"
+              "title": "Graph of Binary Tree"
             }
           }
         ]
@@ -296,14 +296,14 @@
   },
   "active": "1c30d8063a34f798",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/post-order.md",
     "06 - Assets/Pasted image 20250825210644.png",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/in-order.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/post-order.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
     "06 - Assets/Pasted image 20250825204441.png",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/pre-order.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "06 - Assets/Pasted image 20250825145532.png",
     "06 - Assets/Pasted image 20250207223220.png",
     "06 - Assets/Pasted image 20250207215348.png",
@@ -343,7 +343,6 @@
     "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/MindMap.canvas",
     "06 - Assets/Bisection Method Definition.png",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/MindMap.canvas",
-    "04 - Resources/TA/Numerical Maths/PDFs/Pasted image 20250117234621.png",
     "03 - Projects/TaskQuest/MindMap.canvas",
     "Projects/Wordle/Untitled.canvas",
     "04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations/MindMap.canvas",
