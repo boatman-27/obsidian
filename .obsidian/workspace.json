@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/pre-order.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pre-order"
+              "title": "Binary Tree"
             }
           }
         ],
@@ -259,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/pre-order.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,7 +287,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of pre-order"
+              "title": "Graph of Binary Tree"
             }
           }
         ]
@@ -321,11 +321,11 @@
   },
   "active": "f2898d8e386fb5ff",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/pre-order.md",
     "06 - Assets/Pasted image 20250825145532.png",
     "06 - Assets/Pasted image 20250207223220.png",
     "06 - Assets/Pasted image 20250207215348.png",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/pre-order.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
