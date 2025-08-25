@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/pre-order.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/in-order.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pre-order"
+              "title": "in-order"
             }
           }
         ],
@@ -259,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/pre-order.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/in-order.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,7 +287,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of pre-order"
+              "title": "Graph of in-order"
             }
           }
         ]
@@ -321,9 +321,10 @@
   },
   "active": "f2898d8e386fb5ff",
   "lastOpenFiles": [
+    "06 - Assets/Pasted image 20250825204441.png",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/pre-order.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/in-order.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/pre-order.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
     "06 - Assets/Pasted image 20250825145532.png",
     "06 - Assets/Pasted image 20250207223220.png",
@@ -354,7 +355,6 @@
     "02 - Personal/NEOVIM.md",
     "02 - Personal/Drawing With Turtle.md",
     "02 - Personal/GYM.md",
-    "02 - Personal/Bank Transfers.md",
     "Untitled 1.base",
     "Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
