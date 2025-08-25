@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structures.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Structures & Algorithms"
+              "title": "Tree Data Structures"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structures.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,12 +257,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 98,
-                  "scale": 0.1897296733715684,
+                  "scale": 0.3228629305508484,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Data Structures & Algorithms"
+              "title": "Graph of Tree Data Structures"
             }
           }
         ]
@@ -296,10 +296,13 @@
   },
   "active": "c31a4f46b358e05b",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Untitled.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structures.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures",
+    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/12. Integer to Roman.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
     "05 - Useful Snippets/SQL Commands for Maths Skills Project.md",
@@ -326,8 +329,6 @@
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/217. Contains Duplicate.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/49. Group Anagrams.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/21. Merge Two Sorted Lists.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/20. Valid Parentheses.md",
-    "04 - Resources/DSA/Data Structures & Algorithms.md",
     "Untitled 1.base",
     "Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
@@ -337,7 +338,6 @@
     "04 - Resources/Data Structures & Algorithms/Search Algorithms",
     "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Hash Tables",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Queues",
     "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/MindMap.canvas",
     "06 - Assets/Bisection Method Definition.png",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/MindMap.canvas",
