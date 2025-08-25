@@ -1,6 +1,7 @@
 ---
 tags:
   - DSA
+  - go
 date: 2025-08-25T21:18:00
 ---
 To avoid the cost of all the shifts in memory that we get from using Arrays, it is useful to implement Binary Trees with pointers from one element to the next, just like Binary Trees are implemented before this point, especially when the Binary Tree is modified often.
