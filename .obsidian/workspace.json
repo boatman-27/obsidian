@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38e9ea040ba2c98e",
+        "id": "9473f8ace6db1511",
         "type": "tabs",
         "children": [
           {
-            "id": "c31a4f46b358e05b",
+            "id": "292f5f056d60dfe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -294,12 +294,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c31a4f46b358e05b",
+  "active": "292f5f056d60dfe9",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "Tree data structure.md",
     "04 - Resources/Data Structures & Algorithms/Untitled.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures",
