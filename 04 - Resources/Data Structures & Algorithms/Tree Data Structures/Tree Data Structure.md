@@ -20,4 +20,13 @@ The topmost node of the tree is called the **root**, and the nodes below it are 
 - ****Level of a node:**** The count of edges on the path from the root node to that node. The root node has level ****0****.
 - ****Internal node:**** A node with at least one child is called Internal Node.
 - ****Neighbour of a Node:**** Parent or child nodes of that node are called neighbors of that node.
-- ****Subtree****: Any node of the tree along with its descendant.
+- ***Subtree***: Any node of the tree along with its descendant.
+---
+### Why Tree is considered a non-linear data structure?
+
+The data in a tree are not stored in a sequential manner i.e., they are not stored linearly. Instead, they are arranged on multiple levels or we can say it is a hierarchical structure. For this reason, the tree is considered to be a **non-linear data structure**. 
+
+---
+### Types of Tree data structures:
+Tree data structure can be classified into three types based upon the number of children each node of the tree can have. The types are:
+- **Binary Tree**: 
