@@ -35,6 +35,8 @@ There are two main categories of Tree traversal methods:
 	- [[in-order]]
 	- [[post-order]]
 
+[[Array Implementation]] of Binary Trees
+
 ---
 ## Binary Tree snippets
 See the full code examples here: [[Binary Tree Snippets]]

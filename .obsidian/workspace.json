@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Array Implementation.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Array Implementation"
+              "title": "Binary Tree"
             }
           }
         ]
@@ -144,8 +144,8 @@
             "state": {
               "type": "tagfolder-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "tagfolder-view"
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           },
           {
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Data Structures"
+              "title": "Backlinks for Binary Tree"
             }
           },
           {
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Data Structures"
+              "title": "Outgoing links from Binary Tree"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Structures"
+              "title": "Outline of Binary Tree"
             }
           },
           {
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Array Implementation.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,14 +262,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Array Implementation"
+              "title": "Graph of Binary Tree"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,9 +296,10 @@
   },
   "active": "1c30d8063a34f798",
   "lastOpenFiles": [
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Array Implementation.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/post-order.md",
     "06 - Assets/Pasted image 20250825210644.png",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/in-order.md",
@@ -310,7 +311,6 @@
     "06 - Assets/Pasted image 20250207215348.png",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
     "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
     "Tree data structure.md",
     "04 - Resources/Data Structures & Algorithms/Untitled.md",
