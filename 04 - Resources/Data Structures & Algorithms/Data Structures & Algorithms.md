@@ -91,7 +91,6 @@ By understanding **DSA**, you can:
 | Divide and Conquer | A method of solving complex problems by breaking them into smaller, more manageable sub-problems, solving the sub-problems, and combining the solutions. Recursion is often used when using this method in an algorithm. |
 | Brute Force        | A simple and straight forward way an algorithm can work by simply trying all possible solutions and then choosing the best one.                                                                                          |
 
----
 ***[[Algorithmic Complexity]]*** refers to the computing resources needed by an algorithm to solve a problem. These computing resources can be the time taken for program execution (*time complexity*), or the space used in memory during its execution (*space complexity*).
 
 ---

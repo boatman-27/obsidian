@@ -12,5 +12,5 @@ Data structures are fundamental components of computer science that help organiz
 - **[[Stacks]] & [[Queues]]**: Implementation using arrays or linked lists, and applications like parentheses matching, backtracking, and BFS/DFS.
 ### Non-Linear Data Structures
 - **Hashing**: Learn how hash tables, hash maps, and collision handling techniques work.
-- **Trees**: Study binary trees, binary search trees (BST), tree traversals (DFS, BFS), segment trees, and tries.
+- **Trees**: Study [[Binary Tree]], [[Binary Search Tree]] (BST), tree traversals (DFS, BFS), segment trees, and tries.
 - **Graphs**: Understanding graph representations (adjacency list/matrix), graph traversal techniques (DFS, BFS), shortest path algorithms (Dijkstra, Bellman-Ford), minimum spanning trees (Kruskal, Prim), and more.

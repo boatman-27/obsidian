@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Binary Search Tree"
+              "title": "Linked lists snippets"
             }
           }
         ]
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Binary Search Tree"
+              "title": "Backlinks for Linked lists snippets"
             }
           },
           {
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Binary Search Tree"
+              "title": "Outgoing links from Linked lists snippets"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Binary Search Tree"
+              "title": "Outline of Linked lists snippets"
             }
           },
           {
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Binary Search Tree"
+              "title": "Graph of Linked lists snippets"
             }
           }
         ]
@@ -296,25 +296,31 @@
   },
   "active": "4d19eb88b7b873a0",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked Lists.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Circular linked lists.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Doubly linked lists.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Singly linked lists.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
+    "Binary Trees.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+    "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Breadth First Search.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Array Implementation.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/post-order.md",
     "06 - Assets/Pasted image 20250825210644.png",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/in-order.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
     "06 - Assets/Pasted image 20250825204441.png",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/pre-order.md",
     "06 - Assets/Pasted image 20250825145532.png",
     "06 - Assets/Pasted image 20250207223220.png",
     "06 - Assets/Pasted image 20250207215348.png",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
-    "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
     "Tree data structure.md",
     "04 - Resources/Data Structures & Algorithms/Untitled.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures",
@@ -322,16 +328,10 @@
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/9. Palindrome Number.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/7. Reverse Integer.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/88. Merge Sorted Array.md",
-    "05 - Useful Snippets/SQL Commands for Maths Skills Project.md",
     "06 - Assets/f1-1.jpg",
     "06 - Assets/Brown Wooden Book Shelf.jpg",
     "06 - Assets/Aurora Phenomenon Unsplash.jpg",
     "06 - Assets/asgard-realm-gods-aesir-s-celestial-home-nordic-mythology-viking-mythology-landscape_1041587-634.avif",
-    "01 - Archive/Advent of code 2024.md",
-    "01 - Archive/Apple Notes/The horses are galloping at precarious speeds perhaps i may arrive….md",
-    "01 - Archive/Apple Notes/Functions.md",
-    "01 - Archive/Apple Notes/bri_frm860.md",
-    "01 - Archive/Apple Notes/Gym weights.md",
     "Untitled 1.base",
     "Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
