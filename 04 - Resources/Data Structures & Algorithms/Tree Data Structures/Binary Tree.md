@@ -25,5 +25,16 @@ A **full** Binary Tree is a kind of tree where each node has either 0 or 2 child
 A **perfect** Binary Tree has all leaf nodes on the same level, which means that all levels are full of nodes, and all internal/parent nodes have two child nodes.The properties of a perfect Binary Tree means it is also full, balanced, and complete.
 
 ---
+## Binary Tree Traversal
+Going through a Tree by visiting every node, one node at a time, is called traversal.
+
+There are two main categories of Tree traversal methods:
+- **Breadth First Search (BFS)** is when the nodes on the same level are visited before going to the next level in the tree. This means that the tree is explored in a more sideways direction.
+- **Depth First Search (DFS)** is when the traversal moves down the tree all the way to the leaf nodes, exploring the tree branch by branch in a downwards direction.
+	- pre-order
+	- in-order
+	- post-order
+
+---
 ## Binary Tree snippets
 See the full code examples here: [[Array Snippets]]
