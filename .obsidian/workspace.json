@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tree Data Structure"
+              "title": "Binary Tree"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Tree Data Structure"
+              "title": "Graph of Binary Tree"
             }
           }
         ]
@@ -297,6 +297,7 @@
   "active": "c31a4f46b358e05b",
   "lastOpenFiles": [
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "Tree data structure.md",
@@ -328,7 +329,6 @@
     "02 - Personal/Quiz Sender.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Sorting Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/217. Contains Duplicate.md",
     "Untitled 1.base",
     "Untitled.base",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
