@@ -22,6 +22,6 @@ The `preOrderTraversal()` function keeps traversing the left subtree recursively
 
 The first time the argument `node` is `None` is when the left child of node C is given as an argument (C has no left child).
 
-After `None` is returned the first time when calling C's left child, C's right child also returns `None`, and then the recursive calls continue to propagate back so that A's right child D is the next to be printed.
+After `None` is returned the first time when calling C's left child, C's right child also returns `None`, and then the recursive calls continue to propagate back so that A's right child D is the next to be printed.b 
 
 The code continues to propagate back so that the rest of the nodes in R's right subtree gets printed.
