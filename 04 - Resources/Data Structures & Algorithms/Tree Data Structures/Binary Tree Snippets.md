@@ -36,7 +36,7 @@ func main() {
 }
 ```
 ## 2. **Traversal**
-## 2.1 PreOrder
+## 2.1 Pre-Order
 ```go
 package main
 

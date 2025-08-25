@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/in-order.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "in-order"
+              "title": "Binary Tree Snippets"
             }
           }
         ],
@@ -259,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/in-order.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,7 +287,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of in-order"
+              "title": "Graph of Binary Tree Snippets"
             }
           }
         ]
@@ -321,9 +321,9 @@
   },
   "active": "f2898d8e386fb5ff",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/in-order.md",
     "06 - Assets/Pasted image 20250825204441.png",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/pre-order.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/in-order.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
     "06 - Assets/Pasted image 20250825145532.png",
@@ -372,7 +372,6 @@
     "Projects/Wordle/Untitled.canvas",
     "04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations/MindMap.canvas",
     "02 - Personal/Norse/Tree.canvas",
-    "asgard-realm-gods-aesir-s-celestial-home-nordic-mythology-viking-mythology-landscape_1041587-634 1.avif",
     "Untitled 1.canvas"
   ]
 }
