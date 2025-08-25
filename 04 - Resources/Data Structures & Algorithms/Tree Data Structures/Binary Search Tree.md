@@ -13,3 +13,9 @@ The properties that separate a binary search tree from a regular [[Binary Tree]]
 2. All nodes of right subtree are more than the root node
 3. Both subtrees of each node are also BSTs i.e. they have the above two properties
 
+---
+## Search Operation
+
+The algorithm depends on the property of BST that if each left subtree has values less than the root and each right subtree has values bigger than the root.
+
+If the value is below the root, we can say for sure that the value is not in the right subtree; we need to only search in the left subtree and if the value is above the root, we can say for sure that the value is not in the left subtree; we need to only search in the right subtree.
