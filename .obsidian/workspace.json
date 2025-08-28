@@ -11,10 +11,24 @@
             "id": "74b6d11dc1564063",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Two Sum"
             }
           }
         ]
@@ -140,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 1. Two Sum"
             }
           },
           {
@@ -158,11 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 1. Two Sum"
             }
           },
           {
@@ -186,12 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1. Two Sum"
             }
           },
           {
@@ -217,6 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,12 +257,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 98,
-                  "scale": 0.3228629305508484,
+                  "scale": 0.2795663932018014,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1. Two Sum"
             }
           }
         ]
@@ -276,7 +294,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "74b6d11dc1564063",
+  "active": "6f24bb3a2eca67c2",
   "lastOpenFiles": [
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
