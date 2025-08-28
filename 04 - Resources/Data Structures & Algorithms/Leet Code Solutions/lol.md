@@ -1,28 +1,27 @@
-Given an array of strings `strs`, group the
+Given the `root` of a binary tree, return _the inorder traversal of its nodes' values_.
 
-together. You can return the answer in **any order**.
 ### **Example 1:**
 ```markdown
-**Input:** strs = ["eat","tea","tan","ate","nat","bat"]
-**Output:** [["bat"],["nat","tan"],["ate","eat","tea"]]
-
-
-**Explanation:**
-- There is no string in strs that can be rearranged to form `"bat"`.
-- The strings `"nat"` and `"tan"` are anagrams as they can be rearranged to form each other.
-- The strings `"ate"`, `"eat"`, and `"tea"` are anagrams as they can be rearranged to form each other.
+**Input:** root = [1,null,2,3]
+**Output:** [1,3,2]
 ```
 ### **Example 2:**
 ```markdown
-**Input:** strs = [""]
-**Output:** [[""]]
+**Input:** root = [1,2,3,4,5,null,8,null,null,6,7,9]
+**Output:** [4,2,6,5,7,1,3,9,8]
 ```
 ### **Example 3:**
 ```markdown
-**Input:** strs = ["a"]
-**Output:** [["a"]]
+**Input:** root = []
+**Output:** []
+```
+### **Example 4:**
+```markdown
+**Input:** root = [1]
+**Output:** [1]
 ```
 ### **Constraints:**
-- `1 <= strs.length <= 104`
-- `0 <= strs[i].length <= 100`
-- `strs[i]` consists of lowercase English letters.
+- The number of nodes in the tree is in the range `[0, 100]`.
+- `-100 <= Node.val <= 100`
+
+**Follow up:** Recursive solution is trivial, could you do it iteratively?
