@@ -1,27 +1,22 @@
-Given the `root` of a binary tree, return _the inorder traversal of its nodes' values_.
+Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
 
 ### **Example 1:**
 ```markdown
-**Input:** root = [1,null,2,3]
-**Output:** [1,3,2]
+**Input:** head = [1,2,3,4,5]
+**Output:** [5,4,3,2,1]
 ```
 ### **Example 2:**
 ```markdown
-**Input:** root = [1,2,3,4,5,null,8,null,null,6,7,9]
-**Output:** [4,2,6,5,7,1,3,9,8]
+**Input:** head = [1,2]
+**Output:** [2,1]
 ```
 ### **Example 3:**
 ```markdown
-**Input:** root = []
+**Input:** head = []
 **Output:** []
 ```
-### **Example 4:**
-```markdown
-**Input:** root = [1]
-**Output:** [1]
-```
 ### **Constraints:**
-- The number of nodes in the tree is in the range `[0, 100]`.
-- `-100 <= Node.val <= 100`
+- The number of nodes in the list is the range `[0, 5000]`.
+- `-5000 <= Node.val <= 5000`
 
-**Follow up:** Recursive solution is trivial, could you do it iteratively?
+**Follow up:** A linked list can be reversed either iteratively or recursively. Could you implement both?
