@@ -1,28 +1,28 @@
-You are given the heads of two sorted linked lists `list1` and `list2`.
+Given an array of strings `strs`, group the
 
-Merge the two lists into one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
-
-Return _the head of the merged linked list_.
-
+together. You can return the answer in **any order**.
 ### **Example 1:**
-
-![](https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg)
-
 ```markdown
-**Input:** list1 = [1,2,4], list2 = [1,3,4]
-**Output:** [1,1,2,3,4,4]
+**Input:** strs = ["eat","tea","tan","ate","nat","bat"]
+**Output:** [["bat"],["nat","tan"],["ate","eat","tea"]]
+
+
+**Explanation:**
+- There is no string in strs that can be rearranged to form `"bat"`.
+- The strings `"nat"` and `"tan"` are anagrams as they can be rearranged to form each other.
+- The strings `"ate"`, `"eat"`, and `"tea"` are anagrams as they can be rearranged to form each other.
 ```
 ### **Example 2:**
 ```markdown
-**Input:** list1 = [], list2 = []
-**Output:** []
+**Input:** strs = [""]
+**Output:** [[""]]
 ```
 ### **Example 3:**
 ```markdown
-**Input:** list1 = [], list2 = [0]
-**Output:** [0]
+**Input:** strs = ["a"]
+**Output:** [["a"]]
 ```
 ### **Constraints:**
-- The number of nodes in both lists is in the range `[0, 50]`.
-- `-100 <= Node.val <= 100`
-- Both `list1` and `list2` are sorted in **non-decreasing** order.
+- `1 <= strs.length <= 104`
+- `0 <= strs[i].length <= 100`
+- `strs[i]` consists of lowercase English letters.
