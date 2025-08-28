@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Two Sum"
+              "title": "347. Top K Frequent Elements"
             }
           }
         ]
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Two Sum"
+              "title": "Backlinks for 347. Top K Frequent Elements"
             }
           },
           {
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Two Sum"
+              "title": "Outgoing links from 347. Top K Frequent Elements"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Two Sum"
+              "title": "Outline of 347. Top K Frequent Elements"
             }
           },
           {
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1. Two Sum"
+              "title": "Graph of 347. Top K Frequent Elements"
             }
           }
         ]
@@ -294,8 +294,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6f24bb3a2eca67c2",
+  "active": "74b6d11dc1564063",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/242. Valid Anagram.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/217. Contains Duplicate.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Queues/Queues.md",
@@ -320,13 +323,10 @@
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/post-order.md",
     "06 - Assets/Pasted image 20250825210644.png",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/in-order.md",
     "06 - Assets/Pasted image 20250825204441.png",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/pre-order.md",
     "06 - Assets/Pasted image 20250825145532.png",
     "06 - Assets/Pasted image 20250207223220.png",
     "06 - Assets/Pasted image 20250207215348.png",
-    "Tree data structure.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures",
     "06 - Assets/f1-1.jpg",
     "06 - Assets/Brown Wooden Book Shelf.jpg",
