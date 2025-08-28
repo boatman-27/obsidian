@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "347. Top K Frequent Elements"
+              "title": "lol"
             }
           }
         ]
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 347. Top K Frequent Elements"
+              "title": "Backlinks for lol"
             }
           },
           {
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 347. Top K Frequent Elements"
+              "title": "Outgoing links from lol"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 347. Top K Frequent Elements"
+              "title": "Outline of lol"
             }
           },
           {
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 347. Top K Frequent Elements"
+              "title": "Graph of lol"
             }
           }
         ]
@@ -296,9 +296,12 @@
   },
   "active": "74b6d11dc1564063",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/2. Add Two Numbers.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/242. Valid Anagram.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/217. Contains Duplicate.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Queues/Queues.md",
@@ -319,9 +322,6 @@
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Breadth First Search.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Array Implementation.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/post-order.md",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
     "06 - Assets/Pasted image 20250825145532.png",
