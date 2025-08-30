@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/110. Balanced Binary Tree.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lol"
+              "title": "110. Balanced Binary Tree"
             }
           }
         ]
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/110. Balanced Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lol"
+              "title": "Backlinks for 110. Balanced Binary Tree"
             }
           },
           {
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/110. Balanced Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lol"
+              "title": "Outgoing links from 110. Balanced Binary Tree"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/110. Balanced Binary Tree.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lol"
+              "title": "Outline of 110. Balanced Binary Tree"
             }
           },
           {
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/110. Balanced Binary Tree.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of lol"
+              "title": "Graph of 110. Balanced Binary Tree"
             }
           }
         ]
@@ -297,12 +297,13 @@
   "active": "d0616f479cfe506b",
   "lastOpenFiles": [
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/104. Maximum Depth of Binary Tree.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/110. Balanced Binary Tree.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/912. Sort an Array.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
@@ -321,7 +322,6 @@
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Doubly linked lists.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Singly linked lists.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
     "06 - Assets/Pasted image 20250825145532.png",
