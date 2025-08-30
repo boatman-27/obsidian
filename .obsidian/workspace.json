@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree Snippets.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/104. Maximum Depth of Binary Tree.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Binary Search Tree Snippets"
+              "title": "104. Maximum Depth of Binary Tree"
             }
           }
         ]
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree Snippets.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/104. Maximum Depth of Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Binary Search Tree Snippets"
+              "title": "Backlinks for 104. Maximum Depth of Binary Tree"
             }
           },
           {
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree Snippets.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/104. Maximum Depth of Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Binary Search Tree Snippets"
+              "title": "Outgoing links from 104. Maximum Depth of Binary Tree"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree Snippets.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/104. Maximum Depth of Binary Tree.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Binary Search Tree Snippets"
+              "title": "Outline of 104. Maximum Depth of Binary Tree"
             }
           },
           {
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree Snippets.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/104. Maximum Depth of Binary Tree.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Binary Search Tree Snippets"
+              "title": "Graph of 104. Maximum Depth of Binary Tree"
             }
           }
         ]
@@ -296,6 +296,8 @@
   },
   "active": "d0616f479cfe506b",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree Snippets.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/104. Maximum Depth of Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
@@ -320,8 +322,6 @@
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Singly linked lists.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
-    "Binary Trees.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
     "06 - Assets/Pasted image 20250825145532.png",
