@@ -11,10 +11,24 @@
             "id": "c74bc03886478e5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lol"
             }
           }
         ]
@@ -140,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for lol"
             }
           },
           {
@@ -158,11 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from lol"
             }
           },
           {
@@ -186,12 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of lol"
             }
           },
           {
@@ -217,6 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of lol"
             }
           }
         ]
@@ -278,6 +296,8 @@
   },
   "active": "c74bc03886478e5c",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/225. Implement Stack using Queues.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Stacks/Stack Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/110. Balanced Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/104. Maximum Depth of Binary Tree.md",
@@ -296,14 +316,12 @@
     "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Queues/Queues.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Queues/Queue Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Stacks/Stack Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Stacks/Stacks.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked Lists.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Circular linked lists.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Doubly linked lists.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Singly linked lists.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
     "06 - Assets/Pasted image 20250825145532.png",
