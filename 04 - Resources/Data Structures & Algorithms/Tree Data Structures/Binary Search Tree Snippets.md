@@ -113,5 +113,50 @@ func (t *TreeNode) getMax() int {
 ```
 ## Number of nodes
 ```go
+// countNodesBFS returns the total number of nodes in the tree
+// using breadth-first search (level-order traversal).
+func (t *TreeNode) countNodesBFS() int {
+	if t == nil {
+		return 0
+	}
+
+	count := 0
+	queue := []*TreeNode{t}
+
+	for len(queue) != 0 {
+		// Dequeue
+		node := queue[0]
+		queue = queue[1:]
+
+		// Increment counter instead of printing
+		count++
+
+		// Enqueue children
+		if node.LeftNode != nil {
+			queue = append(queue, node.LeftNode)
+		}
+		if node.RightNode != nil {
+			queue = append(queue, node.RightNode)
+		}
+	}
+
+	return count
+}
+
+// countNodes returns the total number of nodes in the tree (or subtree).
+// It works recursively: 
+// - if the current node is nil, count is 0
+// - otherwise, count = 1 (the current node) + nodes in left subtree + nodes in right subtree
+func (t *TreeNode) countNodes() int {
+	if t == nil {
+		// Base case: no node here
+		return 0
+	}
+	// Count current node (1) + left subtree + right subtree
+	return 1 + t.LeftNode.countNodes() + t.RightNode.countNodes()
+}
+```
+## Insert node
+```go
 
 ```
