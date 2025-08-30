@@ -158,5 +158,26 @@ func (t *TreeNode) countNodes() int {
 ```
 ## Insert node
 ```go
+// InsertNode inserts a new value into the binary search tree.
+// If the tree is empty (t == nil), it creates a new root node and returns it.
+// Otherwise, it recursively finds the correct position in the left or right subtree.
+// Returns the (possibly new) root pointer so the caller can update their reference if needed.
+func (t *TreeNode) InsertNode(val int) *TreeNode {
+	if t == nil {
+		// Base case: empty spot found, create a new node here
+		return &TreeNode{Data: val}
+	}
+
+	// If the value is smaller, insert into the left subtree
+	if val < t.Data {
+		t.LeftNode = t.LeftNode.InsertNode(val)
+	} else {
+		// If the value is greater or equal, insert into the right subtree
+		t.RightNode = t.RightNode.InsertNode(val)
+	}
+
+	// Return the unchanged root pointer
+	return t
+}
 
 ```
