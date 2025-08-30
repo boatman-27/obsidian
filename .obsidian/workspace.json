@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f73a2e426b38640",
+        "id": "273febba0d3f0335",
         "type": "tabs",
         "children": [
           {
-            "id": "c74bc03886478e5c",
+            "id": "4b6c052d90d6f105",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/232. Implement Queue using Stacks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lol"
+              "title": "232. Implement Queue using Stacks"
             }
           }
         ]
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/232. Implement Queue using Stacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lol"
+              "title": "Backlinks for 232. Implement Queue using Stacks"
             }
           },
           {
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/232. Implement Queue using Stacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lol"
+              "title": "Outgoing links from 232. Implement Queue using Stacks"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/232. Implement Queue using Stacks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lol"
+              "title": "Outline of 232. Implement Queue using Stacks"
             }
           },
           {
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/232. Implement Queue using Stacks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of lol"
+              "title": "Graph of 232. Implement Queue using Stacks"
             }
           }
         ]
@@ -294,12 +294,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c74bc03886478e5c",
+  "active": "4b6c052d90d6f105",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Queues/Queue Snippets.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/232. Implement Queue using Stacks.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/225. Implement Stack using Queues.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Stacks/Stack Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/110. Balanced Binary Tree.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/104. Maximum Depth of Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
@@ -315,13 +317,11 @@
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/217. Contains Duplicate.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Queues/Queues.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Queues/Queue Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Stacks/Stacks.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked Lists.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Circular linked lists.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Doubly linked lists.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Singly linked lists.md",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
     "06 - Assets/Pasted image 20250825145532.png",
