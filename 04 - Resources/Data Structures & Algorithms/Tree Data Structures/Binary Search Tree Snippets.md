@@ -179,5 +179,52 @@ func (t *TreeNode) InsertNode(val int) *TreeNode {
 	// Return the unchanged root pointer
 	return t
 }
+```
+## Delete node
+```go
+// DeleteNode deletes a node with the given value from the binary search tree.
+// It returns the new root of the subtree after deletion.
+func (t *TreeNode) DeleteNode(val int) *TreeNode {
+	if t == nil {
+		// Base case: tree is empty, nothing to delete
+		return nil
+	}
 
+	// Recur down the tree to find the node to delete
+	if val < t.Data {
+		// Value is smaller than current node, go left
+		t.LeftNode = t.LeftNode.DeleteNode(val)
+	} else if val > t.Data {
+		// Value is greater than current node, go right
+		t.RightNode = t.RightNode.DeleteNode(val)
+	} else {
+		// Node with the value found, handle three cases
+
+		// Case 1: Node has no children (leaf)
+		if t.LeftNode == nil && t.RightNode == nil {
+			t = nil // just remove the node
+		} else if t.LeftNode == nil {
+			// Case 2a: Node has only right child
+			temp := t.RightNode
+			t = nil       // remove current node
+			return temp   // promote right child
+		} else if t.RightNode == nil {
+			// Case 2b: Node has only left child
+			temp := t.LeftNode
+			t = nil       // remove current node
+			return temp   // promote left child
+		} else {
+			// Case 3: Node has two children
+			// Find inorder successor (smallest value in right subtree)
+			minValue := t.RightNode.getMin()
+			// Copy successor's value into current node
+			t.Data = minValue
+			// Delete the duplicate successor node from right subtree
+			t.RightNode = t.RightNode.DeleteNode(minValue)
+		}
+	}
+
+	// Return the (possibly updated) root of this subtree
+	return t
+}
 ```
