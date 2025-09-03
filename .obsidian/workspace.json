@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/111. Minimum Depth of Binary Tree.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Algorithmic Complexity"
+              "title": "111. Minimum Depth of Binary Tree"
             }
           }
         ]
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "right": {
     "id": "9677e8e60b70fe32",
@@ -235,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/111. Minimum Depth of Binary Tree.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Algorithmic Complexity"
+              "title": "Graph of 111. Minimum Depth of Binary Tree"
             }
           }
         ]
@@ -298,6 +297,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/111. Minimum Depth of Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
@@ -323,8 +324,6 @@
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Combinatorial Explosion.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
-    "], [1], [2], [], [], [.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/232. Implement Queue using Stacks.md",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
     "06 - Assets/Pasted image 20250825145532.png",
