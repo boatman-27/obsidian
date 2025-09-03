@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/111. Minimum Depth of Binary Tree.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lol"
+              "title": "111. Minimum Depth of Binary Tree"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/111. Minimum Depth of Binary Tree.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of lol"
+              "title": "Graph of 111. Minimum Depth of Binary Tree"
             }
           }
         ]
@@ -295,8 +295,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3998c0ed7b97bb80",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/111. Minimum Depth of Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
@@ -322,7 +323,6 @@
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Backtracking.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Brute Force.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Combinatorial Explosion.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
