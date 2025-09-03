@@ -4,7 +4,7 @@ tags:
   - go
 date: 2025-08-21T23:24:00
 ---
-****Selection Sort**** is a comparison-based sorting algorithm. It sorts an array by repeatedly selecting the ****smallest (or largest)**** element from the unsorted portion and swapping it with the first unsorted element. This process continues until the entire array is sorted.
+***Selection Sort*** is a comparison-based sorting algorithm. It sorts an array by repeatedly selecting the ***smallest (or largest)*** element from the unsorted portion and swapping it with the first unsorted element. This process continues until the entire array is sorted.
 
 **How it works:**
 1. Go through the array to find the lowest value.
@@ -39,7 +39,7 @@ func selectionSort(arr []int) []int {
 ---
 ## Selection Sort Time Complexity
 Selection Sort sorts an array of n values. On average, about $\dfrac{n}{2}$ elements are compared to find the lowest value in each loop. And Selection Sort must run the loop to find the lowest value approximately n times. We get time complexity: $O\left( \frac{n}{2}⋅n \right)=O(n^2)$
-****Auxiliary Space:**** O(1) as the only extra memory used is for temporary variables.
+****Auxiliary Space:**** $O(1)$ as the only extra memory used is for temporary variables.
 
 ---
 ## Advantages of Selection Sort

@@ -64,11 +64,11 @@ func improvedBubbleSort(arr []int) []int {
 The Bubble Sort algorithm loops through every value in the array, comparing it to the value next to it. So for an array of n values, there must be n such comparisons in one loop. And after one loop, the array is looped through again and again n times. This means there are $n⋅n$ comparisons done in total, so the time complexity for Bubble Sort is: $O(n^2)$
 
 ---
-## **Advantages of Bubble Sort:**
+## Advantages of Bubble Sort:
 - Bubble sort is easy to understand and implement.
 - It does not require any additional memory space.
 - It is a stable sorting algorithm, meaning that elements with the same key value maintain their relative order in the sorted output.
 
-## **Disadvantages of Bubble Sort:**
-- Bubble sort has a time complexity of O(n2) which makes it very slow for large data sets.
+## Disadvantages of Bubble Sort:
+- Bubble sort has a time complexity of $O(n^2)$ which makes it very slow for large data sets.
 - Bubble sort has almost no or limited real world applications. It is mostly used in academics to teach different ways of sorting.

@@ -42,14 +42,14 @@ Insertion Sort sorts an array of $n$ values. On average, each value must be comp
 Best case: $O(n)$ (already sorted, only one comparison each time).
 
 ---
-## **Advantages**
+## Advantages
 - Simple and easy to implement.
 - ****Stable**** sorting algorithm.
 - Efficient for small lists and nearly sorted lists.
 - Space-efficient as it is an in-place algorithm.
-## **Disadvantages**
+## Disadvantages
 - Inefficient for large lists.
 - Not as efficient as other sorting algorithms (e.g., merge sort, quick sort) for most cases.
-### Applications ****of Insertion Sort****
+### Applications of Insertion Sort
 - The list is small or nearly sorted.
 - Simplicity and stability are important.

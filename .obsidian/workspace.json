@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Divide and Conquer.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Divide and Conquer"
+              "title": "Data Structures"
             }
           }
         ]
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Divide and Conquer.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Divide and Conquer"
+              "title": "Backlinks for Data Structures"
             }
           },
           {
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Divide and Conquer.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Divide and Conquer"
+              "title": "Outgoing links from Data Structures"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Divide and Conquer.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Divide and Conquer"
+              "title": "Outline of Data Structures"
             }
           },
           {
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Divide and Conquer.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,12 +257,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 98,
-                  "scale": 0.2795663932018014,
+                  "scale": 0.20524995901448487,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Divide and Conquer"
+              "title": "Graph of Data Structures"
             }
           }
         ]
@@ -296,14 +296,25 @@
   },
   "active": "fce213614ee4a415",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Sorting Algorithms.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Quick Sort.md",
+    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
+    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Insertion Sort.md",
+    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Selection Sort.md",
+    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Bubble Sort.md",
+    "04 - Resources/Data Structures & Algorithms/Search Algorithms/Search Algorithms.md",
+    "04 - Resources/Backend Roadmap/APIs/Representational State Transfer.md",
+    "04 - Resources/TA/Numerical Maths/ENG 2 148 Mathematics 4.md",
+    "04 - Resources/Data Structures & Algorithms/Search Algorithms/Binary Search.md",
+    "04 - Resources/Data Structures & Algorithms/Search Algorithms/Linear Search.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Divide and Conquer.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Problem Solving Techniques.md",
-    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Greedy Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Backtracking.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Brute Force.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Combinatorial Explosion.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
@@ -312,17 +323,6 @@
     "04 - Resources/01_LeetCode/0004. Median of Two Sorted Arrays.md",
     "04 - Resources/01_LeetCode/0001. Two Sum.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Queues/Queue Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/225. Implement Stack using Queues.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Stacks/Stack Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/110. Balanced Binary Tree.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/104. Maximum Depth of Binary Tree.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Search Tree.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/912. Sort an Array.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/1. Two Sum.md",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
     "06 - Assets/Pasted image 20250825145532.png",

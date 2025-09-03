@@ -26,9 +26,6 @@ If we want to store data about people we are related to, we use a family tree as
 With such a family tree data structure visually in front of you, it is easy to see, for example, who my mother's mother is—it is 'Emma,' right? But without the links from child to parents that this data structure provides, it would be difficult to determine how the individuals are related.
 
 **Data structures** give us the possibility to manage large amounts of data efficiently for uses such as large databases and internet indexing services.
-
-**Data structures** are essential ingredients in creating fast and powerful algorithms. They help in managing and organizing data, reduce complexity, and increase efficiency.
-
 ### In Computer Science there are two different kinds of data structures:
 - **Primitive Data Structures** are basic data structures provided by programming languages to represent single values, such as integers, floating-point numbers, characters, and booleans.
 - **Abstract Data Structures** are higher-level data structures that are built using primitive data types and provide more complex and specialized operations. Some common examples of abstract data structures include arrays, linked lists, stacks, queues, trees, and graphs.
@@ -50,7 +47,6 @@ Algorithm examples:
 - Sorting, for example sorting movies by rating
 
 ## Data Structures together with Algorithms
-
 **Data structures and algorithms (DSA)** go hand in hand. A data structure is not worth much if you cannot search through it or manipulate it efficiently using algorithms, and the algorithms in this tutorial are not worth much without a data structure to work on.
 
 **DSA** is about finding efficient ways to store and retrieve data, to perform operations on data, and to solve specific problems.
