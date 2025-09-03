@@ -2877,6 +2877,8 @@ CeYy
 CZof
 Child
 Children
+Combinatorial
+Completeness
 Project
 Programming
 Python
@@ -5880,6 +5882,7 @@ MPi
 MCKZ
 MyStack
 MyQueue
+Matching
 Name
 Notes
 Next
@@ -8616,6 +8619,7 @@ DdS
 DVW
 Descendant
 Depending
+Despite
 Last
 Languages
 Link
@@ -12832,6 +12836,7 @@ Ssz
 Sibling
 Subtree
 SbEU
+Simplicity
 coding
 clear
 core
@@ -17420,6 +17425,7 @@ BEE
 BSTs
 Balanced
 Branch
+Baseline
 overview
 of
 objectives
@@ -18741,6 +18747,7 @@ oxZ
 overall
 odd
 overwhelming
+occurrence
 the
 to
 this
@@ -20184,6 +20191,7 @@ topmost
 traversing
 tqn
 thus
+traveling
 React
 Review
 References
@@ -23120,6 +23128,7 @@ bvv
 balanced
 bnm
 bst
+baseline
 app
 and
 any
@@ -27479,6 +27488,7 @@ OspN
 OOi
 ONNF
 OKp
+Optimization
 goals
 given
 go
@@ -28849,6 +28859,7 @@ gNY
 glL
 gtb
 game
+guarantees
 for
 functionality
 fully
@@ -33383,6 +33394,9 @@ selected
 subproblems
 solves
 satisfactory
+substring
+substrings
+salesman
 here
 how
 hello
@@ -71041,6 +71055,7 @@ kph
 kMND
 kgplz
 knl
+knapsack
 ZQ
 Zlp
 ZFt

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Problem Solving Techniques.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Backtracking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Problem Solving Techniques"
+              "title": "Backtracking"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Problem Solving Techniques.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Backtracking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Problem Solving Techniques"
+              "title": "Graph of Backtracking"
             }
           }
         ]
@@ -296,9 +296,11 @@
   },
   "active": "fce213614ee4a415",
   "lastOpenFiles": [
-    "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Brute Force.md",
-    "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Combinatorial Explosion.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Problem Solving Techniques.md",
+    "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Brute Force.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+    "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Backtracking.md",
+    "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Combinatorial Explosion.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
     "], [1], [2], [], [], [.md",
@@ -321,8 +323,6 @@
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/2. Add Two Numbers.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/347. Top K Frequent Elements.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/242. Valid Anagram.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/217. Contains Duplicate.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
     "06 - Assets/Pasted image 20250825145532.png",

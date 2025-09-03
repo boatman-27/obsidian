@@ -103,6 +103,9 @@ By understanding **DSA**, you can:
 A **[[Tree data structure]]** is a type of non-linear, hierarchical data structure that consists of nodes connected by edges. It follows the parent-child relationship, with the top node being called the root. Each node in a tree can have child nodes and each of these child nodes has a single parent node.
 
 ---
+[[Problem Solving Techniques]] is a topic that explore various methods used to solve problems in computing and mathematics. They are approaches and procedures that help in the systematic identification and resolution of complex issues
+
+---
 ## LeetCode Problems I attempted
 [[1. Two Sum]]
 [[2. Add Two Numbers]]
