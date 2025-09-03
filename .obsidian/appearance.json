@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Comfort color dark",
+  "cssTheme": "Catppuccin",
   "baseFontSize": 16,
   "baseFontSizeAction": false,
   "translucency": true,
@@ -17,5 +17,6 @@
   "showViewHeader": true,
   "showRibbon": true,
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
-  "textFontFamily": "JetBrainsMono Nerd Font"
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "theme": "obsidian"
 }
