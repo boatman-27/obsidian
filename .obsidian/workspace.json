@@ -11,10 +11,24 @@
             "id": "fce213614ee4a415",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Problem Solving Techniques.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Problem Solving Techniques"
             }
           }
         ]
@@ -220,6 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Problem Solving Techniques.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Problem Solving Techniques"
             }
           }
         ]
