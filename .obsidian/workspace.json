@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "909939f4231f8850",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "d1b7cad52d85d1fc",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Problem Solving Techniques.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lol"
+              "title": "Problem Solving Techniques"
             }
           }
         ]
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Problem Solving Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lol"
+              "title": "Backlinks for Problem Solving Techniques"
             }
           },
           {
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Problem Solving Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lol"
+              "title": "Outgoing links from Problem Solving Techniques"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Problem Solving Techniques.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lol"
+              "title": "Outline of Problem Solving Techniques"
             }
           },
           {
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Problem Solving Techniques.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of lol"
+              "title": "Graph of Problem Solving Techniques"
             }
           }
         ]
@@ -294,10 +294,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d1b7cad52d85d1fc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "], [1], [2], [], [], [.md",
+    "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Brute Force.md",
+    "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Problem Solving Techniques.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+    "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
+    "], [1], [2], [], [], [.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/232. Implement Queue using Stacks.md",
     "04 - Resources/01_LeetCode/0004. Median of Two Sorted Arrays.md",
     "04 - Resources/01_LeetCode/0001. Two Sum.md",
@@ -320,8 +323,6 @@
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/217. Contains Duplicate.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Queues/Queues.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Stacks/Stacks.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked Lists.md",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
     "06 - Assets/Pasted image 20250825145532.png",
@@ -340,7 +341,6 @@
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms",
     "04 - Resources/Data Structures & Algorithms/Search Algorithms",
     "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Hash Tables",
     "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/MindMap.canvas",
     "06 - Assets/Bisection Method Definition.png",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/MindMap.canvas",
