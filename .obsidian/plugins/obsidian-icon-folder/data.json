@@ -78,7 +78,6 @@
     "iconName": "LiStackVertical",
     "iconColor": "#9446f8"
   },
-  "04 - Resources/01_LeetCode": "LiBriefcaseBusiness",
   "04 - Resources/TA": "👨‍🏫",
   "04 - Resources/TA/Numerical Maths": "🔢",
   "04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations": "3️⃣",
@@ -125,5 +124,6 @@
   "03 - Projects/Movie Reservation System": "🎥",
   "03 - Projects/E-commerce Platform API": "LiShoppingCart",
   "04 - Resources/Data Structures & Algorithms": "LiAlertOctagon",
-  "02 - Personal/NEOVIM.md": "LiCode2"
+  "02 - Personal/NEOVIM.md": "LiCode2",
+  "04 - Resources/LeetCode": "LiBriefcaseBusiness"
 }

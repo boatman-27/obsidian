@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Kanagawa",
-  "baseFontSize": 16,
+  "cssTheme": "Comfort Dark",
+  "baseFontSize": 17,
   "baseFontSizeAction": false,
   "translucency": true,
   "nativeMenus": true,
@@ -16,7 +16,7 @@
   ],
   "showViewHeader": true,
   "showRibbon": true,
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
-  "textFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "Iosevka Nerd Font",
+  "textFontFamily": "Iosevka Nerd Font",
   "theme": "obsidian"
 }

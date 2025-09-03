@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c5b1c20276eb562e",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "fce213614ee4a415",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Structures"
+              "title": "Algorithmic Complexity"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Data Structures"
+              "title": "Graph of Algorithmic Complexity"
             }
           }
         ]
@@ -294,9 +294,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fce213614ee4a415",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Sorting Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
@@ -320,9 +323,6 @@
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
     "], [1], [2], [], [], [.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/232. Implement Queue using Stacks.md",
-    "04 - Resources/01_LeetCode/0004. Median of Two Sorted Arrays.md",
-    "04 - Resources/01_LeetCode/0001. Two Sum.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Queues/Queue Snippets.md",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
     "06 - Assets/Pasted image 20250825145532.png",
