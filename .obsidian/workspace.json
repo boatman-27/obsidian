@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/111. Minimum Depth of Binary Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "111. Minimum Depth of Binary Tree"
+              "title": "lol"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/111. Minimum Depth of Binary Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 111. Minimum Depth of Binary Tree"
+              "title": "Graph of lol"
             }
           }
         ]
@@ -295,10 +295,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3998c0ed7b97bb80",
   "lastOpenFiles": [
-    "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/111. Minimum Depth of Binary Tree.md",
+    "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
