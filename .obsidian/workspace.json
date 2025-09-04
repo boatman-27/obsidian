@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/19. Remove Nth Node From End of List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linked lists snippets"
+              "title": "19. Remove Nth Node From End of List"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/19. Remove Nth Node From End of List.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Linked lists snippets"
+              "title": "Graph of 19. Remove Nth Node From End of List"
             }
           }
         ]
@@ -297,6 +297,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/19. Remove Nth Node From End of List.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/112. Path Sum.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/3516. Find Closest Person.md",
@@ -321,8 +323,6 @@
     "04 - Resources/Data Structures & Algorithms/Search Algorithms/Linear Search.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Divide and Conquer.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Problem Solving Techniques.md",
-    "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Greedy Algorithms.md",
-    "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Backtracking.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
