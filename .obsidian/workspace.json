@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/19. Remove Nth Node From End of List.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "19. Remove Nth Node From End of List"
+              "title": "lol"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/19. Remove Nth Node From End of List.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 19. Remove Nth Node From End of List"
+              "title": "Graph of lol"
             }
           }
         ]
@@ -297,8 +297,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/19. Remove Nth Node From End of List.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/112. Path Sum.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/3516. Find Closest Person.md",
