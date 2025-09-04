@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "7839b322e40636f6",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "ed0bb6e7b41f6c47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/3217. Delete Nodes From Linked List Present in Array.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lol"
+              "title": "3217. Delete Nodes From Linked List Present in Array"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/3217. Delete Nodes From Linked List Present in Array.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of lol"
+              "title": "Graph of 3217. Delete Nodes From Linked List Present in Array"
             }
           }
         ]
@@ -295,12 +295,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ed0bb6e7b41f6c47",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/83. Remove Duplicates from Sorted List.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/3217. Delete Nodes From Linked List Present in Array.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/19. Remove Nth Node From End of List.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/112. Path Sum.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/3516. Find Closest Person.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
@@ -321,8 +323,6 @@
     "04 - Resources/TA/Numerical Maths/ENG 2 148 Mathematics 4.md",
     "04 - Resources/Data Structures & Algorithms/Search Algorithms/Binary Search.md",
     "04 - Resources/Data Structures & Algorithms/Search Algorithms/Linear Search.md",
-    "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Divide and Conquer.md",
-    "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques/Problem Solving Techniques.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
