@@ -17,13 +17,12 @@ A **leaf** is a node with no children.
 There is no root-to-leaf path with sum = 5.
 ```
 ### **Example 3:**
-```markw
+```markdown
 **Input:** root = [], targetSum = 0
 **Output:** false
 **Explanation:** Since the tree is empty, there are no root-to-leaf paths.
 ```
-**Constraints:**
-
+### **Constraints:**
 - The number of nodes in the tree is in the range `[0, 5000]`.
 - `-1000 <= Node.val <= 1000`
 - `-1000 <= targetSum <= 1000`
