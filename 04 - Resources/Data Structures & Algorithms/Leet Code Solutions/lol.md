@@ -1,23 +1,23 @@
-Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+You are given an array of integers `nums` and the `head` of a linked list. Return the `head` of the modified linked list after **removing** all nodes from the linked list that have a value that exists in `nums`.
 ### **Example 1:**
 ```markdown
-**Input:** head = [1,2,3,4,5], n = 2
-**Output:** [1,2,3,5]
+**Input:** nums = [1,2,3], head = [1,2,3,4,5]
+**Output:** [4,5]
 ```
 ### **Example 2:**
 ```markdown
-**Input:** head = [1], n = 1
-**Output:** []
+**Input:** nums = [1], head = [1,2,1,2,1,2]
+**Output:** [2,2,2]
 ```
 ### **Example 3:**
 ```markdown
-**Input:** head = [1,2], n = 1
-**Output:** [1]
+**Input:** nums = [5], head = [1,2,3,4]
+**Output:** [1,2,3,4]
 ```
 ### **Constraints:**
-- The number of nodes in the list is `sz`.
-- `1 <= sz <= 30`
-- `0 <= Node.val <= 100`
-- `1 <= n <= sz`
-
-**Follow up:** Could you do this in one pass?
+- `1 <= nums.length <= 105`
+- `1 <= nums[i] <= 105`
+- All elements in `nums` are unique.
+- The number of nodes in the given list is in the range `[1, 105]`.
+- `1 <= Node.val <= 105`
+- The input is generated such that there is at least one node in the linked list that has a value not present in `nums`.
