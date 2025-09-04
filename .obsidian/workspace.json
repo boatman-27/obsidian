@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lol"
+              "title": "Array Snippets"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of lol"
+              "title": "Graph of Array Snippets"
             }
           }
         ]
@@ -297,15 +297,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/3516. Find Closest Person.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/3516. Find Closest Person.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/112. Path Sum.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/111. Minimum Depth of Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Sorting Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Tree.md",
