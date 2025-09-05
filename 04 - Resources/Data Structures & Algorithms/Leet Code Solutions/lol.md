@@ -1,23 +1,16 @@
-You are given an array of integers `nums` and the `head` of a linked list. Return the `head` of the modified linked list after **removing** all nodes from the linked list that have a value that exists in `nums`.
+Given the `head` of a sorted linked list, _delete all duplicates such that each element appears only once_. Return _the linked list **sorted** as well_.
+
 ### **Example 1:**
 ```markdown
-**Input:** nums = [1,2,3], head = [1,2,3,4,5]
-**Output:** [4,5]
+**Input:** head = [1,1,2]
+**Output:** [1,2]
 ```
 ### **Example 2:**
 ```markdown
-**Input:** nums = [1], head = [1,2,1,2,1,2]
-**Output:** [2,2,2]
-```
-### **Example 3:**
-```markdown
-**Input:** nums = [5], head = [1,2,3,4]
-**Output:** [1,2,3,4]
+**Input:** head = [1,1,2,3,3]
+**Output:** [1,2,3]
 ```
 ### **Constraints:**
-- `1 <= nums.length <= 105`
-- `1 <= nums[i] <= 105`
-- All elements in `nums` are unique.
-- The number of nodes in the given list is in the range `[1, 105]`.
-- `1 <= Node.val <= 105`
-- The input is generated such that there is at least one node in the linked list that has a value not present in `nums`.
+- The number of nodes in the list is in the range `[0, 300]`.
+- `-100 <= Node.val <= 100`
+- The list is guaranteed to be **sorted** in ascending order.
