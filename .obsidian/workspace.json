@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Search Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Search Tree Snippets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Binary Search Tree"
+              "title": "Binary Search Tree Snippets"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Search Tree.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Search Tree Snippets.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Binary Search Tree"
+              "title": "Graph of Binary Search Tree Snippets"
             }
           }
         ]
@@ -297,10 +297,11 @@
   },
   "active": "8498413452bf567a",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Search Tree.md",
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/in-order successor.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Breadth First Search.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Tree Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Search Tree Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Search Tree.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees",
     "04 - Resources/LeetCode/1836. Remove Duplicates From an Unsorted Linked List.md",
@@ -323,7 +324,6 @@
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Merge Sort.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Insertion Sort.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Selection Sort.md",
-    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Bubble Sort.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",

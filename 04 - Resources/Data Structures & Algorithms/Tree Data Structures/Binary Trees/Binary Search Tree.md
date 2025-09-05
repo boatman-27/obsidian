@@ -25,6 +25,16 @@ A new key is always inserted at the leaf by maintaining the property of the bina
 - Initilize the current node (say, ***currNode or node***) with root node
 - Compare the ***key*** with the current node.
 - ***Move left*** if the ***key*** is less than or equal to the current node value.
-- ***Move right*** if the ****key*** is greater than current node value.
+- ***Move right*** if the ***key*** is greater than current node value.
 - Repeat steps 2 and 3 until you reach a leaf node.
-- Attach the ****new key**** as a left or right child based on the comparison with the leaf node's value.
+- Attach the ***new key*** as a left or right child based on the comparison with the leaf node's value.
+
+---
+## Delete Operation 
+To delete a node, our function must first search the BST to find it.
+After the node is found there are three different cases where deleting a node must be done differently.
+
+**How it works:**
+1. If the node is a leaf node, remove it by removing the link to it.
+2. If the node only has one child node, connect the parent node of the node you want to remove to that child node.
+3. If the node has both right and left child nodes: Find the node's in-order successor, change values with that node, then delete it.
