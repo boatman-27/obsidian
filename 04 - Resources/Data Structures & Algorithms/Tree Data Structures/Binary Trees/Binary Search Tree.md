@@ -38,3 +38,6 @@ After the node is found there are three different cases where deleting a node mu
 1. If the node is a leaf node, remove it by removing the link to it.
 2. If the node only has one child node, connect the parent node of the node you want to remove to that child node.
 3. If the node has both right and left child nodes: Find the node's in-order successor, change values with that node, then delete it.
+
+---
+## Min/Max Value 
