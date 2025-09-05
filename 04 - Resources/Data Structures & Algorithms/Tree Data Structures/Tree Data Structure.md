@@ -39,4 +39,4 @@ The data in a tree are not stored in a sequential manner i.e., they are not stor
 ---
 ### Types of Tree data structures:
 Tree data structure can be classified into three types based upon the number of children each node of the tree can have. The types are:
-- **[[Binary Tree]]**: each node can have a maximum of two children linked to it. Some common types of binary trees include full binary trees, complete binary trees, balanced binary trees, and degenerate or pathological binary trees. Examples of Binary Tree are Binary Search Tree and Binary Heap.
+- **[[Binary Tree]]**: each node can have a maximum of two children linked to it. Some common types of binary trees include full binary trees, complete binary trees, balanced binary trees, and degenerate or pathological binary trees. Examples of Binary Tree are [[Binary Search Tree]] and Binary Heap.
