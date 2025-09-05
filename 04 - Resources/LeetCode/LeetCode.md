@@ -2275,7 +2275,7 @@
 [[2275. Largest Combination With Bitwise AND Greater Than Zero]]
 [[2276. Count Integers in Intervals]]
 [[2277. Closest Node to Path in Tree]]
-[[2278. Percentage of Letter in String]]
+[[04 - Resources/LeetCode/2278. Percentage of Letter in String]]
 [[2279. Maximum Bags With Full Capacity of Rocks]]
 [[2280. Minimum Lines to Represent a Line Chart]]
 [[2281. Sum of Total Strength of Wizards]]
