@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "03aa8a82819e6ee3",
+        "id": "580b1582f5136aa4",
         "type": "tabs",
         "children": [
           {
-            "id": "8498413452bf567a",
+            "id": "6663d6e5ed4a259c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/144. Binary Tree Preorder Traversal.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/145. Binary Tree Postorder Traversal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "144. Binary Tree Preorder Traversal"
+              "title": "145. Binary Tree Postorder Traversal"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/144. Binary Tree Preorder Traversal.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/145. Binary Tree Postorder Traversal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 144. Binary Tree Preorder Traversal"
+              "title": "Graph of 145. Binary Tree Postorder Traversal"
             }
           }
         ]
@@ -295,10 +295,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8498413452bf567a",
+  "active": "6663d6e5ed4a259c",
   "lastOpenFiles": [
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/145. Binary Tree Postorder Traversal.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/144. Binary Tree Preorder Traversal.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/AVL Trees/AVL Trees.md",
     "06 - Assets/Pasted image 20250906124257.png",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/AVL Trees",
@@ -325,7 +326,6 @@
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Sorting Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Tree.md",
-    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Quick Sort.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
