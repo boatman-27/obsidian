@@ -25,3 +25,5 @@ Balance factor values
 - more than 0: The node is "right heavy".
 - less than 0: The node is "left heavy".
 If the balance factor is less than -1, or more than 1, for one or more nodes in the tree, the tree is considered not in balance, and a rotation operation is needed to restore balance.
+
+---
