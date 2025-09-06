@@ -1,19 +1,26 @@
-Given a string `s` and a character `letter`, return the **percentage** of characters in_ `s` that equal `letter` **rounded down** to the nearest whole percent.
+Given the `root` of a binary tree, return _the preorder traversal of its nodes' values_.
 ### **Example 1:**
 ```markdown
-**Input:** s = "foobar", letter = "o"
-**Output:** 33
-**Explanation:**
-The percentage of characters in s that equal the letter 'o' is 2 / 6 * 100% = 33% when rounded down, so we return 33.
+**Input:** root = [1,null,2,3]
+**Output:** [1,2,3]
 ```
 ### **Example 2:**
+```mardown
+**Input:** root = [1,2,3,4,5,null,8,null,null,6,7,9]
+**Output:** [1,2,4,5,6,7,3,8,9]
+```
+### **Example 3:**
 ```markdown
-**Input:** s = "jjjj", letter = "k"
-**Output:** 0
-**Explanation:**
-The percentage of characters in s that equal the letter 'k' is 0%, so we return 0.
+**Input:** root = []
+**Output:** []
+```
+### **Example 4:**
+```markdown
+**Input:** root = [1]
+**Output:** [1]
 ```
 ### **Constraints:**
-- `1 <= s.length <= 100`
-- `s` consists of lowercase English letters.
-- `letter` is a lowercase English letter.
+- The number of nodes in the tree is in the range `[0, 100]`.
+- `-100 <= Node.val <= 100`
+
+**Follow up:** Recursive solution is trivial, could you do it iteratively?
