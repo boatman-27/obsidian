@@ -497,6 +497,16 @@ const sampleFacts = [
 3. **DigitalOcean App Platform**
 4. **AWS Elastic Beanstalk**
 
+```bash 
+docker run --name penguin \
+  -e POSTGRES_USER=postgres \
+  -e POSTGRES_PASSWORD=Ao260221_@ \
+  -e POSTGRES_DB=penguin \
+  -p 5432:5432 \
+  -d postgres
+
+```
+
 ### Environment Variables:
 
 ```env
