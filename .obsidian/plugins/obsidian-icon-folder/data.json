@@ -6,14 +6,14 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDiamond",
       "🐧",
       "LiCode2",
       "LiAlertOctagon",
       "LiShoppingCart",
       "🎥",
       "LiServerCrash",
-      "🧋",
-      "LiFlag"
+      "🧋"
     ],
     "recentlyUsedIconsSize": 8,
     "rules": [],
@@ -126,5 +126,6 @@
   "04 - Resources/Data Structures & Algorithms": "LiAlertOctagon",
   "02 - Personal/NEOVIM.md": "LiCode2",
   "04 - Resources/LeetCode": "LiBriefcaseBusiness",
-  "03 - Projects/PENGUIN API": "🐧"
+  "03 - Projects/PENGUIN API": "🐧",
+  "04 - Resources/Backend Roadmap/PRISMA": "LiDiamond"
 }
