@@ -6,14 +6,14 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🐧",
       "LiCode2",
       "LiAlertOctagon",
       "LiShoppingCart",
       "🎥",
       "LiServerCrash",
       "🧋",
-      "LiFlag",
-      "LiBrickWall"
+      "LiFlag"
     ],
     "recentlyUsedIconsSize": 8,
     "rules": [],
@@ -125,5 +125,6 @@
   "03 - Projects/E-commerce Platform API": "LiShoppingCart",
   "04 - Resources/Data Structures & Algorithms": "LiAlertOctagon",
   "02 - Personal/NEOVIM.md": "LiCode2",
-  "04 - Resources/LeetCode": "LiBriefcaseBusiness"
+  "04 - Resources/LeetCode": "LiBriefcaseBusiness",
+  "03 - Projects/PENGUIN API": "🐧"
 }

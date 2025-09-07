@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "03 - Projects/PENGUIN API/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lol"
+              "title": "Untitled"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "03 - Projects/PENGUIN API/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of lol"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -297,9 +297,12 @@
   },
   "active": "6663d6e5ed4a259c",
   "lastOpenFiles": [
+    "03 - Projects/Untitled.md",
+    "03 - Projects/PENGUIN API/Untitled.md",
+    "03 - Projects/PENGUIN API",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/145. Binary Tree Postorder Traversal.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/144. Binary Tree Preorder Traversal.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/AVL Trees/AVL Trees.md",
     "06 - Assets/Pasted image 20250906124257.png",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/AVL Trees",
@@ -324,8 +327,6 @@
     "04 - Resources/Data Structures & Algorithms/Algorithmic Complexity/Algorithmic Complexity.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
-    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms/Sorting Algorithms.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
@@ -342,7 +343,6 @@
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
     "lol.base",
     "04 - Resources/Backend Roadmap/Version Control Systems/Untitled.base",
-    "04 - Resources/Data Structures & Algorithms/Sorting Algorithms",
     "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/MindMap.canvas",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/MindMap.canvas",
     "03 - Projects/TaskQuest/MindMap.canvas",
