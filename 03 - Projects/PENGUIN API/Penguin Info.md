@@ -196,3 +196,287 @@ Galapagos Penguins remain close to their breeding islands throughout the year. A
 The main prey items taken by Galapagos Penguin are small fish like mullet and sardines.
 
 ---
+# Gentoo Penguin
+**Scientific name:** _Pygoscelis papua_  
+  
+**Size:** 5.6 kg (m), 5.1 kg (f)  
+**Nest type:** in colonies in the open  
+**Favourite food:** krill and fish  
+  
+This is the most northern penguin of this genus and, in many other respects, the odd one out. In contrast to Chinstrap and Adelie Penguins, some Gentoo Penguins can be found around their breeding colonies all year round and they forage much closer inshore than the other two _Pygoscelis_ species.  
+  
+
+![](https://www.penguinworld.com/types/gentoo_files/gentool-2.jpg)
+
+**Identification:**  
+Gentoo Penguins are characterised by a white patch around and behind the eye that joins on the crown. The orange-red lower mandible is also a distinct feature. Two subspecies are recognised: a larger form in the sub-Antarctic and a smaller, but otherwise similar subspecies on the Antarctic Peninsula. Juveniles are very similar to adults, but the white eye-patch is not connected to their white eye-rings until they moult at an age of 14 months.  
+  
+**Habits:**  
+Colonies are usually smaller than those of other Pygoscelis penguins and are less densely packed. In the sub-Antarctic the nests are often found amongst tussocks, whereas on the Antarctic Peninsula they nest on stony ice-free areas and beaches.  
+  
+**Distribution:** [map](https://www.penguinworld.com/map/map.php "Map")  
+Mainly in the sub-Antarctic, but extending to the Antarctic Peninsula. Breeds on Staten, Falkland, South Georgia, South Sandwich, South Orkney, South Shetland, the Antarctic Peninsula, Marion, Prince Edward, Crozet, Kerguelen, Heard, and Macquarie Islands. There is some evidence that the size of colonies depend on the local width of the continental shelf, i.e. the available inshore foraging area.  
+  
+**Migration and Vagrancy:**  
+Gentoo Penguin can be found near their colonies all year round unless ice prevents access, as it can in the southern parts of their range. Nevertheless, vagrants have been found as far north as 43°S on the Argentinean coast as well as in Australia and New Zealand.  
+  
+**Diet:**  
+Dietary composition varies between season and locations but generally crustaceans, in particular krill (euphausiids), are the dominant prey in the southern part of the range, whereas benthic fish are more commonly caught in lower latitudes. Squid play only a minor role.
+
+---
+# Humboldt Penguin
+**Scientific name:** _Spheniscus humboldti_  
+**Size:** 4.9 kg (m), 4.5 kg (f)  
+**Nest type:** burrow or cave  
+**Favourite food:** small fish  
+  
+Endemic to the cold nutrient-rich waters of the Peru Current, the Humboldt Penguin breeds in a hot Mediterranean to desert climate. Populations fluctuate under the influence of El Niño events, which can cause significant breeding failure and adult starvation.  
+  
+
+![](https://www.penguinworld.com/types/humboldt_files/humboldt-2.jpg)
+
+**Identification:**  
+Similar to Magellanic Penguins, but lacks the second dark breast band and has a wider white band around the head. Humboldt Penguins also have more extensive areas of bare skin than Magellanic Penguins, including a pink fleshy patch at the base of the lower mandible. Immature birds are very similar to those of Magellanic Penguins but are generally darker on the head.  
+  
+**Habits:**  
+Humboldt Penguins nest in burrows - often dug into thick guano deposits, among boulders, in sea caves and sometimes in the open. Most birds depart the colony after sunrise and forage in close proximity to the colony. Foraging distances vary with location but Humboldt Penguins are typically inshore foragers. They are gregarious in the breeding colonies but are less so at sea. Captive birds moult once a year.  
+  
+**Distribution:** [map](https://www.penguinworld.com/map/map.php "Map")  
+Endemic to the Humboldt Current, breeding range extending from 5° S in Peru to 37°S in Chile, with isolated colonies existing as far as 42°S near Puerto Montt.  
+  
+**Migration and Vagrancy:**  
+Probably sedentary. No vagrants have been reported. However, recent satellite telemetry studies have revealed that especially in years of poor food supply, these penguins will travel large distances.  
+  
+**Diet:**  
+Small schooling fish like anchovies and sardines are the staple diet of Humboldt Penguins, supplemented with the odd squid.
+
+---
+# King Penguin
+**Scientific name:** _Aptenodytes patagonicus_  
+**Size:** 16.0 kg (m), 14.3 kg (f)  
+**Nest type:** in colonies in the open, have territories but no nest  
+**Favourite food:** fish, some squid  
+  
+No other bird has a longer breeding cycle than King Penguins. They take 14 to 16 months to fledge a single chick. During the winter, chicks may be left to fast for from one to five months (May to September/October). Adults can rear a maximum of only two chicks every three years.  
+  
+
+![](https://www.penguinworld.com/types/king_files/kingl-3-2.jpg)
+
+**Identification:**  
+The second-largest penguin species, similar in appearance to Emperor Penguin, but their ranges do not usually overlap. Cheeks are dark orange. The belly is white but the back is paler than other penguins, more of a grey than black. Immatures are similar to adults, but with duller facial plumage. Ear patches are pale yellow rather than orange and the throat is grey-white. Reaches adult plumage after two years.  
+  
+**Habits:**  
+Dense colonies, which can number several tens of thousand pairs, are located amongst tussocks, gently sloping beaches, and sometimes can be over a kilometre inland. No nest is built, but pairs still maintain territories within pecking distance of each other.  
+  
+**Distribution:** [map](https://www.penguinworld.com/map/map.php "Map")  
+Restricted to the sub-Antarctic belt, well north of Emperor Penguins. Breeding colonies are found on Falkland (re-colonised after extermination), South Georgia, Marion, Prince Edward, Crozet (over half of the world’s population), Kerguelen, Heard (re-colonised after extermination), and Macquarie Islands. At sea, King Penguins are usually found in ice-free waters. Telemetry studies have shown that they forage particularly along the polar front.  
+  
+**Migration and Vagrancy:**  
+Due to the extended breeding cycle some birds can be found in the colony at any time of the year. During winter, adults leave their chicks unattended and may travel extensively before returning. Stragglers have reached the Antarctic Peninsula, Mawson, Gough Island, South Africa, southern Australia (including Tasmania), the North and South Islands of New Zealand, as well as New Zealand’s sub-Antarctic islands.  
+  
+**Diet:**  
+King Penguins are specialised on pelagic fish, in particular laternfish of the species Electrona carlsbergi , Kreffichthys anderssoni and Protomyctophum tenisoni, which can make up over 99 % of the diet. Cephalopods play a minor role and, to an even lesser extent, so do crustaceans.
+
+---
+# Little Penguin
+**Scientific name:** _Eudyptula minor_  
+  
+**Size:** 1.2 kg (m), 1.0 kg (f)  
+**Nest type:** burrow, cave or under bushes  
+**Favourite food:** small fish  
+  
+The world’s smallest penguin (also known as Little Blue, Blue and Fairy Penguin).  
+  
+
+![](https://www.penguinworld.com/types/little_files/littlel2-2.jpg)
+
+**Identification:**  
+The Little Penguin closely resembles juveniles of the genus _[Spheniscus](https://www.penguinworld.com/types/spheniscus.html "Spheniscus")_, but their ranges do not overlap. Upper parts are pale blue to a dark grey-blue depending upon age, season and subspecies. The transition from the dark upper parts to the white plumage of the lower body is not as well defined as in other penguins, going through shades of grey and brown, especially in the face.  
+  
+**Habits:**  
+In contrast to the other species, Little Penguins are nocturnal. That means they generally do not enter the shore before dusk and leave it before dawn. They forage during the day and often will sleep beside the nest at night after they have fed chicks. This species nests in burrows, under trees, in rock crevices, and sometimes in caves. Usually nests are clustered to form colonies, but single breeding pairs are not uncommon. At sea Little Penguins are often found alone or in small groups of up to ten birds, but sometimes these groups can be much larger. Although foraging trip durations can be highly variable, Little Penguins tend to stay close to the coast.  
+  
+**Distribution:** [map](https://www.penguinworld.com/map/map.php "Map")  
+Little Penguins are widely distributed in Australia (from Western Australia along the southern coast of Australia up to New South Wales) and in New Zealand (from Northland to Stewart Island and the Chatham Islands). The White-flippered Penguin (_E. m. albosignata_) is an endangered subspecies, restricted to Banks Peninsula and Motonau Island (South Island, New Zealand) that has often been treated as a full species. Geographic variation of size, extent of white on the tail and flipper, and colour tone of the back is considerable. Six subspecies have been described: _novaehollandia_ in Australia, _iredaei_ in northern New Zealand, _variabilis_ from Cook Strait, New Zealand, _albosignata_ on Banks Peninsula, _minor_ in the lower part of the South Island, New Zealand, and _chathamensis_ from the Chatham Islands.  
+  
+**Migration and Vagrancy:**  
+Juveniles disperse widely after fledging. Adults sometimes undertake long trips at sea during the non-breeding season, but return regularly to the colony throughout the year.  
+  
+**Breeding Season and Moult:**  
+The breeding season is highly variable from place to place and in some areas from year to year. It usually begins in August/September. The first chicks fledge in November/December, but in many areas there are second or, sometimes even, third clutches laid, which can extend the breeding season up to May. Little Penguins moult once at the end of the breeding season. At Phillip Island, Australia, this occurs mainly between mid-February and mid-March. Moulting is more synchronised than laying.  
+  
+**Diet:**  
+Mainly fish, especially sardines and anchovies, but also cephalopods and to a very small degree crustaceans.
+
+---
+# Macaroni Penguin
+**Scientific name:** _Eudyptes chrysolophus_  
+  
+**Size:** 5.2 kg (m), 5.3kg (f)  
+**Nest type:** in colonies in the open  
+**Favourite food:** krill  
+  
+This is probably the most abundant of all penguins in terms of total numbers. Brood reduction is taken to an extreme by this species. The Royal Penguin (_Eudyptes chrysolophus schlegeli_), a white-faced variant, is treated as a subspecies of Macaroni Penguin here, but others accord the Royal penguin full species status.  
+  
+
+![Macaroni (5)](https://www.penguinworld.com/types/macaroni_files/macaroni-002850029.jpg)
+
+**Identification:**  
+In contrast to the other crested Penguins, this species has orange, not yellow, feather plumes. They originate from a supercilium that meets at the front, i.e. higher up the head than in other species. Macaroni Penguins are also slightly larger than the other crested penguins. Most Macaroni Penguins breeding on Macquarie Island (south of Australia) have a white face and are referred to as Royal Penguins: they are sometimes given full species status (_Eudyptes schlegeli_), although the biological basis for doing so is very doubtful. Immatures are similar to adults but lack the long feather crest. Instead only a short orange-yellow supercilium is present.  
+  
+**Habits:**  
+Breeds on rocky slopes, beaches and amongst tussocks. Most birds build a small nest from pebbles and by scraping out some mud or sand, but many pairs are content with laying their two eggs on bare rock. Egg-size dimorphism of Macaromi Penguins (and Erect-crested Penguins) is amongst the largest known for any bird. The first-laid A-egg is about 61-64% smaller than the B-egg. In most cases the A-egg is lost before or on the day the B-egg is laid, and it almost never survives to fledging even though the embryo is viable. Satellite telemetry studies indicate that Macaroni Penguins forage mainly along the polar front regularly travelling up to 400 km to reach a feeding site.  
+  
+**Distribution:** [map](https://www.penguinworld.com/map/map.php "Map")  
+The distribution of Macaroni Penguin extends from the sub-Antarctic to the Antarctic Peninsula, but overall they are found further south than the rest of the crested penguins. The range overlaps with that of the southern form of the Rockhopper Penguin. Breeding colonies are found on the Antarctic Peninsula, islands around Cape Horn, Falklands, South Georgia, South Sandwich, South Orkney, South Shetland, Bouvetøya, Prince Edward, Marion, Crozet, Kerguelen, Heard Island and Macquarie Island.  
+  
+**Migration and Vagrancy:**  
+Macaroni Penguins are migratory and found only exceptionally near land during the non-breeding season. Vagrant dark-faced birds are known from South Africa, Antarctica, Campbell Island, and The Snares. Royal Penguins have been recorded, possibly breeding, on Heard, Kerguelen, Crozet Island, and Marion Island amongst dark-faced Macaroni Penguins and stragglers have been observed as far north as North Island, New Zealand.  
+  
+**Diet:**  
+The diet is mainly composed of crustaceans. On Macquarie, euphausiids make up only half the diet by weight, with fish constituting the other half.
+
+---
+# Magellanic Penguin
+**Scientific name:** _Spheniscus magellanicus_
+
+**Size:** 4.9 kg (m), 4.6 kg (f)  
+**Nest type:** burrow or under bushes  
+**Favourite food:** small fish  
+  
+Similar to African Penguin (to which it is very closely related), but breeding on the opposite side of the Atlantic. It is also the only migratory, offshore-foraging species in this genus.  
+  
+
+![](https://www.penguinworld.com/types/magellanic_files/magellanicl-3.jpg)
+
+**Identification:**  
+It is the only _Spheniscus_ penguin found over most of its range, but overlaps the distribution of [Humboldt Penguins](https://www.penguinworld.com/types/humboldt.html "Humboldt") around Puerto Montt, Chile. Humboldt Penguins lack the second dark breast band found in Magellanic Penguin and have more extensive areas of bare facial skin. However, as both of these characters are subject to individual variation and hybrids do occur, not every bird might be identifiable. Some immature birds undergo partial head moult during winter and gain the pied head pattern of adults.  
+  
+**Habits:**  
+Breeds in burrows where digging is possible, otherwise on the surface or under bushes. Colonies form in a variety of habitats from low forests to grassland to bare rocks, often on islands or headlands. Some colonies on the Argentinean side number several hundreds of thousands of pairs.  
+  
+**Distribution:** [map](https://www.penguinworld.com/map/map.php "Map")  
+Breeds around the southern tip of South America from 40°S in Argentina to 37°S in Chile, as well as on the Falkland Islands. The largest colonies are found on the Atlantic side of South America.  
+  
+**Migration and Vagrancy:**  
+Magellanic Penguins are migratory, some birds moving as far north as Peru and Brazil in winter. Vagrants have been recorded in South Georgia, on the Antarctic Peninsula, Australia, and New Zealand.  
+  
+**Diet:**  
+Fish, mainly anchovies and sardines, are supplemented by cephalopods. Considerable variation between sites and years has been recorded, however, and one study found a small crustacean to be the main prey item.
+
+---
+# Rockhopper Penguin
+**Scientific name:** _Eudyptes chrysocome_  
+  
+**Size:** 2.5 kg (m), 2.4 kg (f)  
+**Nest type:** in colonies in the open; sometimes in association with other species  
+**Favourite food:** krill, fish and squid  
+  
+Breeding in sometimes-large colonies throughout the sub-Antarctic. Smaller than its congeners, but no less aggressive. There is some evidence that the Northern Rockhopper or Moseley’s Penguin is deserving of separate species status. Whatever, the Northern Rockhopper and Southern Rockhopper are clearly closely related and much of what applies to one probably holds for the other, but actual data are still scarce.  
+  
+
+![](https://www.penguinworld.com/types/rockhopper_files/rockhopperl-2.jpg)
+
+**Identification:**  
+Rockhoppers are distinguished from other crested penguins by their smaller size and by having only a thin yellow superscilium. The feather plumes are yellow, not orange as in Macaroni Penguin, and thinner than in the remaining Eudyptes species. The red eye is distinctive. Southern Rockhopper Penguins differ from their Northern counterparts in having a narrower supercilium and shorter plumes, which reach just over the black throat. Their vocalisations are also different. The Southern Rockhopper actually comprises two subspecies that have been described and can be identified in the field: the nominate form from South America and the Falkland Islands and the eastern subspecies filholi from the New Zealand sub-Antarctic islands. The eastern form mainly differs from the nominate subspecies in having a pink line of fleshy skin along the lower mandible which is black in the nominate subspecies. Immature birds have only a narrow supercilium and a pale mottled grey chin. Identification of juveniles is difficult. Shape of the supercilium, bill shape, body size and underwing pattern can aid identification. Separation of juvenile Southern and Northern Rockhopper Penguins in the field is probably impossible.  
+  
+**Habits:**  
+Breeding colonies are located on rocky slopes and amongst tussocks, sometimes in small caves and amongst crevices. A small nest is build from tussock, peat and pebbles. Nevertheless, most of the first-laid eggs (A-eggs) are lost during incubation. The few chicks that hatch from A-eggs almost invariably die during the first few days of brooding.  
+  
+**Distribution:** [map](https://www.penguinworld.com/map/map.php "Map")  
+The northern form of the Rockhopper Penguin breeds in cool temperate climates, generally north of the subtropical convergence, with breeding occurring on Tristan da Cunha and Gough Island in the Atlantic Ocean and St. Paul and Amsterdam Islands in the Indian Ocean. The breeding season starts three months earlier (July) than in the southern form. The latter is restricted to the northern sub-Antarctic and has a circumpolar distribution. Breeding colonies are around the Cape Horn area, Falklands, Prince Edward, Marion, Crozet, Kerguelen, Heard, Macquarie, Campbell, Auckland and Antipodes Islands. Campbell Island used to be the eastern stronghold of the species, but the population there has plummeted recently.  
+  
+**Migration and Vagrancy:**  
+The non-breeding pelagic range is poorly known. Moulting birds especially have been found in South Africa, Australia and New Zealand. The western subspecies (nominate form) has been recorded as far as the Snares Islands during moult. Vagrants of the Northern Rockhopper have been recorded on the Chatham Islands.  
+  
+**Diet:**  
+Crustaceans, in particular euphausids, make up the bulk of food items consumed during most studies of this species. Fish and cephalopods play a minor role, though one study found 53% cephalopods (by weight). Over 90% of the diet (by mass) of Northern Rockhopper Penguins breeding on Gough Island consisted of crustaceans (mainly euphausids). The remaining 10% was made up of fish and, to a very small extent, squid.
+
+---
+# Royal Penguin
+**Scientific name:** _Eudyptes schlegeli_ or _Eudyptes chrysolophus schlegeli_  
+  
+**Size:** 5.2 kg (m), 5.3kg (f)  
+**Nest type:** in colonies in the open  
+**Favourite food:** krill  
+  
+The Royal Penguin is treated as a separate penguin species (_Eudyptes schlegeli_) by some. However, other authorities highlight evidence from DNA, morphology and behaviour that points to Royal Penguins being a white-faced variant (_Eudyptes chrysolophus schlegeli_) of Macaroni Penguins.  
+  
+
+![](https://www.penguinworld.com/types/royal_files/macaronil-2.jpg)
+
+**Identification:**  
+In contrast to the other crested penguins, Royal (and Macaroni) Penguins have orange, not yellow, feather plumes. They originate from a supercilium that meets at the front; i.e. higher up the head than in other species. These penguins are also slightly larger than the other crested penguins. Royal Penguins breed on Macquarie Island and most have a white face. Immatures are similar to adults but lack the long feather crest. Instead only a short orange-yellow supercilium is present.  
+  
+**Habits:**  
+Breeds on rocky slopes, beaches and amongst tussocks. Most birds build a small nest from pebbles and by scraping out some mud or sand, but many pairs are content with laying their two eggs on bare rock. Satellite telemetry studies indicate that Royal penguins forage mainly along the Polar Front regularly travelling up to 400 km to reach a feeding site.  
+  
+**Distribution:** [map](https://www.penguinworld.com/map/map.php "Map")  
+Breeds on Macquarie Island.  
+  
+**Migration and Vagrancy:**  
+Royal penguins have been recorded, possibly breeding, on Heard, Kerguelen, Crozet Island, and Marion Island amongst dark-faced Macaroni penguins and stragglers have been observed as far north as North Island, New Zealand.  
+  
+**Diet:**  
+The diet is mainly composed of crustaceans. On Macquarie, euphausiids make up only half the diet by weight, with fish constituting the other half.
+
+---
+# Snares Penguin
+**Scientific name:** _Eudyptes robustus_
+
+**Size:** 3.3 kg (m), 2.8 kg (f)  
+**Nest type:** in colonies in the open or under forest canopy  
+**Favourite food:** krill, squid and fish  
+  
+Similar in many respects to Fiordland Penguin but endemic to the Snares Islands, which are about 100 km south of the nearest Fiordland Penguin breeding sites. With its breeding range confined to the just over 300 ha of the Snares group, it has the most restricted distribution of all penguins.  
+  
+
+![](https://www.penguinworld.com/types/snares_files/snares-2.jpg)
+
+**Identification:**  
+Similar to Fiordland Penguins (see above for differences). Differs from Erect-crested Penguins in having drooping feather plumes on the crest, the yellow facial stripe reaches further up the bill, and they have a more conical bill. The underwing pattern is highly variable and of little use for identification in the field.  
+  
+**Habits:**  
+Breeds under the canopy of Olearia forests, as well as on coastal rock. The forest often dies due to penguin guano, creating clearings. The birds build a cup nest from peat, wood and pebbles and nest in dense colonies. Similar to Fiordland Penguin, both chicks usually hatch, but only the first-hatched chick (from the B-egg) typically survives beyond the first few days.  
+  
+**Distribution:** [map](https://www.penguinworld.com/map/map.php "Map")  
+Endemic to the Snares Islands south of New Zealand. Little is known about the non-breeding distribution.  
+  
+**Migration and Vagrancy:**  
+Thought to move westwards into the Tasman Sea. Vagrants have been recorded on Macquarie Island and on the Falklands.  
+  
+**Diet:**  
+The few studies that have been undertaken indicate that this species lives mainly on euphausiids, but also takes cephalopods and a few fish.
+
+---
+# Yellow-eyed Penguin
+**Scientific name:** _Megadyptes antipodes_  
+  
+**Size:** 5.7 kg (m), 5.4kg (f)  
+**Nest type:** under dense vegetation  
+**Favourite food:** fish and squid  
+  
+The Yellow-eyed Penguin is often referred to as the rarest penguin in the world, although, unfortunately, there are others that could lay claim to that crown too: especially the Galapagos and Fiordland Penguins.  
+  
+
+![](https://www.penguinworld.com/types/yellow_files/yellowl-2.jpg)
+
+**Identification:**  
+Adults are unmistakable with their yellow eyes and yellow eye-stripes that join on the back of the head. Moulting birds and birds at sea can be confused with crested penguins. Immature birds are similar to adults but have a pale yellow chin and a less vivid yellow eye-stripe.  
+  
+**Habits:**  
+They nest in dense vegetation in dunes and coastal forest, with nests typically being isolated from each other. At sea, Yellow-eyed Penguins forage in pairs or alone.  
+  
+**Distribution:** [map](https://www.penguinworld.com/map/map.php "Map")  
+Endemic to New Zealand, Yellow-eyed Penguins breed on the east and south coast of the South Island, on and around Stewart Island, the Auckland Islands, and Campbell Islands.  
+  
+**Migration and Vagrancy:**  
+Resident. Adults can be found near the breeding colonies throughout the year. Juveniles disperse as far north as East Cape, North Island, but none have been recorded in Australia.  
+  
+**Breeding Season and Moult:**  
+Yellow-eyed penguins have a very long chick-rearing period (100 days). Consequently, breeding takes from September to February. Moult occurs at the end of the breeding period.  
+  
+**Diet:**  
+Yellow-eyed Penguins feed mainly on fish. Both, pelagic and demersal species are taken. Cephalopods are taken to a lesser extent, but may be more important for immatures and for adults in years when available fish stocks are limited.
+
+---
