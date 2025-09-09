@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Projects/PENGUIN API/Penguin API.md",
+                "file": "03 - Projects/PENGUIN API/Penguin Info.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Penguin API"
+              "title": "Penguin Info"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Projects/PENGUIN API/Penguin API.md",
+                "file": "03 - Projects/PENGUIN API/Penguin Info.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Penguin API"
+              "title": "Graph of Penguin Info"
             }
           }
         ]
@@ -297,8 +297,8 @@
   },
   "active": "6663d6e5ed4a259c",
   "lastOpenFiles": [
-    "03 - Projects/PENGUIN API/Penguin Info.md",
     "03 - Projects/PENGUIN API/Penguin API.md",
+    "03 - Projects/PENGUIN API/Penguin Info.md",
     "04 - Resources/Backend Roadmap/PRISMA/Prisma.md",
     "04 - Resources/Backend Roadmap/PRISMA",
     "03 - Projects/Untitled.md",
