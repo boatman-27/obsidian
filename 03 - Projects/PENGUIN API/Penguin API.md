@@ -71,19 +71,16 @@ const PRICING_TIERS = {
   FREE: {
     price: 0,
     requests_per_day: 100,
-    requests_per_minute: 10,
     features: ['basic_facts', 'random_facts']
   },
   BASIC: {
     price: 5, // per month
     requests_per_day: 10000,
-    requests_per_minute: 100,
     features: ['basic_facts', 'random_facts', 'species_facts', 'images']
   },
   PRO: {
     price: 15,
     requests_per_day: 100000,
-    requests_per_minute: 1000,
     features: ['all_features', 'premium_facts', 'bulk_endpoints', 'analytics']
   }
 };
