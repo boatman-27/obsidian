@@ -1,6 +1,6 @@
-## A group of penguins in the water is called a raft but on land they’re called a waddle!
+## A group of penguins in the water is called a raft but on land they’re called a waddle! Other names for a group of penguins include rookery, colony, and huddle.
 
-## The black and white “tuxedo” look donned by most penguin species is a clever camouflage called countershading.
+## The black and white “tuxedo” look donned by most penguin species is a clever camouflage called countershading.When swimming, the black on their backs helps them blend in with the darkness of the ocean from predators viewing from above. Their white bellies help them blend in with the bright surface of the ocean when viewed by predators and prey from below.
 
 ## Penguins may huddle together for several reasons, including warmth. 
 
