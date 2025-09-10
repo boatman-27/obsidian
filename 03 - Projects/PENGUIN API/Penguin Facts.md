@@ -30,4 +30,25 @@
 
 ## There’s a [**king penguin**](https://www.discover-the-world.com/holidays/antarctic-peninsula-and-south-georgia/) at Edinburgh Zoo that was knighted by the King of Norway in 2008. Sir Nils Olav holds the rank of Colonel-in-Chief in the Norwegian Guard.
 
-## 
+## **Emperor penguins** are the largest living species of penguin, reaching around 120cm (4ft) but
+
+## The, now extinct, **mega penguin** _Palaeeudyptes ,_ which lived between 37 and 40 million years ago stood 160cm tall (the average height of a woman in the UK) and, including beak and flippers would have measured 2m.
+
+## The smallest penguin is the [**little blue penguin**](https://www.discover-the-world.com/holidays/victoria-discovery/), found in New Zealand and Australia, which is only about 33cm high and 43cm long.
+
+## Gentoo penguins are the fastest species – they can reach swimming speeds up to 22 mph. Most penguins manage speeds of between 4-7mph.
+
+## Penguins will mate with the same member of the opposite sex season after season.
+
+## When they’re breeding, penguins are also similarly **loyal** to their nesting site, often the rookery in which they were born.
+
+## Most penguin chicks hatch in late December, making January and February the **[best time to visit Antarctica](https://www.discover-the-world.com/destinations/antarctica-holidays/best-time-to-visit-antarctica/)** if you want to see the young.
+
+## Both penguin parents care for their young for several months until the chicks are strong enough to hunt for food on their own.
+
+## Penguins **don’t have teeth** – they have backward-facing fleshy spines that line the inside of their mouths instead, which help them guide fish down their throats.
+
+## During the summer, a medium-sized penguin will eat about **1kg of fish**, squid, crabs, krill and other seafood each day, but in the winter they’ll eat just a third of that.
+
+## Scientists can locate large penguin colonies from space, just by looking for dark ice patches stained by penguin droppings.
+
