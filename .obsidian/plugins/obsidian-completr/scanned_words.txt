@@ -2909,6 +2909,9 @@ Considerable
 Cunha
 Crustaceans
 Consequently
+CRUD
+Connection
+COUNT
 Project
 Programming
 Python
@@ -4297,6 +4300,9 @@ Protomyctophum
 Phillip
 Paul
 Polar
+Prisma
+Pagination
+Production
 Metadata
 MongoDB
 Milestones
@@ -5951,6 +5957,7 @@ Macaroni
 Macaromi
 Moseley
 Megadyptes
+Migrations
 Name
 Notes
 Next
@@ -8703,6 +8710,7 @@ Dietary
 Dense
 DNA
 Differs
+Development
 Last
 Languages
 Link
@@ -9994,6 +10002,7 @@ Level
 Locality
 Little
 Land
+LEFT
 Updated
 Updates
 Using
@@ -12951,6 +12960,11 @@ Satellite
 Southern
 Shape
 Separation
+Scalar
+Selecting
+Sequential
+Seeding
+Safety
 coding
 clear
 core
@@ -14799,6 +14813,8 @@ conical
 coastal
 clearings
 cup
+cli
+crud
 project
 production
 problem
@@ -16367,6 +16383,7 @@ population
 pebbles
 peat
 plummeted
+prisma
 Brief
 Blockchain
 Binary
@@ -21985,6 +22002,8 @@ Restricted
 Rockhopper
 Rockhoppers
 Resident
+Relations
+Read
 based
 backend
 blockchain
@@ -25057,6 +25076,8 @@ applies
 aid
 authorities
 antipodes
+authorId
+aspects
 with
 work
 well
@@ -36521,6 +36542,7 @@ Juveniles
 Jackass
 June
 July
+JOIN
 Frameworks
 From
 Firebase
@@ -39667,6 +39689,7 @@ Edward
 Electrona
 Eudyptula
 East
+Enums
 Git
 Gaussian
 Given
@@ -41240,6 +41263,7 @@ Gentoo
 Galapagos
 Gough
 Geographic
+GROUP
 VS
 Value
 Vh
@@ -44141,6 +44165,7 @@ Inhaca
 Immatures
 Indian
 Isabela
+Including
 repository
 review
 refactor
@@ -45728,6 +45753,7 @@ reduction
 robustus
 rarest
 rearing
+relations
 dependencies
 date
 doesnt
@@ -55001,6 +55027,7 @@ mandible
 meets
 magellanicus
 morphology
+migrations
 use
 using
 up
@@ -60755,6 +60782,8 @@ Habits
 Heard
 Humboldt
 Horn
+Handling
+HAVING
 like
 last
 let
@@ -67601,6 +67630,7 @@ Western
 Wales
 White
 Whatever
+Workflow
 Keep
 Key
 Kutta
