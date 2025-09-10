@@ -2912,6 +2912,9 @@ Consequently
 CRUD
 Connection
 COUNT
+Contrary
+Colonel
+Chief
 Project
 Programming
 Python
@@ -4303,6 +4306,7 @@ Polar
 Prisma
 Pagination
 Production
+Palaeeudyptes
 Metadata
 MongoDB
 Milestones
@@ -5958,6 +5962,7 @@ Macaromi
 Moseley
 Megadyptes
 Migrations
+Macaronis
 Name
 Notes
 Next
@@ -7295,6 +7300,9 @@ North
 Nevertheless
 November
 Northern
+Norway
+Nils
+Norwegian
 Date
 Description
 Define
@@ -8711,6 +8719,7 @@ Dense
 DNA
 Differs
 Development
+Dumont
 Last
 Languages
 Link
@@ -11368,6 +11377,7 @@ UsE
 Uolp
 Upgrade
 Until
+Urville
 Status
 Setup
 Structure
@@ -12965,6 +12975,7 @@ Selecting
 Sequential
 Seeding
 Safety
+Scientists
 coding
 clear
 core
@@ -14815,6 +14826,15 @@ clearings
 cup
 cli
 crud
+clever
+camouflage
+countershading
+covering
+cartoons
+catastrophic
+century
+care
+crabs
 project
 production
 problem
@@ -20472,6 +20492,13 @@ tone
 travelling
 tip
 tussock
+tuxedo
+tendency
+tapered
+threat
+tourists
+teeth
+throats
 React
 Review
 References
@@ -23451,6 +23478,11 @@ beside
 biological
 brooding
 beyond
+bones
+buoyancy
+bears
+bloodstream
+beak
 app
 and
 any
@@ -25078,6 +25110,10 @@ authorities
 antipodes
 authorId
 aspects
+attention
+animals
+aristocrats
+afraid
 with
 work
 well
@@ -26506,6 +26542,12 @@ wider
 western
 wood
 westwards
+waddle
+warmth
+warm
+waterproof
+wild
+wife
 Objectives
 Other
 Ocean
@@ -27859,6 +27901,7 @@ October
 Orkney
 Oceans
 Olearia
+Olav
 goals
 given
 go
@@ -29240,6 +29283,8 @@ genus
 guano
 gently
 grassland
+gland
+gift
 for
 functionality
 fully
@@ -30677,6 +30722,11 @@ faced
 feeding
 forests
 filholi
+flight
+feathers
+flamboyantly
+flippers
+facing
 Add
 AI
 Absolute
@@ -32098,6 +32148,9 @@ Argentinean
 August
 Argentina
 Amsterdam
+Arctic
+Awareness
+April
 specific
 start
 section
@@ -33886,6 +33939,18 @@ shape
 stronghold
 stripes
 stocks
+swim
+swimming
+streamlined
+sneeze
+seawater
+supraorbital
+stood
+sex
+similarly
+spines
+summer
+stained
 here
 how
 hello
@@ -35304,6 +35369,10 @@ hundreds
 hatch
 highlight
 hatched
+hollow
+holiday
+hunting
+hunt
 JavaScript
 JB
 JGfA
@@ -36543,6 +36612,8 @@ Jackass
 June
 July
 JOIN
+January
+Jules
 Frameworks
 From
 Firebase
@@ -38085,6 +38156,7 @@ Fiordland
 Fernandina
 Foraging
 Fairy
+French
 Express
 Ether
 Exponent
@@ -39690,6 +39762,8 @@ Electrona
 Eudyptula
 East
 Enums
+Ecuador
+Edinburgh
 Git
 Gaussian
 Given
@@ -41264,6 +41338,7 @@ Galapagos
 Gough
 Geographic
 GROUP
+Guard
 VS
 Value
 Vh
@@ -45754,6 +45829,11 @@ robustus
 rarest
 rearing
 relations
+raft
+rid
+replace
+reaching
+rookery
 dependencies
 date
 doesnt
@@ -47483,6 +47563,11 @@ die
 drooping
 dunes
 demersal
+donned
+dedicated
+discovered
+dressed
+droppings
 YYYY
 You
 Yr
@@ -50630,6 +50715,8 @@ iredaei
 identifiable
 immature
 immatures
+ingest
+investigate
 quality
 quantity
 quantifies
@@ -53315,6 +53402,7 @@ yfKN
 yIZ
 yJs
 ypv
+young
 me
 month
 methods
@@ -55028,6 +55116,11 @@ meets
 magellanicus
 morphology
 migrations
+mega
+measured
+mph
+mate
+mouths
 use
 using
 up
@@ -56405,6 +56498,7 @@ underwing
 undertaken
 unfortunately
 unmistakable
+underwater
 journal
 join
 jQ
@@ -59511,6 +59605,10 @@ extends
 exceptionally
 euphausids
 eyed
+evolved
+explorer
+extinct
+eat
 However
 Hash
 Here
@@ -62133,6 +62231,9 @@ latitudes
 lacks
 laternfish
 laying
+lose
+loyal
+late
 not
 note
 nodes
@@ -63473,6 +63574,7 @@ nocturnal
 novaehollandia
 narrower
 nominate
+neck
 Questions
 Quadratic
 Qpg
@@ -71833,6 +71935,7 @@ knapsack
 kids
 krill
 kilometre
+knighted
 ZQ
 Zlp
 ZFt
