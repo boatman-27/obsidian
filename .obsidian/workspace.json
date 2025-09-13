@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Projects/PENGUIN API/Penguin API.md",
+                "file": "03 - Projects/PENGUIN API/Penguin Info.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Penguin API"
+              "title": "Penguin Info"
             }
           }
         ]
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "right": {
     "id": "9677e8e60b70fe32",
@@ -234,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Projects/PENGUIN API/Penguin API.md",
+                "file": "03 - Projects/PENGUIN API/Penguin Info.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Penguin API"
+              "title": "Graph of Penguin Info"
             }
           }
         ]
