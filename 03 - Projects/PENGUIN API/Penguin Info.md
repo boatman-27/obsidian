@@ -390,7 +390,7 @@ The northern form of the Rockhopper Penguin breeds in cool temperate climates, g
 The non-breeding pelagic range is poorly known. Moulting birds especially have been found in South Africa, Australia and New Zealand. The western subspecies (nominate form) has been recorded as far as the Snares Islands during moult. Vagrants of the Northern Rockhopper have been recorded on the Chatham Islands.  
   
 **Diet:**  
-Crustaceans, in particular euphausids, make up the bulk of food items consumed during most studies of this species. Fish and cephalopods play a minor role, though one study found 53% cephalopods (by weight). Over 90% of the diet (by mass) of Northern Rockhopper Penguins breeding on Gough Island consisted of crustaceans (mainly euphausids). The remaining 10% was made up of fish and, to a very small extent, squid.
+Crustaceans, in particular euphausids, make up the bulk of food items consumed during most studies of this species. Fish and cephalopods play a minor role, though one study found 53% cephalopods (by weight). Over 90% of the diet (by mass) of Northern Rockhopper Penguins breeding on Gough Island consisted of crustaceans (mainly euphausiids). The remaining 10% was made up of fish and, to a very small extent, squid.
 
 ---
 # Royal Penguin
