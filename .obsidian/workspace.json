@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
+                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Floating Point Representation"
+              "title": "WS2025 Theory behind the questions"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
+                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Floating Point Representation"
+              "title": "Graph of WS2025 Theory behind the questions"
             }
           }
         ]
@@ -297,10 +297,11 @@
   },
   "active": "6663d6e5ed4a259c",
   "lastOpenFiles": [
+    "06 - Assets/Pasted image 20250915100743.png",
+    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
     "06 - Assets/Pasted image 20250915092814.png",
     "04 - Resources/TA/Numerical Maths/ENG 2 148 Mathematics 4.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
     "04 - Resources/TA/Numerical Maths/Chapter 6_ODEs/Ordinary Differential Equations (ODEs).md",
     "04 - Resources/TA/Numerical Maths/PDFs/Chapter_6_Notes.pdf",
     "04 - Resources/TA/Numerical Maths/PDFs/Chapter_6_Solutions Q3,4.pdf",

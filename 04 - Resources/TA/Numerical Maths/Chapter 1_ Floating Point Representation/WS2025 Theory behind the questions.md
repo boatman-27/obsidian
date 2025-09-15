@@ -6,7 +6,6 @@ date: 2025-09-15T09:27:00
 ## Question 1
 
 ![[Pasted image 20250915092814.png]]
-
 ### 1. Why DC bus current matters
 In power electronics (think inverters, converters, motor drives, UPS systems), the **DC bus** is the main energy highway inside the system. You usually start with rectified AC or a battery, and this creates a DC link (the “bus”).
 - The **DC bus current** tells you how much power is flowing through the system.
@@ -63,3 +62,37 @@ So in summary:
 - IEEE-754 is the universal way to represent fractional real numbers in binary.
 - Floating-point is chosen over integers because of its huge range and precision.
 - –25.125 A is just the practical example.
+---
+## Question 2
+
+![[Pasted image 20250915100743.png]]
+
+---
+### 1. Why floating-point in data acquisition?
+Industrial systems live in the real world, where sensor outputs aren’t neat integers. Voltage can be **tiny** (millivolts) or **large** (hundreds of volts), and it usually has **fractional parts**. Storing those values as fixed-point integers would either:
+- Clip the large numbers, or
+- Lose all precision in the small ones.
+
+Floating-point (IEEE-754) solves that by giving a **huge dynamic range** and **fractional accuracy**, all in a fixed 32-bit format. That way, any device (microcontroller, logger, PC) can read the same binary pattern and decode the same real number without arguments.
+
+---
+### 2. Structure of IEEE-754 binary32 (single precision)
+The 32 bits are split up:
+- **1 bit**: sign (0 for +, 1 for –)
+- **8 bits**: exponent (stored with a bias of 127)
+- **23 bits**: fraction (mantissa)
+
+Value is interpreted as:
+``` ini
+(–1)^sign × (1 + mantissa) × 2^(exponent – 127)
+```
+This format ensures you always have a **normalized form** (leading 1 before the binary point) for nonzero numbers, which maximizes precision.
+
+---
+### 3. Why the bias again?
+Because exponents can be positive or negative, but hardware doesn’t want to deal with signed fields. By adding a bias (127 for single precision), all exponents are stored as unsigned integers. For example:
+- Exponent –1 → stored as 126
+- Exponent 0 → stored as 127
+- Exponent +3 → stored as 130
+
+This makes sorting, comparisons, and hardware decoding far easier.
