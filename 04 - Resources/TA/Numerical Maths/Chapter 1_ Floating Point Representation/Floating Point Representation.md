@@ -171,7 +171,7 @@ $$
 
 ## Relative Error Bound and Significant Digits
 
-For a number \( p \), if the relative error \( r.e. \) satisfies:
+For a number $p$, if the relative error $r.e.$ satisfies:
 
 $$
 r.e. = \frac{|p - p^*|}{|p|} \leq 5 \cdot 10^{-t}
@@ -192,7 +192,7 @@ $$
 \log_{10}(r.e.) \leq \log_{10} 5 - t
 $$
 
-Rearranging to solve for \( t \):
+Rearranging to solve for $t$:
 
 $$
 t \leq \log_{10} \frac{5}{r.e.}

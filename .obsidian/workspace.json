@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Projects/PENGUIN API/Penguin API.md",
+                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Penguin API"
+              "title": "Floating Point Representation"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Projects/PENGUIN API/Penguin API.md",
+                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Penguin API"
+              "title": "Graph of Floating Point Representation"
             }
           }
         ]
@@ -297,9 +297,12 @@
   },
   "active": "6663d6e5ed4a259c",
   "lastOpenFiles": [
+    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Conditioning of a problem.md",
+    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
+    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Absolute and Relative Errors.md",
+    "03 - Projects/PENGUIN API/Penguin API.md",
     "03 - Projects/PENGUIN API/Penguin Info.md",
     "03 - Projects/PENGUIN API/Penguin Facts.md",
-    "03 - Projects/PENGUIN API/Penguin API.md",
     "04 - Resources/Backend Roadmap/PRISMA/Prisma.md",
     "04 - Resources/Backend Roadmap/PRISMA",
     "03 - Projects/Untitled.md",
@@ -325,9 +328,6 @@
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/112. Path Sum.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/3516. Find Closest Person.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Arrays.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Arrays/Array Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/111. Minimum Depth of Binary Tree.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
