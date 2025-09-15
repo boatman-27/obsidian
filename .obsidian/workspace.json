@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
+                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "WS2025 Theory behind the questions"
+              "title": "Floating Point Representation"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
+                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of WS2025 Theory behind the questions"
+              "title": "Graph of Floating Point Representation"
             }
           }
         ]
@@ -297,9 +297,9 @@
   },
   "active": "6663d6e5ed4a259c",
   "lastOpenFiles": [
+    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
     "06 - Assets/Pasted image 20250915092814.png",
     "04 - Resources/TA/Numerical Maths/ENG 2 148 Mathematics 4.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
     "04 - Resources/TA/Numerical Maths/Chapter 6_ODEs/Ordinary Differential Equations (ODEs).md",
     "04 - Resources/TA/Numerical Maths/PDFs/Chapter_6_Notes.pdf",
@@ -340,7 +340,6 @@
     "06 - Assets/f1-1.jpg",
     "06 - Assets/Brown Wooden Book Shelf.jpg",
     "06 - Assets/Aurora Phenomenon Unsplash.jpg",
-    "06 - Assets/asgard-realm-gods-aesir-s-celestial-home-nordic-mythology-viking-mythology-landscape_1041587-634.avif",
     "Untitled 1.base",
     "Untitled.base",
     "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/MindMap.canvas",
