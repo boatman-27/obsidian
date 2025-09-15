@@ -96,3 +96,35 @@ Because exponents can be positive or negative, but hardware doesn’t want to de
 - Exponent +3 → stored as 130
 
 This makes sorting, comparisons, and hardware decoding far easier.
+
+## Question 3
+![[Pasted image 20250915104656.png]]
+
+### 1. **PLC – Programmable Logic Controller**
+A PLC is basically a tiny, rugged industrial computer designed to **control machines, processes, or systems**.
+- Think of it as the brain of a factory line, motor drive, or chemical process.
+- It reads inputs (like sensors: pressure, temperature, voltage) and writes outputs (like turning a motor on/off, opening a valve).
+- It runs **deterministic logic**, meaning it responds exactly and reliably in real-time, which is why you don’t want a normal PC doing this.
+
+Key points:
+- Industrial-grade: can survive heat, dust, vibration.
+- Uses languages like Ladder Logic, Function Block, or Structured Text.
+- Continuously loops through reading inputs, processing logic, updating outputs.
+
+---
+### 2. **HMI – Human-Machine Interface**
+HMI is the **interface humans use to see and interact with machines**
+- Basically, the “screen and buttons” for operators.
+- Shows **real-time sensor values, alarms, trends, or logs**.
+- Lets operators **change setpoints, start/stop processes, or acknowledge alarms**.
+
+Key points:
+- Can be a touchscreen panel on the factory floor, or software on a PC.
+- Pulls data from the PLC (or other controllers).
+- Makes invisible industrial processes visible and manageable.
+
+---
+So in your pressure-sensor example:
+- **PLC**: reads the pressure sensor, logs it in IEEE-754 format.
+- **HMI**: takes the PLC’s data, decodes it to decimal, and shows “Pressure = 57 kPa” on the screen.
+
