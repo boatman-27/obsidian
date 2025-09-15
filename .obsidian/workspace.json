@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
+                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Floating Point Representation"
+              "title": "WS2025 Theory behind the questions"
             }
           }
         ]
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
+                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Floating Point Representation"
+              "title": "Graph of WS2025 Theory behind the questions"
             }
           }
         ]
@@ -297,8 +297,16 @@
   },
   "active": "6663d6e5ed4a259c",
   "lastOpenFiles": [
-    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Conditioning of a problem.md",
+    "04 - Resources/TA/Numerical Maths/ENG 2 148 Mathematics 4.md",
+    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
+    "04 - Resources/TA/Numerical Maths/Chapter 6_ODEs/Ordinary Differential Equations (ODEs).md",
+    "04 - Resources/TA/Numerical Maths/PDFs/Chapter_6_Notes.pdf",
+    "04 - Resources/TA/Numerical Maths/PDFs/Chapter_6_Solutions Q3,4.pdf",
+    "04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations/Solution of Linear Systems.md",
+    "04 - Resources/TA/Numerical Maths/Chapter 5_Numerical Differentiation & Integration/Numerical Integration and Differentiation Approximations.md",
+    "04 - Resources/TA/Numerical Maths/Chapter 4_Interpolation/Numerical Interpolation and Approximations.md",
+    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Conditioning of a problem.md",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Absolute and Relative Errors.md",
     "03 - Projects/PENGUIN API/Penguin API.md",
     "03 - Projects/PENGUIN API/Penguin Info.md",
@@ -322,12 +330,6 @@
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees",
     "04 - Resources/LeetCode/1836. Remove Duplicates From an Unsorted Linked List.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/83. Remove Duplicates from Sorted List.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/3217. Delete Nodes From Linked List Present in Array.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/19. Remove Nth Node From End of List.md",
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/112. Path Sum.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/3516. Find Closest Person.md",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
     "06 - Assets/Pasted image 20250825210644.png",
     "06 - Assets/Pasted image 20250825204441.png",
@@ -341,8 +343,6 @@
     "06 - Assets/asgard-realm-gods-aesir-s-celestial-home-nordic-mythology-viking-mythology-landscape_1041587-634.avif",
     "Untitled 1.base",
     "Untitled.base",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions",
-    "lol.base",
     "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/MindMap.canvas",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/MindMap.canvas",
     "03 - Projects/TaskQuest/MindMap.canvas",
