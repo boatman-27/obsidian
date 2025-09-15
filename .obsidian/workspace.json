@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "WS2025 Theory behind the questions"
             }
+          },
+          {
+            "id": "919a9c538cf94a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lol.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "lol"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
+                "file": "lol.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +287,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of WS2025 Theory behind the questions"
+              "title": "Graph of lol"
             }
           }
         ]
@@ -295,12 +320,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6663d6e5ed4a259c",
+  "active": "919a9c538cf94a50",
   "lastOpenFiles": [
+    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
+    "lol.md",
     "06 - Assets/Pasted image 20250915104656.png",
     "06 - Assets/Pasted image 20250915100743.png",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
     "06 - Assets/Pasted image 20250915092814.png",
     "04 - Resources/TA/Numerical Maths/ENG 2 148 Mathematics 4.md",
     "04 - Resources/TA/Numerical Maths/Chapter 6_ODEs/Ordinary Differential Equations (ODEs).md",
@@ -340,7 +366,6 @@
     "06 - Assets/Pasted image 20250207215348.png",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures",
     "06 - Assets/f1-1.jpg",
-    "06 - Assets/Brown Wooden Book Shelf.jpg",
     "Untitled 1.base",
     "Untitled.base",
     "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/MindMap.canvas",
