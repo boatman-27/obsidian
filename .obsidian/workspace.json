@@ -110,8 +110,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -281,7 +280,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3998c0ed7b97bb80",
   "lastOpenFiles": [
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
     "lol.md",
