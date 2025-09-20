@@ -3,8 +3,6 @@ tags:
   - random
   - programming
 ---
-
-
 This document provides an overview of how to set up a Next.js project, understand its file structure, handle routing and navigation, work with images (including external sources), use server and client components, implement dynamic routing and loading states, and create API routes.
 
 ---

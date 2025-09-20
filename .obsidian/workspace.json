@@ -11,10 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/Randoms/Next.js Detailed Guide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Next.js Detailed Guide"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "next file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +124,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -283,6 +296,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Resources/Backend Roadmap/PRISMA/Prisma.md",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
     "lol.md",
     "06 - Assets/Pasted image 20250915104656.png",
@@ -301,7 +315,6 @@
     "03 - Projects/PENGUIN API/Penguin API.md",
     "03 - Projects/PENGUIN API/Penguin Info.md",
     "03 - Projects/PENGUIN API/Penguin Facts.md",
-    "04 - Resources/Backend Roadmap/PRISMA/Prisma.md",
     "04 - Resources/Backend Roadmap/PRISMA",
     "03 - Projects/Untitled.md",
     "03 - Projects/PENGUIN API",
