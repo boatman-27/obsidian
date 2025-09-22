@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Randoms/Next.js Detailed Guide.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Next.js Detailed Guide"
+              "title": "Untitled"
             }
           }
         ]
@@ -296,6 +296,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Resources/Randoms/Next.js Detailed Guide.md",
+    "Untitled.md",
     "04 - Resources/Backend Roadmap/PRISMA/Prisma.md",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
     "lol.md",
@@ -329,8 +331,6 @@
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Search Tree.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/in-order successor.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Breadth First Search.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Tree Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Tree Data Structure.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
     "06 - Assets/Pasted image 20250825210644.png",
