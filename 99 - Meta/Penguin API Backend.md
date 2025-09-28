@@ -86,11 +86,14 @@ Create a `.env` file in the root directory:
 
 ```env
 # Database
+	# Connect to Supabase via connection pooling
 DATABASE_URL="postgresql://username:password@host:port/database"
+	# Direct connection to the database. Used for migrations
 DIRECT_URL="postgresql://username:password@host:port/database"
 
 # JWT
 ACCESS_SECRET="your-jwt-secret-key"
+REFRESH_SECRET="your-jwt-refresh-secret"
 
 # Email Service
 RESEND_API_KEY="your-resend-api-key"
@@ -107,30 +110,25 @@ PORT=3000
 ### Core Models
 
 #### Users
-
 - User accounts with authentication
 - Links to API keys and usage analytics
 - Password reset functionality
 
 #### ApiKey
-
 - API key management with hashing and lookup
 - Rate limiting per key
 - Usage tracking and statistics
 
 #### Species
-
 - Comprehensive penguin species data
 - Physical characteristics, conservation status
 - Related distribution, diet, and migration data
 
 #### Facts
-
 - Curated penguin facts with sources
 - Used for random fact endpoints
 
 #### Analytics Models
-
 - ApiUsage: Detailed request logging
 - Geographic and endpoint usage tracking
 
@@ -159,7 +157,7 @@ GET /public/facts/sample   # Sample facts (no auth required)
 GET /public/food           # Available food types
 GET /public/regions        # Available regions
 GET /public/conservations  # Conservation statuses
-GET /v1/facts/random       # Random fact (no )
+GET /v1/facts/random       # Random fact (no key needed)
 ```
 
 #### Facts (API Key Required)
@@ -390,14 +388,12 @@ bunx prisma db seed
 ```
 
 ## Rate Limiting
-
 - Default: 1000 requests per day per API key
 - Automatic reset at midnight
 - Usage tracking and notifications
 - Graceful error handling when limits exceeded
 
 ## Contributing
-
 1. Follow TypeScript best practices
 2. Use the existing error handling patterns
 3. Add proper input validation
@@ -406,9 +402,13 @@ bunx prisma db seed
 6. Test authentication and authorization flows
 
 ## License
+Copyright 2025 Adham Osman
 
-[Add your license information here]
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Support
-
-For questions or support, please contact [your-contact-information].
+For questions or support, please contact [adham4603@gmail.com].
