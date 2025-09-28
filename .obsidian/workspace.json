@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "next file:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -294,7 +294,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8c04803e8f9de835",
+  "active": "3998c0ed7b97bb80",
   "lastOpenFiles": [
     "99 - Meta/Penguin API Backend.md",
     "Untitled.md",

@@ -8,18 +8,18 @@ date: 2025-09-28T12:56:00
 A comprehensive REST API providing detailed information about penguin species, facts, and analytics. Built with TypeScript, Express, Prisma ORM, and PostgreSQL.
 
 ## Table of Contents
-- [Features](https://claude.ai/chat/0c673241-088c-43e9-86b8-30348544a956#features)
-- [Tech Stack](https://claude.ai/chat/0c673241-088c-43e9-86b8-30348544a956#tech-stack)
-- [Getting Started](https://claude.ai/chat/0c673241-088c-43e9-86b8-30348544a956#getting-started)
-- [Environment Variables](https://claude.ai/chat/0c673241-088c-43e9-86b8-30348544a956#environment-variables)
-- [Database Schema](https://claude.ai/chat/0c673241-088c-43e9-86b8-30348544a956#database-schema)
-- [API Routes](https://claude.ai/chat/0c673241-088c-43e9-86b8-30348544a956#api-routes)
-- [Authentication](https://claude.ai/chat/0c673241-088c-43e9-86b8-30348544a956#authentication)
-- [Error Handling](https://claude.ai/chat/0c673241-088c-43e9-86b8-30348544a956#error-handling)
-- [Usage Analytics](https://claude.ai/chat/0c673241-088c-43e9-86b8-30348544a956#usage-analytics)
-- [Email Services](https://claude.ai/chat/0c673241-088c-43e9-86b8-30348544a956#email-services)
-- [Development](https://claude.ai/chat/0c673241-088c-43e9-86b8-30348544a956#development)
-- [Deployment](https://claude.ai/chat/0c673241-088c-43e9-86b8-30348544a956#deployment)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Environment Variables](#environment-variables)
+- [Database Schema](#database-schema)
+- [API Routes](#api-routes)
+- [Authentication](#authentication)
+- [Error Handling](#error-handling)
+- [Usage Analytics](#usage-analytics)
+- [Email Services](#email-services)
+- [Development](#development)
+- [Deployment](#deployment)
 
 ## Features
 - **Comprehensive Penguin Data**: Species information, distribution, diet, migration patterns
@@ -64,7 +64,7 @@ cd penguin-api
 bun install
 ```
 
-3. Set up environment variables (see [Environment Variables](https://claude.ai/chat/0c673241-088c-43e9-86b8-30348544a956#environment-variables))
+3. Set up environment variables (see [Environment Variables])
 4. Set up the database:
 
 ```bash
@@ -141,31 +141,35 @@ PORT=3000
 #### Authentication
 
 ```
-POST /auth/register          # User registration
-POST /auth/login            # User login
-POST /auth/forgot-password  # Password reset request
-POST /auth/reset-password   # Complete password reset
+POST   /auth/register         # User registration
+POST   /auth/login            # User login
+POST   /auth/logout           # User logout
+GET    /auth/login            # checks if user is logged in
+PATCH  /auth/update-password  # updates user password
+PATCH  /auth/update-user      # updates user data(email, name, company)
+DELETE /auth/delete-user      # delete user 
+POST   /auth/forgot-password  # Password reset request
+POST   /auth/reset-password   # Complete password reset
 ```
 
 #### Public Data
 
 ```
-GET /public/facts/sample    # Sample facts (no auth required)
-GET /public/pricing        # Pricing tier information
+GET /public/facts/sample   # Sample facts (no auth required)
 GET /public/food           # Available food types
 GET /public/regions        # Available regions
 GET /public/conservations  # Conservation statuses
+GET /v1/facts/random       # Random fact (no )
 ```
 
 #### Facts (API Key Required)
 
 ```
 GET /v1/facts              # Get fact by ID
-GET /v1/facts/random       # Random fact (no auth)
 GET /v1/facts/search       # Search facts
 ```
 
-#### Species (Public)
+#### Species (API Key Required)
 
 ```
 GET /v1/species/full                    # All species data
@@ -188,16 +192,16 @@ GET /v1/species/range-population        # Population range filter
 #### User Management
 
 ```
-GET /public/keys           # Get user's API keys
-POST /public/keys          # Generate new API key
-PATCH /public/keys         # Rename API key
-DELETE /public/keys        # Delete API key
+GET    /public/keys           # Get user's API keys
+POST   /public/keys           # Generate new API key
+PATCH  /public/keys           # Rename API key
+DELETE /public/keys           # Delete API key
 ```
 
 #### Analytics
 
 ```
-GET /analytics/overview           # Usage overview
+GET /analytics/overview          # Usage overview
 GET /analytics/usage             # Usage analytics
 GET /analytics/keys              # Key usage stats
 GET /analytics/endpoints         # Endpoint statistics
@@ -242,23 +246,10 @@ The API uses custom error classes for consistent error responses:
 - `RateLimitError` (429): Rate limit exceeded
 - `InternalServerError` (500): Server errors
 
-### Error Response Format
-
-```json
-{
-  "success": false,
-  "error": {
-    "name": "ValidationError",
-    "message": "Invalid email format",
-    "status": 400
-  }
-}
-```
 
 ## Usage Analytics
 
 The system provides comprehensive analytics for API usage:
-
 ### Tracked Metrics
 
 - Request counts and success rates
@@ -398,23 +389,9 @@ bunx prisma db seed
 }
 ```
 
-### Error Response
-
-```json
-{
-  "success": false,
-  "error": {
-    "name": "ValidationError",
-    "message": "Description of the error",
-    "status": 400
-  }
-}
-```
-
 ## Rate Limiting
 
 - Default: 1000 requests per day per API key
-- Configurable per pricing tier
 - Automatic reset at midnight
 - Usage tracking and notifications
 - Graceful error handling when limits exceeded
