@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/15. 3Sum.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lol"
+              "title": "15. 3Sum"
             }
           }
         ]
@@ -296,6 +296,9 @@
   },
   "active": "8c04803e8f9de835",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/15. 3Sum.md",
+    "04 - Resources/Data Structures & Algorithms/Untitled.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/226. Invert Binary Tree.md",
     "99 - Meta/Penguin API Backend.md",
     "Untitled.md",
@@ -322,15 +325,12 @@
     "04 - Resources/Backend Roadmap/PRISMA",
     "03 - Projects/Untitled.md",
     "03 - Projects/PENGUIN API",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/145. Binary Tree Postorder Traversal.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/144. Binary Tree Preorder Traversal.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/AVL Trees/AVL Trees.md",
     "06 - Assets/Pasted image 20250906124257.png",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/AVL Trees",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/2278. Percentage of Letter in String.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Search Tree Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Search Tree.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
     "06 - Assets/Pasted image 20250825210644.png",
