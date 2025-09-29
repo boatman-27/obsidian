@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/Penguin API Backend.md",
+                "file": "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Penguin API Backend"
+              "title": "lol"
             }
           }
         ]
@@ -294,8 +294,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3998c0ed7b97bb80",
+  "active": "8c04803e8f9de835",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/226. Invert Binary Tree.md",
     "99 - Meta/Penguin API Backend.md",
     "Untitled.md",
     "04 - Resources/Randoms/Next.js Detailed Guide.md",
@@ -330,7 +331,6 @@
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/2278. Percentage of Letter in String.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Search Tree Snippets.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Search Tree.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/in-order successor.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees",
     "04 - Resources/Data Structures & Algorithms/Problem Solving Techniques",
     "06 - Assets/Pasted image 20250825210644.png",
