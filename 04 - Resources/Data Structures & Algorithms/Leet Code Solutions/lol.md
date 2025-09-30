@@ -1,18 +1,20 @@
-You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`. Find two lines that together with the x-axis form a container, such that the container contains the most water.
+Given the `root` of a binary tree, return _the level order traversal of its nodes' values_. (i.e., from left to right, level by level).
 
-Return _the maximum amount of water a container can store_. **Notice** that you may not slant the container.
 ### **Example 1:**
 ```markdown
-**Input:** height = [1,8,6,2,5,4,8,3,7]
-**Output:** 49
-**Explanation:** The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+**Input:** root = [3,9,20,null,null,15,7]
+**Output:** [[3],[9,20],[15,7]]
 ```
 ### **Example 2:**
 ```markdown
-**Input:** height = [1,1]
-**Output:** 1
+**Input:** root = [1]
+**Output:** [[1]]
+```
+### **Example 3:**
+```markdown
+**Input:** root = []
+**Output:** []
 ```
 ### **Constraints:**
-- `n == height.length`
-- `2 <= n <= 105`
-- `0 <= height[i] <= 104`
+- The number of nodes in the tree is in the range `[0, 2000]`.
+- `-1000 <= Node.val <= 1000`
