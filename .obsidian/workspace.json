@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Backend Roadmap/PRISMA/Prisma.md",
+                "file": "04 - Resources/Backend Roadmap/Full Roadmap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prisma"
+              "title": "Full Roadmap"
             }
           }
         ]
@@ -296,6 +296,9 @@
   },
   "active": "8c04803e8f9de835",
   "lastOpenFiles": [
+    "04 - Resources/Backend Roadmap/Version Control Systems/Version Control Systems.md",
+    "04 - Resources/Backend Roadmap/Full Roadmap.md",
+    "04 - Resources/Backend Roadmap/PRISMA/Prisma.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/102. Binary Tree Level Order Traversal.md",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Search Tree Snippets.md",
@@ -305,7 +308,6 @@
     "99 - Meta/Penguin API Backend.md",
     "Untitled.md",
     "04 - Resources/Randoms/Next.js Detailed Guide.md",
-    "04 - Resources/Backend Roadmap/PRISMA/Prisma.md",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
     "lol.md",
     "06 - Assets/Pasted image 20250915104656.png",
@@ -327,8 +329,6 @@
     "04 - Resources/Backend Roadmap/PRISMA",
     "03 - Projects/Untitled.md",
     "03 - Projects/PENGUIN API",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/145. Binary Tree Postorder Traversal.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/144. Binary Tree Preorder Traversal.md",
     "06 - Assets/Pasted image 20250906124257.png",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/AVL Trees",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees",
