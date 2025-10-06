@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Bisection Method.md",
+                "file": "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Newton's Method.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bisection Method"
+              "title": "Newton's Method"
             }
           }
         ]
@@ -296,6 +296,7 @@
   },
   "active": "8c04803e8f9de835",
   "lastOpenFiles": [
+    "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Bisection Method.md",
     "04 - Resources/Backend Roadmap/Full Roadmap.md",
     "04 - Resources/Backend Roadmap/Version Control Systems/Version Control Systems.md",
     "04 - Resources/Backend Roadmap/PRISMA/Prisma.md",
@@ -327,7 +328,6 @@
     "03 - Projects/PENGUIN API/Penguin Info.md",
     "03 - Projects/PENGUIN API/Penguin Facts.md",
     "04 - Resources/Backend Roadmap/PRISMA",
-    "03 - Projects/Untitled.md",
     "03 - Projects/PENGUIN API",
     "06 - Assets/Pasted image 20250906124257.png",
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/AVL Trees",
