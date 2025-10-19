@@ -11,10 +11,24 @@
             "id": "522296531ebc0c3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/Randoms/PIHOLE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PIHOLE"
             }
           }
         ]
@@ -282,6 +296,7 @@
   },
   "active": "522296531ebc0c3e",
   "lastOpenFiles": [
+    "04 - Resources/Randoms/PIHOLE.md",
     "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Newton's Method.md",
     "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Bisection Method.md",
     "04 - Resources/Backend Roadmap/Full Roadmap.md",
@@ -312,7 +327,6 @@
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Conditioning of a problem.md",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Absolute and Relative Errors.md",
     "03 - Projects/PENGUIN API/Penguin API.md",
-    "03 - Projects/PENGUIN API/Penguin Info.md",
     "04 - Resources/Backend Roadmap/PRISMA",
     "03 - Projects/PENGUIN API",
     "06 - Assets/Pasted image 20250906124257.png",
