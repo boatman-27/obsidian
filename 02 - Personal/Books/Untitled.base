@@ -1,0 +1,10 @@
+filters:
+  and:
+    - file.folder == "02 - Personal/Books"
+    - '!file.hasLink("02 - Personal/Books/Untitled.base")'
+views:
+  - type: cards
+    name: View
+    image: note.coverUrl
+    imageFit: contain
+    imageAspectRatio: 1.15

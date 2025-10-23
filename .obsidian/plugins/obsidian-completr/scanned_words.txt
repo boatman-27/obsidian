@@ -1428,6 +1428,7 @@ TPq
 TmG
 Tmes
 Tzz
+Times
 Coding
 Created
 Code
@@ -3030,6 +3031,8 @@ Cuj
 Computers
 Clip
 Continuously
+Christopher
+Cycle
 Project
 Programming
 Python
@@ -4480,6 +4483,9 @@ PLC
 Programmable
 Pulls
 Pressure
+Proud
+Paolini
+Publishers
 Metadata
 MongoDB
 Milestones
@@ -7624,6 +7630,7 @@ NLc
 NXltM
 Nkid
 Notice
+NYT
 Date
 Description
 Define
@@ -13534,6 +13541,8 @@ SKl
 SjrG
 ShV
 SScaE
+Storm
+Sunday
 coding
 clear
 core
@@ -15480,6 +15489,8 @@ converters
 charging
 chemical
 controllers
+coverUrl
+coverSmallUrl
 project
 production
 problem
@@ -17127,6 +17138,10 @@ pasted
 prove
 pressure
 postorder
+publisher
+publishDate
+peril
+previewLink
 Brief
 Blockchain
 Binary
@@ -18461,6 +18476,7 @@ Bmn
 BFO
 Bkuf
 Basically
+Brave
 overview
 of
 objectives
@@ -21428,6 +21444,7 @@ tLne
 torque
 turning
 touchscreen
+totalPage
 React
 Review
 References
@@ -23038,6 +23055,8 @@ REUY
 RduA
 Ryb
 RSc
+Rebecca
+Returning
 based
 backend
 blockchain
@@ -24572,6 +24591,8 @@ battery
 braking
 badly
 buttons
+breathtaking
+bestselling
 app
 and
 any
@@ -26265,6 +26286,8 @@ agreement
 acquisition
 alarms
 acknowledge
+authors
+awesome
 with
 work
 well
@@ -29216,6 +29239,7 @@ OSmO
 Onh
 OBO
 OFZ
+Onyx
 goals
 given
 go
@@ -32206,6 +32230,7 @@ fingers
 fraction
 factory
 floor
+fifteen
 Add
 AI
 Absolute
@@ -35571,6 +35596,9 @@ sensor
 sensors
 setpoints
 slant
+subtitle
+scintillating
+starred
 here
 how
 hello
@@ -39978,6 +40006,8 @@ FvX
 FeU
 FwF
 FYK
+Fiction
+Flame
 Express
 Ether
 Exponent
@@ -44720,6 +44750,7 @@ VcB
 Vxk
 VaXB
 Voltage
+Violet
 Initialize
 In
 Issues
@@ -46342,6 +46373,7 @@ IXm
 IXwb
 IpT
 Imagine
+Iron
 repository
 review
 refactor
@@ -48020,6 +48052,8 @@ rectified
 regulating
 rugged
 reliably
+richly
+romantasy
 dependencies
 date
 doesnt
@@ -49830,6 +49864,8 @@ decode
 decoding
 dust
 drawn
+deadlier
+dragons
 YYYY
 You
 Yr
@@ -51370,6 +51406,7 @@ Yty
 YOe
 Yuye
 YPg
+Yarros
 implementation
 improve
 it
@@ -53166,6 +53203,11 @@ interpreted
 industrial
 invisible
 invert
+imagined
+instalment
+isbn
+imageFit
+imageAspectRatio
 quality
 quantity
 quantifies
@@ -57776,6 +57818,7 @@ machines
 millivolts
 microcontroller
 maximizes
+magics
 use
 using
 up
@@ -62517,6 +62560,7 @@ eHby
 eEH
 electronics
 encode
+ever
 However
 Hash
 Here
@@ -66693,6 +66737,7 @@ nYe
 nZG
 nddK
 normalized
+novels
 Questions
 Quadratic
 Qpg
@@ -71046,6 +71091,8 @@ WOu
 WZD
 WqAf
 WtDv
+WSOY
+Wing
 Keep
 Key
 Kutta
@@ -72581,6 +72628,7 @@ Kckuy
 KmHZ
 KXK
 KfX
+Kirkus
 zero
 zeros
 zJ

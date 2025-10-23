@@ -23,5 +23,6 @@
   "templater-obsidian",
   "obsidian-latex-suite",
   "obsidian-5e-statblocks",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-book-search-plugin"
 ]
