@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
+                "file": "02 - Personal/Books/Iron Flame - Rebecca Yarros.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linked lists snippets"
+              "title": "Iron Flame - Rebecca Yarros"
+            }
+          },
+          {
+            "id": "240c4da93d490f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Personal/Books/Fourth Wing - Rebecca Yarros.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Fourth Wing - Rebecca Yarros"
             }
           }
         ]
@@ -297,9 +321,12 @@
   },
   "active": "fd66727fa96a2422",
   "lastOpenFiles": [
-    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked Lists.md",
+    "02 - Personal/Books/Fourth Wing - Rebecca Yarros.md",
     "02 - Personal/Books/Read Books.base",
+    "02 - Personal/Books/Iron Flame - Rebecca Yarros.md",
     "02 - Personal/Books/Onyx Storm - Rebecca Yarros.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked Lists.md",
     "02 - Personal/Books/Drawing 2025-10-23 17.45.16.excalidraw.md",
     "02 - Personal/Drawing With Turtle.md",
     "04 - Resources/Randoms/PIHOLE.md",
@@ -324,12 +351,8 @@
     "06 - Assets/Pasted image 20250915100743.png",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
     "06 - Assets/Pasted image 20250915092814.png",
-    "04 - Resources/TA/Numerical Maths/ENG 2 148 Mathematics 4.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 6_ODEs/Ordinary Differential Equations (ODEs).md",
     "04 - Resources/TA/Numerical Maths/PDFs/Chapter_6_Notes.pdf",
     "04 - Resources/TA/Numerical Maths/PDFs/Chapter_6_Solutions Q3,4.pdf",
-    "04 - Resources/TA/Numerical Maths/Chapter 3_Systems of Linear Equations/Solution of Linear Systems.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 5_Numerical Differentiation & Integration/Numerical Integration and Differentiation Approximations.md",
     "04 - Resources/Backend Roadmap/PRISMA",
     "03 - Projects/PENGUIN API",
     "06 - Assets/Pasted image 20250906124257.png",
