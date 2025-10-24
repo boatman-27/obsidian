@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "9c04075b4f83fd3f",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "fd66727fa96a2422",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Linked lists snippets"
             }
           }
         ]
@@ -112,8 +124,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,9 +295,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fd66727fa96a2422",
   "lastOpenFiles": [
-    "02 - Personal/Books/Untitled.base",
+    "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked Lists.md",
+    "02 - Personal/Books/Read Books.base",
     "02 - Personal/Books/Onyx Storm - Rebecca Yarros.md",
     "02 - Personal/Books/Drawing 2025-10-23 17.45.16.excalidraw.md",
     "02 - Personal/Drawing With Turtle.md",
