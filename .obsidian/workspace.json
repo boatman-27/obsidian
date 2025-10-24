@@ -11,13 +11,24 @@
             "id": "fd66727fa96a2422",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "02 - Personal/Books/Untitled.base",
-                "viewName": "View"
+                "file": "02 - Personal/Books/Ugly Love - Colleen Hoover.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Ugly Love - Colleen Hoover"
             }
           }
         ]
@@ -286,10 +297,15 @@
   },
   "active": "fd66727fa96a2422",
   "lastOpenFiles": [
+    "02 - Personal/Books/Untitled.base",
+    "02 - Personal/Books/Ugly Love - Colleen Hoover.md",
+    "02 - Personal/Books/It Starts with Us - Colleen Hoover.md",
+    "02 - Personal/Books/It Ends with Us - Colleen Hoover.md",
+    "02 - Personal/Books/Pride and Prejudice - Jane Austen.md",
+    "02 - Personal/Books/The Prisoner of Zenda - Anthony Hope.md",
     "02 - Personal/Books/A Tale of Two Cities - Charles Dickens.md",
     "99 - Meta/Task Quest Readme.md",
     "02 - Personal/Books/Onyx Storm - Rebecca Yarros.md",
-    "02 - Personal/Books/Untitled.base",
     "02 - Personal/Books/The Alchemist - Paulo Coelho.md",
     "02 - Personal/Books/The Midnight Library - Matt Haig.md",
     "02 - Personal/Books/Iron Flame - Rebecca Yarros.md",
@@ -309,12 +325,6 @@
     "04 - Resources/Backend Roadmap/Version Control Systems/Version Control Systems.md",
     "04 - Resources/Backend Roadmap/PRISMA/Prisma.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/lol.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/102. Binary Tree Level Order Traversal.md",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/Binary Search Tree Snippets.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/15. 3Sum.md",
-    "04 - Resources/Data Structures & Algorithms/Untitled.md",
-    "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/226. Invert Binary Tree.md",
-    "99 - Meta/Penguin API Backend.md",
     "06 - Assets/Pasted image 20250915104656.png",
     "06 - Assets/Pasted image 20250915100743.png",
     "06 - Assets/Pasted image 20250915092814.png",
