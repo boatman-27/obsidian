@@ -11,48 +11,13 @@
             "id": "fd66727fa96a2422",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "02 - Personal/Books/Iron Flame - Rebecca Yarros.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "02 - Personal/Books/Untitled.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "Iron Flame - Rebecca Yarros"
-            }
-          },
-          {
-            "id": "240c4da93d490f82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Personal/Books/Fourth Wing - Rebecca Yarros.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Fourth Wing - Rebecca Yarros"
+              "icon": "lucide-layout-grid",
+              "title": "Untitled"
             }
           }
         ]
@@ -321,10 +286,17 @@
   },
   "active": "fd66727fa96a2422",
   "lastOpenFiles": [
-    "02 - Personal/Books/Fourth Wing - Rebecca Yarros.md",
-    "02 - Personal/Books/Read Books.base",
-    "02 - Personal/Books/Iron Flame - Rebecca Yarros.md",
+    "02 - Personal/Books/A Tale of Two Cities - Charles Dickens.md",
+    "99 - Meta/Task Quest Readme.md",
     "02 - Personal/Books/Onyx Storm - Rebecca Yarros.md",
+    "02 - Personal/Books/Untitled.base",
+    "02 - Personal/Books/The Alchemist - Paulo Coelho.md",
+    "02 - Personal/Books/The Midnight Library - Matt Haig.md",
+    "02 - Personal/Books/Iron Flame - Rebecca Yarros.md",
+    "02 - Personal/Books/Read Books.base",
+    "02 - Personal/Books/Untitled.md",
+    "02 - Personal/Books/Iron Flame - Rebecca Yarros 1.md",
+    "02 - Personal/Books/Fourth Wing - Rebecca Yarros.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked lists snippets.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Linked Lists/Linked Lists.md",
     "02 - Personal/Books/Drawing 2025-10-23 17.45.16.excalidraw.md",
@@ -343,13 +315,8 @@
     "04 - Resources/Data Structures & Algorithms/Untitled.md",
     "04 - Resources/Data Structures & Algorithms/Leet Code Solutions/226. Invert Binary Tree.md",
     "99 - Meta/Penguin API Backend.md",
-    "Untitled.md",
-    "04 - Resources/Randoms/Next.js Detailed Guide.md",
-    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/WS2025 Theory behind the questions.md",
-    "lol.md",
     "06 - Assets/Pasted image 20250915104656.png",
     "06 - Assets/Pasted image 20250915100743.png",
-    "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/Floating Point Representation.md",
     "06 - Assets/Pasted image 20250915092814.png",
     "04 - Resources/TA/Numerical Maths/PDFs/Chapter_6_Notes.pdf",
     "04 - Resources/TA/Numerical Maths/PDFs/Chapter_6_Solutions Q3,4.pdf",
@@ -364,7 +331,6 @@
     "06 - Assets/Pasted image 20250825145532.png",
     "06 - Assets/Pasted image 20250207223220.png",
     "06 - Assets/Pasted image 20250207215348.png",
-    "04 - Resources/Data Structures & Algorithms/Tree Data Structures",
     "06 - Assets/f1-1.jpg",
     "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/MindMap.canvas",
     "04 - Resources/TA/Numerical Maths/Chapter 1_ Floating Point Representation/MindMap.canvas",
