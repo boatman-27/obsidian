@@ -15,3 +15,6 @@ at ModuleLoader.resolve (node:internal/modules/esm/loader:694:38)
 at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:308:38)
 
 at ModuleJob._link (node:internal/modules/esm/module_job:183:49)
+
+
+https://www.reddit.com/r/relationship_advice/comments/17qv2y0/how_do_i_28f_move_forward_from_a_disappointing/
