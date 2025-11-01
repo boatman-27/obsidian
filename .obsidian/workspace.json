@@ -11,10 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/in-order successor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "in-order successor"
             }
           }
         ]
@@ -281,8 +295,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3998c0ed7b97bb80",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/in-order.md",
     "03 - Projects/3SMC/Untitled Kanban.md",
     "Untitled.md",
     "03 - Projects/3SMC",
@@ -312,7 +327,6 @@
     "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Newton's Method.md",
     "04 - Resources/TA/Numerical Maths/Chapter 2_Solution_of_non_linear_equations/Bisection Method.md",
     "04 - Resources/Backend Roadmap/Full Roadmap.md",
-    "04 - Resources/Backend Roadmap/Version Control Systems/Version Control Systems.md",
     "06 - Assets/Pasted image 20250915104656.png",
     "06 - Assets/Pasted image 20250915100743.png",
     "06 - Assets/Pasted image 20250915092814.png",
