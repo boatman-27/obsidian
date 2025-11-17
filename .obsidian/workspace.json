@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "bada2befff11ec9c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "ccecd642203b9db7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -112,8 +124,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,7 +295,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ccecd642203b9db7",
   "lastOpenFiles": [
     "04 - Resources/Data Structures & Algorithms/Tree Data Structures/Binary Trees/in-order successor.md",
     "03 - Projects/Untitled.md",
