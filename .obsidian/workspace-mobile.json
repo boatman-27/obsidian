@@ -214,12 +214,12 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "templater-obsidian:Templater": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Untitled.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
     "04 - Resources/Backend Roadmap/APIs/Authentication.md",
@@ -227,7 +227,6 @@
     "23/11",
     "23",
     "04 - Resources/Backend Roadmap/Relational Database/RDBMS.md",
-    "Untitled.md",
     "08 - configs/Gmail code.md",
     "04 - Resources/Backend Roadmap/APIs/JWT Tokens.md"
   ]
