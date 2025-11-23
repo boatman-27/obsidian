@@ -3,3 +3,5 @@ Type '{ user: { userId: string; email: string; uniId: string; firstName: string;
   
   
   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
+
+Hi
