@@ -11,24 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "04 - Resources/Backend Roadmap/APIs/JWT Tokens.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "02 - Personal/Books/Untitled.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "JWT Tokens"
+              "icon": "lucide-layout-grid",
+              "title": "Untitled"
             }
           }
         ]
@@ -220,17 +209,25 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "23/11/2025.md",
+    "Untitled Kanban.md",
+    "23/11",
+    "23",
+    "Excalidraw/Drawing 2025-11-23 18.29.20.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-23 18.29.16.excalidraw.md",
+    "Excalidraw",
+    "Untitled.base",
+    "02 - Personal/NEOVIM.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "02 - Personal/Books/Untitled.base",
+    "04 - Resources/Backend Roadmap/APIs/JWT Tokens.md",
     "04 - Resources/Backend Roadmap/APIs/APIs.md",
     "03 - Projects/3SMC/Untitled.md",
-    "Untitled.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures/Data Structures.md",
     "04 - Resources/Backend Roadmap/APIs/Authentication.md",
-    "23/11/2025.md",
-    "23/11",
-    "23",
     "04 - Resources/Backend Roadmap/Relational Database/RDBMS.md",
-    "08 - configs/Gmail code.md",
-    "04 - Resources/Backend Roadmap/APIs/JWT Tokens.md"
+    "08 - configs/Gmail code.md"
   ]
 }
