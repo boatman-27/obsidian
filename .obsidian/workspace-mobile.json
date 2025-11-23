@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Resources/Backend Roadmap/APIs/APIs.md",
+                "file": "04 - Resources/Backend Roadmap/APIs/JWT Tokens.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "APIs"
+              "title": "JWT Tokens"
             }
           }
         ]
@@ -220,6 +220,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04 - Resources/Backend Roadmap/APIs/APIs.md",
     "03 - Projects/3SMC/Untitled.md",
     "Untitled.md",
     "04 - Resources/Data Structures & Algorithms/Data Structures & Algorithms.md",
