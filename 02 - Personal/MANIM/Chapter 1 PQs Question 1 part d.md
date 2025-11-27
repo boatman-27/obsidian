@@ -156,3 +156,6 @@ class Question1D(Scene):
 	self.play(FadeOut(parametric_curve))
 	self.wait(1)
 ```
+
+
+94292215
